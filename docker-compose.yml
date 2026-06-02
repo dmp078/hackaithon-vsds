@@ -1,0 +1,45 @@
+services:
+  app-offline:
+    build: .
+    profiles: ["offline"]
+    volumes:
+      - ./data:/data
+      - ./output:/output
+    command:
+      [
+        "--input",
+        "/data/sample_public_test.json",
+        "--output",
+        "/output/pred.csv",
+        "--solver-mode",
+        "heuristic",
+        "--answer-format",
+        "letter"
+      ]
+
+  app-real:
+    build: .
+    profiles: ["real"]
+    environment:
+      SOLVER_MODE: llm
+      LLM_PROVIDER: ollama
+      OLLAMA_BASE_URL: http://host.docker.internal:11434
+      OLLAMA_MODEL: qwen3.5:9b
+    volumes:
+      - ./data:/data
+      - ./output:/output
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command:
+      [
+        "--input",
+        "/data/sample_public_test.json",
+        "--output",
+        "/output/pred.csv",
+        "--solver-mode",
+        "llm",
+        "--provider",
+        "ollama",
+        "--limit",
+        "3"
+      ]

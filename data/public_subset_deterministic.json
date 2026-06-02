@@ -1,0 +1,64 @@
+[
+  {
+    "qid": "test_0002",
+    "question": "Nếu bảng cầu của một sản phẩm cho thấy tại mức giá 5 đô la, lượng cầu là 150 đơn vị, và tại mức giá 3 đô la, lượng cầu là 250 đơn vị, thì độ co giãn của cầu theo giá giữa hai điểm này là bao nhiêu?",
+    "choices": [
+      "0.5",
+      "1.0",
+      "2.0",
+      "2.5"
+    ]
+  },
+  {
+    "qid": "test_0006",
+    "question": "Xét một phản ứng hóa học trong đó nồng độ của chất phản ứng $ B $ giảm theo thời gian theo phương trình vi phân $ \\frac{dB}{dt} = -k B $, trong đó $ k $ là một hằng số dương. Nếu nồng độ ban đầu của $ B $ là $ B_0 $, thì nồng độ của $ B $ tại thời điểm $ t $ là bao nhiêu?",
+    "choices": [
+      "$ B(t) = B_0 e^{-kt} $",
+      "$ B(t) = \\frac{B_0}{1 + kB_0 t} $",
+      "$ B(t) = B_0 (1 - kt) $",
+      "$ B(t) = \\frac{B_0}{1 - kt} $",
+      "$ B(t) = B_0 (1 + kt) $",
+      "$ B(t) = B_0 e^{kt} $",
+      "$ B(t) = \\frac{B_0}{1 + k t} $",
+      "$ B(t) = B_0 (1 - k t) $",
+      "$ B(t) = \\frac{B_0}{1 + B_0 t} $",
+      "$ B(t) = B_0 (1 + B_0 t) $"
+    ]
+  },
+  {
+    "qid": "test_0007",
+    "question": "Một trong các biểu hiện của biến đổi khí hậu là gì?",
+    "choices": [
+      "Sự giảm nồng độ khí CO2 trong khí quyển",
+      "Mực nước biển dâng cao do tan băng",
+      "Tăng diện tích rừng tự nhiên",
+      "Khí hậu không thay đổi trong hàng nghìn năm"
+    ]
+  },
+  {
+    "qid": "test_0008",
+    "question": "Trong một năm nhất định, GDP danh nghĩa của một quốc gia là 500 tỷ USD và GDP thực tế là 400 tỷ USD. Nếu chỉ số giá GDP của năm trước là 100, thì tỷ lệ lạm phát cho năm hiện tại là bao nhiêu?",
+    "choices": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ]
+  },
+  {
+    "qid": "test_0013",
+    "question": "Một bể hình trụ đang được đổ đầy nước với tốc độ không đổi là 20 cm³/s. Bán kính của bể là 5 cm. Hỏi tốc độ thay đổi chiều cao của mực nước trong bể khi chiều cao là 10 cm là bao nhiêu?",
+    "choices": [
+      "$ 0.25 $ cm/s",
+      "$ 0.5 $ cm/s",
+      "$ 0.75 $ cm/s",
+      "$ 1.0 $ cm/s",
+      "$ 1.25 $ cm/s",
+      "$ 1.5 $ cm/s",
+      "$ 1.75 $ cm/s",
+      "$ 2.0 $ cm/s",
+      "$ 2.25 $ cm/s",
+      "$ 2.5 $ cm/s"
+    ]
+  }
+]

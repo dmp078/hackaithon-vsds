@@ -1,0 +1,37 @@
+[
+  {
+    "qid": "test_0001",
+    "question": "Thủ đô của Việt Nam là gì?",
+    "choices": ["Hà Nội", "Huế", "Đà Nẵng", "Hải Phòng"]
+  },
+  {
+    "qid": "test_0002",
+    "question": "2 + 2 bằng bao nhiêu?",
+    "choices": ["3", "4", "5", "6"]
+  },
+  {
+    "qid": "test_0003",
+    "question": "Một trong các biểu hiện của biến đổi khí hậu là gì?",
+    "choices": [
+      "Sự giảm nồng độ khí CO2 trong khí quyển",
+      "Mực nước biển dâng cao do tan băng",
+      "Tăng diện tích rừng tự nhiên",
+      "Khí hậu không thay đổi trong hàng nghìn năm"
+    ]
+  },
+  {
+    "qid": "test_0004",
+    "question": "Chọn số lớn nhất.",
+    "choices": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "qid": "test_0005",
+    "question": "Chọn một phương án bất kỳ để kiểm tra hai lựa chọn.",
+    "choices": ["Lựa chọn thứ nhất", "Lựa chọn thứ hai"]
+  },
+  {
+    "qid": "test_0006",
+    "question": "Chọn một phương án bất kỳ để kiểm tra duplicate choices.",
+    "choices": ["Giống nhau", "Khác", "Giống nhau", "Khác nữa"]
+  }
+]
