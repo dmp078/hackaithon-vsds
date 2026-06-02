@@ -8,5 +8,8 @@ output/*.json
 output/*.jsonl
 logs/*.log
 .DS_Store
+public-test*.json
+submission*.csv
+data/public_subset*.json
 !output/.gitkeep
 !logs/.gitkeep
