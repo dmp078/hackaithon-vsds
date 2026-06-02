@@ -6,7 +6,7 @@ import time
 from app.answer_parser import parse_selected_index
 from app.config import AppConfig
 from app.models import Prediction, QuestionItem
-from app.prompt_builder import build_prompt, build_repair_prompt
+from app.prompt_builder import build_prompt_variants, build_repair_prompt
 from app.providers.base import LLMProvider
 from app.solvers.base import QuestionSolver
 
@@ -22,7 +22,7 @@ class LLMSolver(QuestionSolver):
         started = time.perf_counter()
         last_error: str | None = None
         last_response: str | None = None
-        base_prompt = build_prompt(question)
+        base_prompt, full_prompt = build_prompt_variants(question)
 
         LOGGER.debug("Question %s input length: %s chars", question.qid, len(question.question))
         if len(question.question) > 6000:
@@ -32,7 +32,11 @@ class LLMSolver(QuestionSolver):
             prompt = (
                 base_prompt
                 if attempt == 0 or last_response is None
-                else build_repair_prompt(last_response, len(question.choices) - 1, base_prompt)
+                else build_repair_prompt(
+                    last_response,
+                    len(question.choices) - 1,
+                    full_prompt,
+                )
             )
             try:
                 last_response = self.provider.generate(question, prompt)

@@ -48,9 +48,10 @@ def _parse_json_candidate(candidate: str, choice_count: int) -> int | None:
         return None
 
     selected_index = payload.get("selected_index")
-    if isinstance(selected_index, bool) or not isinstance(selected_index, int):
+    normalized_index = _coerce_integer_like_value(selected_index)
+    if normalized_index is None:
         raise ValueError("selected_index must be an integer")
-    return _validate_selected_index(selected_index, choice_count)
+    return _validate_selected_index(normalized_index, choice_count)
 
 
 def _extract_json_object(value: str) -> str | None:
@@ -75,3 +76,19 @@ def _validate_selected_index(selected_index: int, choice_count: int) -> int:
     if selected_index >= choice_count:
         raise ValueError("selected_index is out of range")
     return selected_index
+
+
+def _coerce_integer_like_value(value: object) -> int | None:
+    if isinstance(value, bool):
+        return None
+    if isinstance(value, int):
+        return value
+    if isinstance(value, float):
+        if value.is_integer():
+            return int(value)
+        return None
+    if isinstance(value, str):
+        normalized = value.strip()
+        if re.fullmatch(r"[+-]?\d+", normalized):
+            return int(normalized)
+    return None

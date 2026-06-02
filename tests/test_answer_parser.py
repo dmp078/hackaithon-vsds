@@ -19,6 +19,14 @@ def test_parse_integer_only_response() -> None:
     assert parse_selected_index("2", 4) == 2
 
 
+def test_parse_json_with_numeric_string() -> None:
+    assert parse_selected_index('{"selected_index": "2"}', 4) == 2
+
+
+def test_parse_json_with_integer_like_float() -> None:
+    assert parse_selected_index('{"selected_index": 2.0}', 4) == 2
+
+
 def test_reject_negative_index() -> None:
     with pytest.raises(ValueError):
         parse_selected_index('{"selected_index": -1}', 4)
