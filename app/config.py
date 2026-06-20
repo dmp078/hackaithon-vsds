@@ -41,6 +41,14 @@ class AppConfig:
     max_retries: int = 1
     log_level: str = "INFO"
     limit: int | None = None
+    retrieval_mode: str = "off"
+    retrieval_top_k: int = 4
+    retrieval_max_characters: int = 3500
+    retrieval_kb_path: Path = field(default_factory=lambda: Path("knowledge_base/reference_documents.json"))
+    retrieval_embeddings_path: Path = field(default_factory=lambda: Path("embeddings/bge_m3_reference_documents.json"))
+    retrieval_embedding_model: str = "bge-m3"
+    retrieval_reranker_mode: str = "off"
+    retrieval_reranker_model: str = "qwen-rerank"
 
     @classmethod
     def from_env(cls) -> "AppConfig":
@@ -73,6 +81,16 @@ class AppConfig:
             fallback_index=int(os.getenv("FALLBACK_INDEX", "0")),
             max_retries=int(os.getenv("MAX_RETRIES", "1")),
             log_level=os.getenv("LOG_LEVEL", "INFO"),
+            retrieval_mode=os.getenv("RETRIEVAL_MODE", "off"),
+            retrieval_top_k=int(os.getenv("RETRIEVAL_TOP_K", "4")),
+            retrieval_max_characters=int(os.getenv("RETRIEVAL_MAX_CHARACTERS", "3500")),
+            retrieval_kb_path=Path(os.getenv("RETRIEVAL_KB_PATH", "knowledge_base/reference_documents.json")),
+            retrieval_embeddings_path=Path(
+                os.getenv("RETRIEVAL_EMBEDDINGS_PATH", "embeddings/bge_m3_reference_documents.json")
+            ),
+            retrieval_embedding_model=os.getenv("RETRIEVAL_EMBEDDING_MODEL", "bge-m3"),
+            retrieval_reranker_mode=os.getenv("RETRIEVAL_RERANKER_MODE", "off"),
+            retrieval_reranker_model=os.getenv("RETRIEVAL_RERANKER_MODEL", "qwen-rerank"),
         )
 
     def with_overrides(
@@ -85,6 +103,8 @@ class AppConfig:
         output_path: Path | None = None,
         log_level: str | None = None,
         limit: int | None = None,
+        retrieval_mode: str | None = None,
+        retrieval_reranker_mode: str | None = None,
     ) -> "AppConfig":
         return AppConfig(
             solver_mode=solver_mode or self.solver_mode,
@@ -114,4 +134,12 @@ class AppConfig:
             max_retries=self.max_retries,
             log_level=log_level or self.log_level,
             limit=limit,
+            retrieval_mode=retrieval_mode or self.retrieval_mode,
+            retrieval_top_k=self.retrieval_top_k,
+            retrieval_max_characters=self.retrieval_max_characters,
+            retrieval_kb_path=self.retrieval_kb_path,
+            retrieval_embeddings_path=self.retrieval_embeddings_path,
+            retrieval_embedding_model=self.retrieval_embedding_model,
+            retrieval_reranker_mode=retrieval_reranker_mode or self.retrieval_reranker_mode,
+            retrieval_reranker_model=self.retrieval_reranker_model,
         )

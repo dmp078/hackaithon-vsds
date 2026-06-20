@@ -27,6 +27,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--num-predict", type=int, default=32)
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--think", action="store_true")
+    parser.add_argument("--retrieval", choices=["off", "on"], default="off")
+    parser.add_argument("--retrieval-reranker", choices=["off", "on"], default="off")
     parser.add_argument("--log-level", default="INFO")
     return parser.parse_args()
 
@@ -45,6 +47,8 @@ def main() -> int:
         ollama_num_predict=args.num_predict,
         ollama_temperature=args.temperature,
         ollama_think=args.think,
+        retrieval_mode=args.retrieval,
+        retrieval_reranker_mode=args.retrieval_reranker,
         limit=args.limit,
         log_level=args.log_level,
     )

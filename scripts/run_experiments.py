@@ -49,6 +49,8 @@ def main() -> int:
             ollama_num_predict=int(experiment.get("num_predict", 32)),
             ollama_temperature=float(experiment.get("temperature", 0.0)),
             ollama_think=bool(experiment.get("think", False)),
+            retrieval_mode=str(experiment.get("retrieval", "off")),
+            retrieval_reranker_mode=str(experiment.get("retrieval_reranker", "off")),
             limit=args.limit,
             log_level=args.log_level,
         )

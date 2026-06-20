@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "mathematics__quadratic_formula",
+    "category": "mathematics",
+    "topic": "quadratic_formula",
+    "title": "Công thức nghiệm phương trình bậc hai",
+    "keywords": [
+      "parabol",
+      "delta",
+      "nghiệm"
+    ],
+    "content": "Giải thích ngắn: Phương trình ax^2 + bx + c = 0 có nghiệm phụ thuộc vào biệt thức delta.\nCông thức: x = (-b ± √Δ)/(2a), Δ = b^2 - 4ac\nĐịnh nghĩa quan trọng: Δ > 0 có hai nghiệm phân biệt; Δ = 0 nghiệm kép; Δ < 0 không có nghiệm thực.\nTừ khóa gợi ý: parabol, delta, nghiệm"
+  },
+  {
+    "id": "mathematics__vieta",
+    "category": "mathematics",
+    "topic": "vieta",
+    "title": "Hệ thức Viète",
+    "keywords": [
+      "nghiệm",
+      "tổng",
+      "tích"
+    ],
+    "content": "Giải thích ngắn: Liên hệ tổng và tích nghiệm của phương trình bậc hai với hệ số.\nCông thức: x1 + x2 = -b/a, x1x2 = c/a\nĐịnh nghĩa quan trọng: Dùng để dựng phương trình khi biết nghiệm hoặc biến đổi biểu thức đối xứng.\nTừ khóa gợi ý: nghiệm, tổng, tích"
+  },
+  {
+    "id": "mathematics__arithmetic_progression",
+    "category": "mathematics",
+    "topic": "arithmetic_progression",
+    "title": "Cấp số cộng",
+    "keywords": [
+      "dãy số",
+      "công sai",
+      "tổng"
+    ],
+    "content": "Giải thích ngắn: Mỗi số hạng sau bằng số trước cộng công sai d.\nCông thức: u_n = u_1 + (n-1)d; S_n = n(u_1 + u_n)/2\nĐịnh nghĩa quan trọng: Công sai d không đổi.\nTừ khóa gợi ý: dãy số, công sai, tổng"
+  },
+  {
+    "id": "mathematics__geometric_progression",
+    "category": "mathematics",
+    "topic": "geometric_progression",
+    "title": "Cấp số nhân",
+    "keywords": [
+      "công bội",
+      "dãy số",
+      "tổng"
+    ],
+    "content": "Giải thích ngắn: Mỗi số hạng sau bằng số trước nhân công bội q.\nCông thức: u_n = u_1 q^(n-1); S_n = u_1(q^n - 1)/(q - 1), q ≠ 1\nĐịnh nghĩa quan trọng: Công bội q không đổi.\nTừ khóa gợi ý: công bội, dãy số, tổng"
+  },
+  {
+    "id": "mathematics__derivative_rules",
+    "category": "mathematics",
+    "topic": "derivative_rules",
+    "title": "Các quy tắc đạo hàm cơ bản",
+    "keywords": [
+      "đạo hàm",
+      "quy tắc",
+      "vi phân"
+    ],
+    "content": "Giải thích ngắn: Đạo hàm đo tốc độ thay đổi tức thời của hàm số.\nCông thức: (u+v)' = u' + v'; (uv)' = u'v + uv'; (u/v)' = (u'v - uv')/v^2\nĐịnh nghĩa quan trọng: Đạo hàm của hằng số bằng 0; đạo hàm của x^n bằng nx^(n-1).\nTừ khóa gợi ý: đạo hàm, quy tắc, vi phân"
+  },
+  {
+    "id": "mathematics__integral_basics",
+    "category": "mathematics",
+    "topic": "integral_basics",
+    "title": "Nguyên hàm và tích phân cơ bản",
+    "keywords": [
+      "nguyên hàm",
+      "tích phân",
+      "diện tích"
+    ],
+    "content": "Giải thích ngắn: Nguyên hàm là hàm có đạo hàm bằng hàm đã cho.\nCông thức: ∫x^n dx = x^(n+1)/(n+1) + C; ∫1/x dx = ln|x| + C\nĐịnh nghĩa quan trọng: Tích phân xác định liên hệ với diện tích có dấu dưới đồ thị.\nTừ khóa gợi ý: nguyên hàm, tích phân, diện tích"
+  },
+  {
+    "id": "mathematics__trigonometric_identities",
+    "category": "mathematics",
+    "topic": "trigonometric_identities",
+    "title": "Đẳng thức lượng giác cơ bản",
+    "keywords": [
+      "sin",
+      "cos",
+      "tan"
+    ],
+    "content": "Giải thích ngắn: Dùng để rút gọn và biến đổi biểu thức lượng giác.\nCông thức: sin^2x + cos^2x = 1; tan x = sin x / cos x; 1 + tan^2x = 1/cos^2x\nĐịnh nghĩa quan trọng: Chú ý điều kiện xác định của tan và cot.\nTừ khóa gợi ý: sin, cos, tan"
+  },
+  {
+    "id": "mathematics__logarithm_laws",
+    "category": "mathematics",
+    "topic": "logarithm_laws",
+    "title": "Quy tắc logarit",
+    "keywords": [
+      "log",
+      "mũ",
+      "biến đổi"
+    ],
+    "content": "Giải thích ngắn: Logarit biến phép nhân thành phép cộng.\nCông thức: log_a(xy)=log_a x + log_a y; log_a(x/y)=log_a x - log_a y; log_a x^n = n log_a x\nĐịnh nghĩa quan trọng: a > 0, a ≠ 1, x > 0.\nTừ khóa gợi ý: log, mũ, biến đổi"
+  },
+  {
+    "id": "mathematics__exponent_rules",
+    "category": "mathematics",
+    "topic": "exponent_rules",
+    "title": "Quy tắc lũy thừa",
+    "keywords": [
+      "số mũ",
+      "nhân",
+      "chia"
+    ],
+    "content": "Giải thích ngắn: Các quy tắc lũy thừa giúp rút gọn biểu thức mũ.\nCông thức: a^m a^n = a^(m+n); a^m / a^n = a^(m-n); (a^m)^n = a^(mn)\nĐịnh nghĩa quan trọng: a ≠ 0 khi chia lũy thừa.\nTừ khóa gợi ý: số mũ, nhân, chia"
+  },
+  {
+    "id": "mathematics__determinant_2x2",
+    "category": "mathematics",
+    "topic": "determinant_2x2",
+    "title": "Định thức ma trận 2x2",
+    "keywords": [
+      "ma trận",
+      "định thức"
+    ],
+    "content": "Giải thích ngắn: Định thức cho biết ma trận có khả nghịch hay không.\nCông thức: det([[a,b],[c,d]]) = ad - bc\nĐịnh nghĩa quan trọng: Ma trận 2x2 khả nghịch khi ad - bc ≠ 0.\nTừ khóa gợi ý: ma trận, định thức"
+  },
+  {
+    "id": "mathematics__binomial_theorem",
+    "category": "mathematics",
+    "topic": "binomial_theorem",
+    "title": "Khai triển nhị thức Newton",
+    "keywords": [
+      "tổ hợp",
+      "khai triển"
+    ],
+    "content": "Giải thích ngắn: Khai triển (a+b)^n thành tổng các hạng chứa hệ số tổ hợp.\nCông thức: (a+b)^n = Σ C(n,k)a^(n-k)b^k\nĐịnh nghĩa quan trọng: Hệ số C(n,k) = n!/[k!(n-k)!].\nTừ khóa gợi ý: tổ hợp, khai triển"
+  },
+  {
+    "id": "mathematics__distance_formula",
+    "category": "mathematics",
+    "topic": "distance_formula",
+    "title": "Khoảng cách trong mặt phẳng tọa độ",
+    "keywords": [
+      "tọa độ",
+      "khoảng cách"
+    ],
+    "content": "Giải thích ngắn: Khoảng cách giữa hai điểm dùng định lý Pythagoras.\nCông thức: d = √[(x2-x1)^2 + (y2-y1)^2]\nĐịnh nghĩa quan trọng: Trung điểm M của AB có tọa độ ((x1+x2)/2, (y1+y2)/2).\nTừ khóa gợi ý: tọa độ, khoảng cách"
+  },
+  {
+    "id": "mathematics__circle_equation",
+    "category": "mathematics",
+    "topic": "circle_equation",
+    "title": "Phương trình đường tròn",
+    "keywords": [
+      "hình học giải tích",
+      "bán kính"
+    ],
+    "content": "Giải thích ngắn: Đường tròn tâm I(a,b), bán kính R có dạng chuẩn.\nCông thức: (x-a)^2 + (y-b)^2 = R^2\nĐịnh nghĩa quan trọng: R > 0, tâm là điểm cách đều mọi điểm trên đường tròn.\nTừ khóa gợi ý: hình học giải tích, bán kính"
+  },
+  {
+    "id": "mathematics__probability_rules",
+    "category": "mathematics",
+    "topic": "probability_rules",
+    "title": "Quy tắc xác suất cơ bản",
+    "keywords": [
+      "biến cố",
+      "xác suất"
+    ],
+    "content": "Giải thích ngắn: Xác suất kết hợp và điều kiện thường xuất hiện trong câu hỏi tổ hợp-xác suất.\nCông thức: P(A∪B)=P(A)+P(B)-P(A∩B); P(A|B)=P(A∩B)/P(B)\nĐịnh nghĩa quan trọng: Biến cố độc lập khi P(A∩B)=P(A)P(B).\nTừ khóa gợi ý: biến cố, xác suất"
+  },
+  {
+    "id": "mathematics__statistics_central_tendency",
+    "category": "mathematics",
+    "topic": "statistics_central_tendency",
+    "title": "Trung bình, trung vị, mốt",
+    "keywords": [
+      "thống kê",
+      "trung bình"
+    ],
+    "content": "Giải thích ngắn: Các thước đo xu hướng trung tâm mô tả phân bố dữ liệu.\nCông thức: Mean = tổng giá trị / số phần tử\nĐịnh nghĩa quan trọng: Trung vị là giá trị giữa sau khi sắp xếp; mốt là giá trị xuất hiện nhiều nhất.\nTừ khóa gợi ý: thống kê, trung bình"
+  },
+  {
+    "id": "mathematics__standard_deviation",
+    "category": "mathematics",
+    "topic": "standard_deviation",
+    "title": "Phương sai và độ lệch chuẩn",
+    "keywords": [
+      "phân tán",
+      "thống kê"
+    ],
+    "content": "Giải thích ngắn: Đo mức độ phân tán của dữ liệu quanh giá trị trung bình.\nCông thức: Var = Σ(x_i-μ)^2 / n; SD = √Var\nĐịnh nghĩa quan trọng: Độ lệch chuẩn lớn nghĩa là dữ liệu phân tán mạnh.\nTừ khóa gợi ý: phân tán, thống kê"
+  },
+  {
+    "id": "physics_engineering__newton_laws",
+    "category": "physics_engineering",
+    "topic": "newton_laws",
+    "title": "Ba định luật Newton",
+    "keywords": [
+      "lực",
+      "gia tốc",
+      "quán tính"
+    ],
+    "content": "Giải thích ngắn: Ba định luật Newton mô tả chuyển động của vật dưới tác dụng lực.\nCông thức: F = ma\nĐịnh nghĩa quan trọng: Định luật I nói về quán tính; định luật III nói về lực và phản lực.\nTừ khóa gợi ý: lực, gia tốc, quán tính"
+  },
+  {
+    "id": "physics_engineering__kinematics_linear",
+    "category": "physics_engineering",
+    "topic": "kinematics_linear",
+    "title": "Phương trình động học thẳng biến đổi đều",
+    "keywords": [
+      "gia tốc",
+      "vận tốc",
+      "quãng đường"
+    ],
+    "content": "Giải thích ngắn: Liên hệ giữa vận tốc, gia tốc, thời gian và quãng đường.\nCông thức: v = v0 + at; s = v0 t + 1/2 at^2; v^2 = v0^2 + 2as\nĐịnh nghĩa quan trọng: Áp dụng khi gia tốc không đổi.\nTừ khóa gợi ý: gia tốc, vận tốc, quãng đường"
+  },
+  {
+    "id": "physics_engineering__momentum",
+    "category": "physics_engineering",
+    "topic": "momentum",
+    "title": "Động lượng và xung lượng",
+    "keywords": [
+      "va chạm",
+      "bảo toàn"
+    ],
+    "content": "Giải thích ngắn: Động lượng là đại lượng vector liên quan khối lượng và vận tốc.\nCông thức: p = mv; FΔt = Δp\nĐịnh nghĩa quan trọng: Trong hệ cô lập, tổng động lượng được bảo toàn.\nTừ khóa gợi ý: va chạm, bảo toàn"
+  },
+  {
+    "id": "physics_engineering__work_energy",
+    "category": "physics_engineering",
+    "topic": "work_energy",
+    "title": "Công và động năng",
+    "keywords": [
+      "năng lượng",
+      "công cơ học"
+    ],
+    "content": "Giải thích ngắn: Công của lực bằng độ biến thiên động năng.\nCông thức: W = Fs cosθ; K = 1/2 mv^2; W_net = ΔK\nĐịnh nghĩa quan trọng: Dấu của công phụ thuộc hướng lực so với chuyển dời.\nTừ khóa gợi ý: năng lượng, công cơ học"
+  },
+  {
+    "id": "physics_engineering__power",
+    "category": "physics_engineering",
+    "topic": "power",
+    "title": "Công suất",
+    "keywords": [
+      "công",
+      "năng lượng"
+    ],
+    "content": "Giải thích ngắn: Công suất là tốc độ thực hiện công.\nCông thức: P = W/t = Fv cosθ\nĐịnh nghĩa quan trọng: Đơn vị SI là watt.\nTừ khóa gợi ý: công, năng lượng"
+  },
+  {
+    "id": "physics_engineering__gravitation",
+    "category": "physics_engineering",
+    "topic": "gravitation",
+    "title": "Định luật vạn vật hấp dẫn",
+    "keywords": [
+      "lực hấp dẫn",
+      "quỹ đạo"
+    ],
+    "content": "Giải thích ngắn: Hai vật hút nhau với lực tỉ lệ thuận tích khối lượng và nghịch đảo bình phương khoảng cách.\nCông thức: F = Gm1m2/r^2\nĐịnh nghĩa quan trọng: Gia tốc trọng trường gần mặt đất là g ≈ 9,8 m/s^2.\nTừ khóa gợi ý: lực hấp dẫn, quỹ đạo"
+  },
+  {
+    "id": "physics_engineering__coulomb",
+    "category": "physics_engineering",
+    "topic": "coulomb",
+    "title": "Định luật Coulomb",
+    "keywords": [
+      "điện tích",
+      "lực điện"
+    ],
+    "content": "Giải thích ngắn: Lực giữa hai điện tích điểm trong chân không.\nCông thức: F = k|q1q2|/r^2\nĐịnh nghĩa quan trọng: Cùng dấu đẩy nhau, khác dấu hút nhau.\nTừ khóa gợi ý: điện tích, lực điện"
+  },
+  {
+    "id": "physics_engineering__electric_field",
+    "category": "physics_engineering",
+    "topic": "electric_field",
+    "title": "Điện trường và điện thế",
+    "keywords": [
+      "điện trường",
+      "điện thế"
+    ],
+    "content": "Giải thích ngắn: Điện trường cho lực trên đơn vị điện tích dương thử.\nCông thức: E = F/q; V = W/q; E = kq/r^2\nĐịnh nghĩa quan trọng: Điện thế là đại lượng vô hướng, điện trường là vector.\nTừ khóa gợi ý: điện trường, điện thế"
+  },
+  {
+    "id": "physics_engineering__ohm_law",
+    "category": "physics_engineering",
+    "topic": "ohm_law",
+    "title": "Định luật Ohm",
+    "keywords": [
+      "điện trở",
+      "cường độ dòng điện"
+    ],
+    "content": "Giải thích ngắn: Quan hệ giữa hiệu điện thế, cường độ dòng điện và điện trở.\nCông thức: V = IR\nĐịnh nghĩa quan trọng: Trong mạch thuần trở, công suất P = VI = I^2R = V^2/R.\nTừ khóa gợi ý: điện trở, cường độ dòng điện"
+  },
+  {
+    "id": "physics_engineering__circuits_series_parallel",
+    "category": "physics_engineering",
+    "topic": "circuits_series_parallel",
+    "title": "Mạch nối tiếp và song song",
+    "keywords": [
+      "điện trở tương đương",
+      "mạch điện"
+    ],
+    "content": "Giải thích ngắn: Quy tắc cộng điện trở và dòng điện trong mạch cơ bản.\nCông thức: R_nt = R1 + R2 + ...; 1/R_ss = 1/R1 + 1/R2 + ...\nĐịnh nghĩa quan trọng: Nối tiếp: dòng như nhau; song song: hiệu điện thế như nhau.\nTừ khóa gợi ý: điện trở tương đương, mạch điện"
+  },
+  {
+    "id": "physics_engineering__capacitor",
+    "category": "physics_engineering",
+    "topic": "capacitor",
+    "title": "Tụ điện",
+    "keywords": [
+      "điện dung",
+      "năng lượng điện trường"
+    ],
+    "content": "Giải thích ngắn: Tụ điện tích trữ điện tích và năng lượng.\nCông thức: Q = CV; U = 1/2 CV^2 = Q^2/(2C)\nĐịnh nghĩa quan trọng: Điện dung của tụ phẳng tỉ lệ với diện tích bản và nghịch với khoảng cách.\nTừ khóa gợi ý: điện dung, năng lượng điện trường"
+  },
+  {
+    "id": "physics_engineering__wave_speed",
+    "category": "physics_engineering",
+    "topic": "wave_speed",
+    "title": "Vận tốc truyền sóng",
+    "keywords": [
+      "tần số",
+      "bước sóng"
+    ],
+    "content": "Giải thích ngắn: Quan hệ giữa vận tốc, tần số và bước sóng.\nCông thức: v = fλ\nĐịnh nghĩa quan trọng: Sóng mang năng lượng nhưng không mang vật chất theo phương truyền.\nTừ khóa gợi ý: tần số, bước sóng"
+  },
+  {
+    "id": "physics_engineering__lens_formula",
+    "category": "physics_engineering",
+    "topic": "lens_formula",
+    "title": "Công thức thấu kính mỏng",
+    "keywords": [
+      "quang học",
+      "tiêu cự"
+    ],
+    "content": "Giải thích ngắn: Liên hệ giữa vị trí vật, ảnh và tiêu cự.\nCông thức: 1/f = 1/d_o + 1/d_i; m = -d_i/d_o\nĐịnh nghĩa quan trọng: Dấu của tiêu cự phụ thuộc loại thấu kính.\nTừ khóa gợi ý: quang học, tiêu cự"
+  },
+  {
+    "id": "physics_engineering__pressure",
+    "category": "physics_engineering",
+    "topic": "pressure",
+    "title": "Áp suất và lực đẩy Archimedes",
+    "keywords": [
+      "chất lỏng",
+      "áp lực"
+    ],
+    "content": "Giải thích ngắn: Áp suất và lực nổi thường gặp trong bài thủy tĩnh học.\nCông thức: p = F/S; p = ρgh; F_A = ρgV\nĐịnh nghĩa quan trọng: Vật nổi khi lực đẩy Archimedes cân bằng trọng lượng.\nTừ khóa gợi ý: chất lỏng, áp lực"
+  },
+  {
+    "id": "physics_engineering__thermodynamics_first_law",
+    "category": "physics_engineering",
+    "topic": "thermodynamics_first_law",
+    "title": "Nguyên lý I nhiệt động lực học",
+    "keywords": [
+      "nhiệt lượng",
+      "nội năng"
+    ],
+    "content": "Giải thích ngắn: Biến thiên nội năng bằng nhiệt lượng truyền vào trừ công do hệ thực hiện.\nCông thức: ΔU = Q - W\nĐịnh nghĩa quan trọng: Quy ước dấu cần nhất quán theo đề bài.\nTừ khóa gợi ý: nhiệt lượng, nội năng"
+  },
+  {
+    "id": "physics_engineering__photon_energy",
+    "category": "physics_engineering",
+    "topic": "photon_energy",
+    "title": "Năng lượng photon",
+    "keywords": [
+      "lượng tử",
+      "ánh sáng"
+    ],
+    "content": "Giải thích ngắn: Năng lượng photon tỉ lệ với tần số ánh sáng.\nCông thức: E = hf = hc/λ\nĐịnh nghĩa quan trọng: h là hằng số Planck.\nTừ khóa gợi ý: lượng tử, ánh sáng"
+  },
+  {
+    "id": "chemistry__mole_concept",
+    "category": "chemistry",
+    "topic": "mole_concept",
+    "title": "Khái niệm mol",
+    "keywords": [
+      "avogadro",
+      "khối lượng mol"
+    ],
+    "content": "Giải thích ngắn: Mol liên hệ số hạt, khối lượng và thể tích khí ở điều kiện chuẩn.\nCông thức: n = m/M = N/N_A\nĐịnh nghĩa quan trọng: Một mol chứa N_A ≈ 6,022×10^23 hạt.\nTừ khóa gợi ý: avogadro, khối lượng mol"
+  },
+  {
+    "id": "chemistry__ideal_gas",
+    "category": "chemistry",
+    "topic": "ideal_gas",
+    "title": "Phương trình khí lý tưởng",
+    "keywords": [
+      "áp suất",
+      "thể tích",
+      "nhiệt độ"
+    ],
+    "content": "Giải thích ngắn: Mô tả trạng thái khí lý tưởng.\nCông thức: PV = nRT\nĐịnh nghĩa quan trọng: Nhiệt độ tuyệt đối tính theo kelvin.\nTừ khóa gợi ý: áp suất, thể tích, nhiệt độ"
+  },
+  {
+    "id": "chemistry__ph_poh",
+    "category": "chemistry",
+    "topic": "ph_poh",
+    "title": "pH và pOH",
+    "keywords": [
+      "axit",
+      "bazơ",
+      "nồng độ"
+    ],
+    "content": "Giải thích ngắn: pH đo độ axit-bazơ của dung dịch.\nCông thức: pH = -log[H+]; pOH = -log[OH-]; pH + pOH = 14\nĐịnh nghĩa quan trọng: Áp dụng gần đúng ở 25°C cho dung dịch nước loãng.\nTừ khóa gợi ý: axit, bazơ, nồng độ"
+  },
+  {
+    "id": "chemistry__henderson_hasselbalch",
+    "category": "chemistry",
+    "topic": "henderson_hasselbalch",
+    "title": "Phương trình Henderson-Hasselbalch",
+    "keywords": [
+      "buffer",
+      "đệm"
+    ],
+    "content": "Giải thích ngắn: Dùng để tính pH dung dịch đệm axit yếu/base liên hợp.\nCông thức: pH = pKa + log([A-]/[HA])\nĐịnh nghĩa quan trọng: Dung dịch đệm chống lại sự thay đổi pH khi thêm ít axit hoặc bazơ.\nTừ khóa gợi ý: buffer, đệm"
+  },
+  {
+    "id": "chemistry__acid_base_strength",
+    "category": "chemistry",
+    "topic": "acid_base_strength",
+    "title": "Axit mạnh, bazơ mạnh và yếu",
+    "keywords": [
+      "phân ly",
+      "độ mạnh"
+    ],
+    "content": "Giải thích ngắn: Axit/bazơ mạnh phân ly gần như hoàn toàn trong nước.\nCông thức: K_a = [H+][A-]/[HA]; K_b = [BH+][OH-]/[B]\nĐịnh nghĩa quan trọng: pKa nhỏ hơn thường biểu thị axit mạnh hơn.\nTừ khóa gợi ý: phân ly, độ mạnh"
+  },
+  {
+    "id": "chemistry__redox_oxidation_numbers",
+    "category": "chemistry",
+    "topic": "redox_oxidation_numbers",
+    "title": "Số oxi hóa và phản ứng oxi hóa-khử",
+    "keywords": [
+      "electron",
+      "oxi hóa",
+      "khử"
+    ],
+    "content": "Giải thích ngắn: Theo dõi sự trao đổi electron trong phản ứng.\nCông thức: Chất oxi hóa nhận e; chất khử nhường e\nĐịnh nghĩa quan trọng: Tổng số oxi hóa bằng điện tích toàn phần của phân tử/ion.\nTừ khóa gợi ý: electron, oxi hóa, khử"
+  },
+  {
+    "id": "chemistry__equilibrium_constant",
+    "category": "chemistry",
+    "topic": "equilibrium_constant",
+    "title": "Hằng số cân bằng",
+    "keywords": [
+      "cân bằng hóa học",
+      "Kc"
+    ],
+    "content": "Giải thích ngắn: Tỷ số giữa tích nồng độ sản phẩm và chất phản ứng ở trạng thái cân bằng.\nCông thức: K_c = [C]^c[D]^d / [A]^a[B]^b\nĐịnh nghĩa quan trọng: Chỉ đưa chất khí, chất tan vào biểu thức khi thích hợp.\nTừ khóa gợi ý: cân bằng hóa học, Kc"
+  },
+  {
+    "id": "chemistry__le_chatelier",
+    "category": "chemistry",
+    "topic": "le_chatelier",
+    "title": "Nguyên lý Le Chatelier",
+    "keywords": [
+      "dịch chuyển cân bằng"
+    ],
+    "content": "Giải thích ngắn: Hệ cân bằng dịch chuyển để chống lại tác động bên ngoài.\nCông thức: Tăng nồng độ chất phản ứng thường đẩy cân bằng theo chiều thuận\nĐịnh nghĩa quan trọng: Xét riêng ảnh hưởng của nhiệt độ, áp suất, nồng độ.\nTừ khóa gợi ý: dịch chuyển cân bằng"
+  },
+  {
+    "id": "chemistry__gibbs_free_energy",
+    "category": "chemistry",
+    "topic": "gibbs_free_energy",
+    "title": "Năng lượng tự do Gibbs",
+    "keywords": [
+      "tự diễn biến",
+      "nhiệt động học"
+    ],
+    "content": "Giải thích ngắn: Điều kiện tự diễn biến của phản ứng ở T, P không đổi.\nCông thức: ΔG = ΔH - TΔS\nĐịnh nghĩa quan trọng: ΔG < 0 tự diễn biến; ΔG = 0 cân bằng.\nTừ khóa gợi ý: tự diễn biến, nhiệt động học"
+  },
+  {
+    "id": "chemistry__hess_law",
+    "category": "chemistry",
+    "topic": "hess_law",
+    "title": "Định luật Hess",
+    "keywords": [
+      "enthalpy",
+      "nhiệt phản ứng"
+    ],
+    "content": "Giải thích ngắn: Độ biến thiên enthalpy chỉ phụ thuộc trạng thái đầu-cuối.\nCông thức: ΔH_rxn = ΣΔH_f(products) - ΣΔH_f(reactants)\nĐịnh nghĩa quan trọng: Có thể cộng/trừ các phương trình nhiệt hóa học để suy ra phản ứng cần tính.\nTừ khóa gợi ý: enthalpy, nhiệt phản ứng"
+  },
+  {
+    "id": "chemistry__arrhenius_equation",
+    "category": "chemistry",
+    "topic": "arrhenius_equation",
+    "title": "Phương trình Arrhenius",
+    "keywords": [
+      "tốc độ phản ứng",
+      "năng lượng hoạt hóa"
+    ],
+    "content": "Giải thích ngắn: Mô tả ảnh hưởng của nhiệt độ lên hằng số tốc độ.\nCông thức: k = A e^(-E_a/RT)\nĐịnh nghĩa quan trọng: Tăng nhiệt độ thường làm tăng tốc độ phản ứng.\nTừ khóa gợi ý: tốc độ phản ứng, năng lượng hoạt hóa"
+  },
+  {
+    "id": "chemistry__solubility_product",
+    "category": "chemistry",
+    "topic": "solubility_product",
+    "title": "Tích số tan Ksp",
+    "keywords": [
+      "kết tủa",
+      "độ tan"
+    ],
+    "content": "Giải thích ngắn: Dùng để xét độ tan của muối ít tan.\nCông thức: K_sp = [M^m+]^a [X^n-]^b\nĐịnh nghĩa quan trọng: Khi Q > K_sp, kết tủa có xu hướng hình thành.\nTừ khóa gợi ý: kết tủa, độ tan"
+  },
+  {
+    "id": "chemistry__faraday_law",
+    "category": "chemistry",
+    "topic": "faraday_law",
+    "title": "Định luật Faraday điện phân",
+    "keywords": [
+      "điện phân",
+      "điện lượng"
+    ],
+    "content": "Giải thích ngắn: Khối lượng chất tạo ra ở điện cực tỉ lệ với điện lượng đi qua.\nCông thức: Q = It; n_e = Q/F\nĐịnh nghĩa quan trọng: F ≈ 96485 C/mol electron.\nTừ khóa gợi ý: điện phân, điện lượng"
+  },
+  {
+    "id": "chemistry__periodic_trends",
+    "category": "chemistry",
+    "topic": "periodic_trends",
+    "title": "Xu hướng tuần hoàn",
+    "keywords": [
+      "bán kính nguyên tử",
+      "độ âm điện"
+    ],
+    "content": "Giải thích ngắn: Các tính chất biến đổi có quy luật theo chu kỳ và nhóm.\nCông thức: Bán kính giảm dần theo chu kỳ, tăng theo nhóm\nĐịnh nghĩa quan trọng: Độ âm điện tăng theo chu kỳ, giảm theo nhóm.\nTừ khóa gợi ý: bán kính nguyên tử, độ âm điện"
+  },
+  {
+    "id": "chemistry__hybridization",
+    "category": "chemistry",
+    "topic": "hybridization",
+    "title": "Lai hóa orbital",
+    "keywords": [
+      "sp",
+      "sp2",
+      "sp3"
+    ],
+    "content": "Giải thích ngắn: Lai hóa giúp dự đoán hình học phân tử.\nCông thức: sp: thẳng; sp2: tam giác phẳng; sp3: tứ diện\nĐịnh nghĩa quan trọng: Đếm miền electron quanh nguyên tử trung tâm để suy luận.\nTừ khóa gợi ý: sp, sp2, sp3"
+  },
+  {
+    "id": "chemistry__organic_functional_groups",
+    "category": "chemistry",
+    "topic": "organic_functional_groups",
+    "title": "Nhóm chức hữu cơ cơ bản",
+    "keywords": [
+      "ancol",
+      "andehit",
+      "axit cacboxylic"
+    ],
+    "content": "Giải thích ngắn: Nhóm chức quyết định tính chất hóa học đặc trưng của hợp chất hữu cơ.\nCông thức: Ancol: -OH; Andehit: -CHO; Xeton: >C=O; Axit cacboxylic: -COOH\nĐịnh nghĩa quan trọng: Nhận diện nhóm chức giúp dự đoán phản ứng.\nTừ khóa gợi ý: ancol, andehit, axit cacboxylic"
+  },
+  {
+    "id": "economics_finance__demand_law",
+    "category": "economics_finance",
+    "topic": "demand_law",
+    "title": "Luật cầu",
+    "keywords": [
+      "cầu",
+      "giá"
+    ],
+    "content": "Giải thích ngắn: Khi các yếu tố khác không đổi, giá tăng thường làm lượng cầu giảm.\nCông thức: Q_d = f(P, thu nhập, thị hiếu,...)\nĐịnh nghĩa quan trọng: Đường cầu thường dốc xuống.\nTừ khóa gợi ý: cầu, giá"
+  },
+  {
+    "id": "economics_finance__supply_law",
+    "category": "economics_finance",
+    "topic": "supply_law",
+    "title": "Luật cung",
+    "keywords": [
+      "cung",
+      "giá"
+    ],
+    "content": "Giải thích ngắn: Giá tăng thường khuyến khích nhà sản xuất cung nhiều hơn.\nCông thức: Q_s = f(P, công nghệ, chi phí đầu vào,...)\nĐịnh nghĩa quan trọng: Đường cung thường dốc lên.\nTừ khóa gợi ý: cung, giá"
+  },
+  {
+    "id": "economics_finance__price_elasticity_demand",
+    "category": "economics_finance",
+    "topic": "price_elasticity_demand",
+    "title": "Độ co giãn cầu theo giá",
+    "keywords": [
+      "co giãn",
+      "midpoint"
+    ],
+    "content": "Giải thích ngắn: Đo mức độ phản ứng của lượng cầu khi giá thay đổi.\nCông thức: E_d = (%ΔQ)/(%ΔP)\nĐịnh nghĩa quan trọng: |E_d| > 1 cầu co giãn; |E_d| < 1 cầu kém co giãn.\nTừ khóa gợi ý: co giãn, midpoint"
+  },
+  {
+    "id": "economics_finance__price_elasticity_supply",
+    "category": "economics_finance",
+    "topic": "price_elasticity_supply",
+    "title": "Độ co giãn cung theo giá",
+    "keywords": [
+      "co giãn",
+      "cung"
+    ],
+    "content": "Giải thích ngắn: Đo mức độ phản ứng của lượng cung với biến động giá.\nCông thức: E_s = (%ΔQ_s)/(%ΔP)\nĐịnh nghĩa quan trọng: Nguồn lực linh hoạt thường làm cung co giãn hơn.\nTừ khóa gợi ý: co giãn, cung"
+  },
+  {
+    "id": "economics_finance__gdp_nominal_real",
+    "category": "economics_finance",
+    "topic": "gdp_nominal_real",
+    "title": "GDP danh nghĩa và GDP thực",
+    "keywords": [
+      "gdp",
+      "giảm phát"
+    ],
+    "content": "Giải thích ngắn: GDP danh nghĩa dùng giá hiện hành; GDP thực loại bỏ ảnh hưởng giá.\nCông thức: Deflator = GDP danh nghĩa / GDP thực × 100\nĐịnh nghĩa quan trọng: GDP thực phản ánh thay đổi sản lượng tốt hơn.\nTừ khóa gợi ý: gdp, giảm phát"
+  },
+  {
+    "id": "economics_finance__inflation_cpi",
+    "category": "economics_finance",
+    "topic": "inflation_cpi",
+    "title": "Lạm phát và CPI",
+    "keywords": [
+      "cpi",
+      "mức giá"
+    ],
+    "content": "Giải thích ngắn: Lạm phát là tốc độ tăng mức giá chung theo thời gian.\nCông thức: Inflation = (CPI_t - CPI_(t-1))/CPI_(t-1) × 100%\nĐịnh nghĩa quan trọng: CPI đo chi phí của một rổ hàng hóa tiêu biểu.\nTừ khóa gợi ý: cpi, mức giá"
+  },
+  {
+    "id": "economics_finance__unemployment_rate",
+    "category": "economics_finance",
+    "topic": "unemployment_rate",
+    "title": "Tỷ lệ thất nghiệp",
+    "keywords": [
+      "lao động",
+      "thất nghiệp"
+    ],
+    "content": "Giải thích ngắn: Tỷ lệ thất nghiệp = số người thất nghiệp / lực lượng lao động.\nCông thức: u = unemployed / labor force × 100%\nĐịnh nghĩa quan trọng: Không bao gồm người ngoài lực lượng lao động.\nTừ khóa gợi ý: lao động, thất nghiệp"
+  },
+  {
+    "id": "economics_finance__opportunity_cost",
+    "category": "economics_finance",
+    "topic": "opportunity_cost",
+    "title": "Chi phí cơ hội",
+    "keywords": [
+      "lựa chọn",
+      "đánh đổi"
+    ],
+    "content": "Giải thích ngắn: Giá trị phương án tốt nhất bị từ bỏ khi đưa ra quyết định.\nĐịnh nghĩa quan trọng: Khái niệm trung tâm của kinh tế học về sự khan hiếm.\nTừ khóa gợi ý: lựa chọn, đánh đổi"
+  },
+  {
+    "id": "economics_finance__comparative_advantage",
+    "category": "economics_finance",
+    "topic": "comparative_advantage",
+    "title": "Lợi thế so sánh",
+    "keywords": [
+      "thương mại",
+      "cơ hội"
+    ],
+    "content": "Giải thích ngắn: Một tác nhân có lợi thế so sánh nếu chi phí cơ hội sản xuất hàng hóa đó thấp hơn.\nĐịnh nghĩa quan trọng: Thương mại mang lại lợi ích khi mỗi bên chuyên môn hóa theo lợi thế so sánh.\nTừ khóa gợi ý: thương mại, cơ hội"
+  },
+  {
+    "id": "economics_finance__marginal_utility",
+    "category": "economics_finance",
+    "topic": "marginal_utility",
+    "title": "Lợi ích cận biên",
+    "keywords": [
+      "tiêu dùng",
+      "tối ưu"
+    ],
+    "content": "Giải thích ngắn: Lợi ích cận biên là mức tăng thỏa dụng khi tiêu dùng thêm một đơn vị hàng hóa.\nĐịnh nghĩa quan trọng: Quy luật lợi ích cận biên giảm dần thường áp dụng.\nTừ khóa gợi ý: tiêu dùng, tối ưu"
+  },
+  {
+    "id": "economics_finance__perfect_competition",
+    "category": "economics_finance",
+    "topic": "perfect_competition",
+    "title": "Thị trường cạnh tranh hoàn hảo",
+    "keywords": [
+      "giá chấp nhận",
+      "mr=mc"
+    ],
+    "content": "Giải thích ngắn: Doanh nghiệp là người chấp nhận giá, tối đa hóa lợi nhuận tại MR = MC.\nCông thức: Trong cạnh tranh hoàn hảo: P = MR\nĐịnh nghĩa quan trọng: Trong dài hạn có thể P = min ATC ở trạng thái cân bằng.\nTừ khóa gợi ý: giá chấp nhận, mr=mc"
+  },
+  {
+    "id": "economics_finance__monopoly",
+    "category": "economics_finance",
+    "topic": "monopoly",
+    "title": "Độc quyền",
+    "keywords": [
+      "mr",
+      "mc"
+    ],
+    "content": "Giải thích ngắn: Doanh nghiệp độc quyền đối mặt đường cầu thị trường và MR < P.\nCông thức: Tối đa hóa lợi nhuận tại MR = MC\nĐịnh nghĩa quan trọng: Có thể gây mất mát vô ích do sản lượng thấp hơn cạnh tranh.\nTừ khóa gợi ý: mr, mc"
+  },
+  {
+    "id": "economics_finance__cournot_duopoly",
+    "category": "economics_finance",
+    "topic": "cournot_duopoly",
+    "title": "Cân bằng Cournot",
+    "keywords": [
+      "song quyền",
+      "nash"
+    ],
+    "content": "Giải thích ngắn: Hai doanh nghiệp chọn sản lượng đồng thời, mỗi bên phản ứng theo sản lượng đối thủ.\nĐịnh nghĩa quan trọng: Mỗi doanh nghiệp tối ưu hóa lợi nhuận theo phản ứng tốt nhất.\nTừ khóa gợi ý: song quyền, nash"
+  },
+  {
+    "id": "economics_finance__nash_equilibrium",
+    "category": "economics_finance",
+    "topic": "nash_equilibrium",
+    "title": "Cân bằng Nash",
+    "keywords": [
+      "game theory",
+      "chiến lược"
+    ],
+    "content": "Giải thích ngắn: Không người chơi nào muốn đơn phương đổi chiến lược khi chiến lược người khác giữ nguyên.\nĐịnh nghĩa quan trọng: Khái niệm nền tảng của lý thuyết trò chơi.\nTừ khóa gợi ý: game theory, chiến lược"
+  },
+  {
+    "id": "economics_finance__fiscal_policy",
+    "category": "economics_finance",
+    "topic": "fiscal_policy",
+    "title": "Chính sách tài khóa",
+    "keywords": [
+      "chi tiêu công",
+      "thuế"
+    ],
+    "content": "Giải thích ngắn: Chính phủ dùng chi tiêu và thuế để tác động tổng cầu.\nĐịnh nghĩa quan trọng: Mở rộng tài khóa thường tăng cầu; thắt chặt tài khóa thường giảm cầu.\nTừ khóa gợi ý: chi tiêu công, thuế"
+  },
+  {
+    "id": "economics_finance__monetary_policy",
+    "category": "economics_finance",
+    "topic": "monetary_policy",
+    "title": "Chính sách tiền tệ",
+    "keywords": [
+      "lãi suất",
+      "cung tiền"
+    ],
+    "content": "Giải thích ngắn: Ngân hàng trung ương điều tiết cung tiền và lãi suất.\nĐịnh nghĩa quan trọng: Thắt chặt tiền tệ thường giảm lạm phát nhưng có thể làm giảm tăng trưởng ngắn hạn.\nTừ khóa gợi ý: lãi suất, cung tiền"
+  },
+  {
+    "id": "economics_finance__simple_interest",
+    "category": "economics_finance",
+    "topic": "simple_interest",
+    "title": "Lãi đơn",
+    "keywords": [
+      "lãi suất",
+      "tiền gốc"
+    ],
+    "content": "Giải thích ngắn: Lãi chỉ tính trên tiền gốc ban đầu.\nCông thức: I = Prt; A = P(1 + rt)\nĐịnh nghĩa quan trọng: P là vốn gốc, r là lãi suất, t là thời gian.\nTừ khóa gợi ý: lãi suất, tiền gốc"
+  },
+  {
+    "id": "economics_finance__compound_interest",
+    "category": "economics_finance",
+    "topic": "compound_interest",
+    "title": "Lãi kép",
+    "keywords": [
+      "ghép lãi",
+      "tăng trưởng"
+    ],
+    "content": "Giải thích ngắn: Lãi phát sinh được cộng vào gốc cho kỳ tiếp theo.\nCông thức: A = P(1 + r/n)^(nt)\nĐịnh nghĩa quan trọng: Tần suất ghép lãi cao hơn thường làm giá trị tương lai lớn hơn.\nTừ khóa gợi ý: ghép lãi, tăng trưởng"
+  },
+  {
+    "id": "economics_finance__effective_annual_rate",
+    "category": "economics_finance",
+    "topic": "effective_annual_rate",
+    "title": "Lãi suất hiệu dụng năm",
+    "keywords": [
+      "EAR",
+      "APR"
+    ],
+    "content": "Giải thích ngắn: EAR phản ánh lãi suất thực tế sau khi tính ghép lãi trong năm.\nCông thức: EAR = (1 + r/n)^n - 1\nĐịnh nghĩa quan trọng: Khác với lãi suất danh nghĩa APR.\nTừ khóa gợi ý: EAR, APR"
+  },
+  {
+    "id": "economics_finance__net_present_value",
+    "category": "economics_finance",
+    "topic": "net_present_value",
+    "title": "Giá trị hiện tại thuần",
+    "keywords": [
+      "NPV",
+      "chiết khấu"
+    ],
+    "content": "Giải thích ngắn: Đánh giá dự án bằng giá trị hiện tại của dòng tiền vào trừ ra.\nCông thức: NPV = Σ CF_t/(1+r)^t - I_0\nĐịnh nghĩa quan trọng: NPV > 0 thường là tín hiệu dự án tạo giá trị.\nTừ khóa gợi ý: NPV, chiết khấu"
+  },
+  {
+    "id": "economics_finance__internal_rate_return",
+    "category": "economics_finance",
+    "topic": "internal_rate_return",
+    "title": "Tỷ suất hoàn vốn nội bộ",
+    "keywords": [
+      "IRR",
+      "đầu tư"
+    ],
+    "content": "Giải thích ngắn: IRR là mức chiết khấu khiến NPV bằng 0.\nCông thức: 0 = Σ CF_t/(1+IRR)^t - I_0\nĐịnh nghĩa quan trọng: So sánh IRR với chi phí vốn yêu cầu.\nTừ khóa gợi ý: IRR, đầu tư"
+  },
+  {
+    "id": "economics_finance__capm",
+    "category": "economics_finance",
+    "topic": "capm",
+    "title": "Mô hình CAPM",
+    "keywords": [
+      "beta",
+      "lợi suất yêu cầu"
+    ],
+    "content": "Giải thích ngắn: Lợi suất kỳ vọng phụ thuộc lãi suất phi rủi ro và phần bù rủi ro thị trường.\nCông thức: E(R_i) = R_f + β_i(E(R_m)-R_f)\nĐịnh nghĩa quan trọng: Beta đo mức nhạy của tài sản với thị trường.\nTừ khóa gợi ý: beta, lợi suất yêu cầu"
+  },
+  {
+    "id": "economics_finance__wacc",
+    "category": "economics_finance",
+    "topic": "wacc",
+    "title": "Chi phí vốn bình quân gia quyền",
+    "keywords": [
+      "WACC",
+      "cấu trúc vốn"
+    ],
+    "content": "Giải thích ngắn: Mức chiết khấu thường dùng cho dòng tiền doanh nghiệp.\nCông thức: WACC = w_e r_e + w_d r_d(1-T)\nĐịnh nghĩa quan trọng: Trọng số dựa trên cơ cấu vốn mục tiêu.\nTừ khóa gợi ý: WACC, cấu trúc vốn"
+  },
+  {
+    "id": "economics_finance__bond_price_yield",
+    "category": "economics_finance",
+    "topic": "bond_price_yield",
+    "title": "Quan hệ giá trái phiếu và lợi suất",
+    "keywords": [
+      "bond",
+      "yield"
+    ],
+    "content": "Giải thích ngắn: Giá trái phiếu và lợi suất biến động ngược chiều.\nĐịnh nghĩa quan trọng: Khi lợi suất thị trường tăng, giá trái phiếu hiện có thường giảm.\nTừ khóa gợi ý: bond, yield"
+  },
+  {
+    "id": "economics_finance__duration",
+    "category": "economics_finance",
+    "topic": "duration",
+    "title": "Duration trái phiếu",
+    "keywords": [
+      "lãi suất",
+      "độ nhạy"
+    ],
+    "content": "Giải thích ngắn: Duration xấp xỉ độ nhạy giá trái phiếu với thay đổi lãi suất.\nĐịnh nghĩa quan trọng: Duration cao thường làm giá nhạy hơn với biến động lãi suất.\nTừ khóa gợi ý: lãi suất, độ nhạy"
+  },
+  {
+    "id": "economics_finance__pe_ratio",
+    "category": "economics_finance",
+    "topic": "pe_ratio",
+    "title": "Hệ số P/E",
+    "keywords": [
+      "định giá",
+      "thu nhập"
+    ],
+    "content": "Giải thích ngắn: Giá thị trường chia lợi nhuận trên mỗi cổ phiếu.\nCông thức: P/E = Price / EPS\nĐịnh nghĩa quan trọng: P/E cao có thể phản ánh kỳ vọng tăng trưởng hoặc định giá cao.\nTừ khóa gợi ý: định giá, thu nhập"
+  },
+  {
+    "id": "economics_finance__roe_dupont",
+    "category": "economics_finance",
+    "topic": "roe_dupont",
+    "title": "ROE và phân tích DuPont",
+    "keywords": [
+      "roe",
+      "biên lợi nhuận"
+    ],
+    "content": "Giải thích ngắn: ROE có thể tách thành biên lợi nhuận, vòng quay tài sản và đòn bẩy tài chính.\nCông thức: ROE = (LN ròng/Doanh thu) × (Doanh thu/Tài sản) × (Tài sản/Vốn CSH)\nĐịnh nghĩa quan trọng: Giúp tìm nguồn gốc thay đổi hiệu quả sinh lời.\nTừ khóa gợi ý: roe, biên lợi nhuận"
+  },
+  {
+    "id": "economics_finance__working_capital_cycle",
+    "category": "economics_finance",
+    "topic": "working_capital_cycle",
+    "title": "Chu kỳ vốn lưu động",
+    "keywords": [
+      "CCC",
+      "hàng tồn kho"
+    ],
+    "content": "Giải thích ngắn: Đo thời gian từ lúc chi tiền mua đầu vào đến lúc thu tiền bán hàng.\nCông thức: CCC = DIO + DSO - DPO\nĐịnh nghĩa quan trọng: Chu kỳ ngắn hơn thường cải thiện thanh khoản.\nTừ khóa gợi ý: CCC, hàng tồn kho"
+  },
+  {
+    "id": "computer_science__big_o",
+    "category": "computer_science",
+    "topic": "big_o",
+    "title": "Độ phức tạp Big-O",
+    "keywords": [
+      "thuật toán",
+      "độ phức tạp"
+    ],
+    "content": "Giải thích ngắn: Big-O mô tả tốc độ tăng chi phí tính toán theo kích thước đầu vào.\nĐịnh nghĩa quan trọng: O(1) hằng số; O(log n) logarit; O(n) tuyến tính; O(n^2) bậc hai.\nTừ khóa gợi ý: thuật toán, độ phức tạp"
+  },
+  {
+    "id": "computer_science__binary_search",
+    "category": "computer_science",
+    "topic": "binary_search",
+    "title": "Tìm kiếm nhị phân",
+    "keywords": [
+      "mảng có thứ tự",
+      "log n"
+    ],
+    "content": "Giải thích ngắn: Tìm kiếm trên dãy đã sắp xếp bằng cách chia đôi không gian tìm kiếm.\nCông thức: Độ phức tạp O(log n)\nĐịnh nghĩa quan trọng: Yêu cầu dữ liệu được sắp xếp trước.\nTừ khóa gợi ý: mảng có thứ tự, log n"
+  },
+  {
+    "id": "computer_science__bfs",
+    "category": "computer_science",
+    "topic": "bfs",
+    "title": "Breadth-First Search",
+    "keywords": [
+      "đồ thị",
+      "hàng đợi"
+    ],
+    "content": "Giải thích ngắn: Duyệt theo lớp, thường dùng tìm đường đi ngắn nhất trong đồ thị không trọng số.\nĐịnh nghĩa quan trọng: BFS dùng queue.\nTừ khóa gợi ý: đồ thị, hàng đợi"
+  },
+  {
+    "id": "computer_science__dfs",
+    "category": "computer_science",
+    "topic": "dfs",
+    "title": "Depth-First Search",
+    "keywords": [
+      "đồ thị",
+      "ngăn xếp"
+    ],
+    "content": "Giải thích ngắn: Đi sâu nhất có thể trước khi quay lui.\nĐịnh nghĩa quan trọng: DFS dùng stack hoặc đệ quy.\nTừ khóa gợi ý: đồ thị, ngăn xếp"
+  },
+  {
+    "id": "computer_science__hash_table",
+    "category": "computer_science",
+    "topic": "hash_table",
+    "title": "Bảng băm",
+    "keywords": [
+      "tra cứu",
+      "xung đột"
+    ],
+    "content": "Giải thích ngắn: Cấu trúc dữ liệu cho phép tra cứu trung bình gần O(1).\nĐịnh nghĩa quan trọng: Cần chiến lược xử lý xung đột như chaining hoặc open addressing.\nTừ khóa gợi ý: tra cứu, xung đột"
+  },
+  {
+    "id": "computer_science__stack_queue",
+    "category": "computer_science",
+    "topic": "stack_queue",
+    "title": "Ngăn xếp và hàng đợi",
+    "keywords": [
+      "LIFO",
+      "FIFO"
+    ],
+    "content": "Giải thích ngắn: Stack theo LIFO, queue theo FIFO.\nĐịnh nghĩa quan trọng: Stack: push/pop; queue: enqueue/dequeue.\nTừ khóa gợi ý: LIFO, FIFO"
+  },
+  {
+    "id": "computer_science__recursion",
+    "category": "computer_science",
+    "topic": "recursion",
+    "title": "Đệ quy",
+    "keywords": [
+      "base case",
+      "call stack"
+    ],
+    "content": "Giải thích ngắn: Hàm tự gọi lại chính nó để giải bài toán con.\nĐịnh nghĩa quan trọng: Phải có điều kiện dừng rõ ràng để tránh lặp vô hạn.\nTừ khóa gợi ý: base case, call stack"
+  },
+  {
+    "id": "computer_science__dynamic_programming",
+    "category": "computer_science",
+    "topic": "dynamic_programming",
+    "title": "Quy hoạch động",
+    "keywords": [
+      "subproblem",
+      "memoization"
+    ],
+    "content": "Giải thích ngắn: Giải bài toán bằng cách lưu kết quả các bài toán con chồng lấp.\nĐịnh nghĩa quan trọng: Thường dùng memoization hoặc tabulation.\nTừ khóa gợi ý: subproblem, memoization"
+  },
+  {
+    "id": "computer_science__dijkstra",
+    "category": "computer_science",
+    "topic": "dijkstra",
+    "title": "Thuật toán Dijkstra",
+    "keywords": [
+      "đường đi ngắn nhất",
+      "đồ thị có trọng số"
+    ],
+    "content": "Giải thích ngắn: Tìm đường đi ngắn nhất từ một nguồn trên đồ thị trọng số không âm.\nĐịnh nghĩa quan trọng: Không áp dụng trực tiếp khi có cạnh trọng số âm.\nTừ khóa gợi ý: đường đi ngắn nhất, đồ thị có trọng số"
+  },
+  {
+    "id": "computer_science__sql_joins",
+    "category": "computer_science",
+    "topic": "sql_joins",
+    "title": "Các phép JOIN trong SQL",
+    "keywords": [
+      "inner join",
+      "left join"
+    ],
+    "content": "Giải thích ngắn: Kết hợp dữ liệu từ nhiều bảng theo khóa liên hệ.\nĐịnh nghĩa quan trọng: INNER JOIN giữ phần giao; LEFT JOIN giữ toàn bộ bảng trái.\nTừ khóa gợi ý: inner join, left join"
+  },
+  {
+    "id": "computer_science__acid",
+    "category": "computer_science",
+    "topic": "acid",
+    "title": "Thuộc tính ACID",
+    "keywords": [
+      "database",
+      "transaction"
+    ],
+    "content": "Giải thích ngắn: Một giao dịch đáng tin cậy thường thỏa ACID.\nĐịnh nghĩa quan trọng: Atomicity, Consistency, Isolation, Durability.\nTừ khóa gợi ý: database, transaction"
+  },
+  {
+    "id": "computer_science__osi_tcpip",
+    "category": "computer_science",
+    "topic": "osi_tcpip",
+    "title": "Mô hình OSI và TCP/IP",
+    "keywords": [
+      "mạng máy tính",
+      "protocol"
+    ],
+    "content": "Giải thích ngắn: OSI có 7 tầng; TCP/IP thường gộp thành 4 hoặc 5 tầng.\nĐịnh nghĩa quan trọng: Giúp xác định vai trò của giao thức ở từng lớp.\nTừ khóa gợi ý: mạng máy tính, protocol"
+  },
+  {
+    "id": "law_safety__contract_elements",
+    "category": "law_safety",
+    "topic": "contract_elements",
+    "title": "Các yếu tố cơ bản của hợp đồng",
+    "keywords": [
+      "đề nghị",
+      "chấp nhận",
+      "năng lực"
+    ],
+    "content": "Giải thích ngắn: Hợp đồng thường cần sự thỏa thuận tự nguyện, chủ thể có năng lực và mục đích hợp pháp.\nĐịnh nghĩa quan trọng: Điều khoản trái pháp luật có thể làm giao dịch vô hiệu.\nTừ khóa gợi ý: đề nghị, chấp nhận, năng lực"
+  },
+  {
+    "id": "law_safety__burden_of_proof",
+    "category": "law_safety",
+    "topic": "burden_of_proof",
+    "title": "Gánh nặng chứng minh",
+    "keywords": [
+      "chứng cứ",
+      "tranh chấp"
+    ],
+    "content": "Giải thích ngắn: Bên đưa ra yêu cầu thường có nghĩa vụ chứng minh cho yêu cầu của mình.\nĐịnh nghĩa quan trọng: Quy tắc cụ thể tùy lĩnh vực tố tụng.\nTừ khóa gợi ý: chứng cứ, tranh chấp"
+  },
+  {
+    "id": "law_safety__consumer_rights",
+    "category": "law_safety",
+    "topic": "consumer_rights",
+    "title": "Quyền cơ bản của người tiêu dùng",
+    "keywords": [
+      "thông tin",
+      "an toàn"
+    ],
+    "content": "Giải thích ngắn: Người tiêu dùng thường có quyền được cung cấp thông tin chính xác và sử dụng hàng hóa an toàn.\nĐịnh nghĩa quan trọng: Tổ chức kinh doanh có nghĩa vụ minh bạch và bồi thường khi vi phạm.\nTừ khóa gợi ý: thông tin, an toàn"
+  },
+  {
+    "id": "law_safety__labor_contract",
+    "category": "law_safety",
+    "topic": "labor_contract",
+    "title": "Khái niệm hợp đồng lao động",
+    "keywords": [
+      "lao động",
+      "người sử dụng lao động"
+    ],
+    "content": "Giải thích ngắn: Hợp đồng lao động ghi nhận việc làm có trả công, điều kiện làm việc và quyền nghĩa vụ của các bên.\nĐịnh nghĩa quan trọng: Cần lưu ý thời hạn, thử việc, bảo hiểm và điều kiện chấm dứt.\nTừ khóa gợi ý: lao động, người sử dụng lao động"
+  },
+  {
+    "id": "law_safety__limited_liability",
+    "category": "law_safety",
+    "topic": "limited_liability",
+    "title": "Trách nhiệm hữu hạn",
+    "keywords": [
+      "doanh nghiệp",
+      "vốn góp"
+    ],
+    "content": "Giải thích ngắn: Chủ sở hữu/cổ đông thường chịu trách nhiệm trong phạm vi phần vốn góp theo loại hình phù hợp.\nĐịnh nghĩa quan trọng: Phân biệt với trách nhiệm vô hạn của một số mô hình khác.\nTừ khóa gợi ý: doanh nghiệp, vốn góp"
+  },
+  {
+    "id": "law_safety__copyright_basics",
+    "category": "law_safety",
+    "topic": "copyright_basics",
+    "title": "Bản quyền cơ bản",
+    "keywords": [
+      "quyền tác giả",
+      "tác phẩm"
+    ],
+    "content": "Giải thích ngắn: Quyền tác giả bảo vệ tác phẩm sáng tạo thể hiện dưới hình thức nhất định.\nĐịnh nghĩa quan trọng: Không bảo hộ ý tưởng thuần túy chưa được thể hiện.\nTừ khóa gợi ý: quyền tác giả, tác phẩm"
+  },
+  {
+    "id": "law_safety__data_privacy_consent",
+    "category": "law_safety",
+    "topic": "data_privacy_consent",
+    "title": "Đồng ý trong bảo vệ dữ liệu cá nhân",
+    "keywords": [
+      "consent",
+      "privacy"
+    ],
+    "content": "Giải thích ngắn: Xử lý dữ liệu cá nhân thường cần căn cứ pháp lý phù hợp, trong đó có sự đồng ý hợp lệ.\nĐịnh nghĩa quan trọng: Sự đồng ý nên tự nguyện, cụ thể và có thể chứng minh.\nTừ khóa gợi ý: consent, privacy"
+  },
+  {
+    "id": "law_safety__anti_corruption_conflict",
+    "category": "law_safety",
+    "topic": "anti_corruption_conflict",
+    "title": "Xung đột lợi ích",
+    "keywords": [
+      "liêm chính",
+      "tuân thủ"
+    ],
+    "content": "Giải thích ngắn: Xung đột lợi ích phát sinh khi lợi ích cá nhân có thể ảnh hưởng đến quyết định công vụ hoặc nghề nghiệp.\nĐịnh nghĩa quan trọng: Cần nhận diện, khai báo và xử lý minh bạch.\nTừ khóa gợi ý: liêm chính, tuân thủ"
+  },
+  {
+    "id": "general_knowledge__vector_dot_product",
+    "category": "general_knowledge",
+    "topic": "vector_dot_product",
+    "title": "Tích vô hướng",
+    "keywords": [
+      "vector",
+      "góc"
+    ],
+    "content": "Giải thích ngắn: Tích vô hướng liên hệ độ dài và góc giữa hai vector.\nCông thức: a·b = |a||b|cosθ = Σ a_i b_i\nĐịnh nghĩa quan trọng: Hai vector vuông góc khi tích vô hướng bằng 0.\nTừ khóa gợi ý: vector, góc"
+  },
+  {
+    "id": "general_knowledge__derivative_meaning",
+    "category": "general_knowledge",
+    "topic": "derivative_meaning",
+    "title": "Ý nghĩa hình học của đạo hàm",
+    "keywords": [
+      "tiếp tuyến",
+      "độ dốc"
+    ],
+    "content": "Giải thích ngắn: Đạo hàm tại một điểm là hệ số góc của tiếp tuyến đồ thị tại điểm đó.\nĐịnh nghĩa quan trọng: Cũng là tốc độ thay đổi tức thời trong ngữ cảnh vật lý/kinh tế.\nTừ khóa gợi ý: tiếp tuyến, độ dốc"
+  },
+  {
+    "id": "general_knowledge__integral_meaning",
+    "category": "general_knowledge",
+    "topic": "integral_meaning",
+    "title": "Ý nghĩa của tích phân xác định",
+    "keywords": [
+      "diện tích",
+      "tổng tích lũy"
+    ],
+    "content": "Giải thích ngắn: Tích phân xác định mô tả lượng tích lũy hoặc diện tích có dấu.\nĐịnh nghĩa quan trọng: Thường dùng để tính diện tích, quãng đường tích lũy, xác suất.\nTừ khóa gợi ý: diện tích, tổng tích lũy"
+  },
+  {
+    "id": "general_knowledge__p_value",
+    "category": "general_knowledge",
+    "topic": "p_value",
+    "title": "Khái niệm p-value",
+    "keywords": [
+      "kiểm định giả thuyết",
+      "thống kê"
+    ],
+    "content": "Giải thích ngắn: p-value là xác suất quan sát dữ liệu cực đoan như đã thấy nếu giả thuyết không đúng bị giữ.\nĐịnh nghĩa quan trọng: p-value nhỏ thường chống lại giả thuyết gốc.\nTừ khóa gợi ý: kiểm định giả thuyết, thống kê"
+  },
+  {
+    "id": "general_knowledge__entropy_information",
+    "category": "general_knowledge",
+    "topic": "entropy_information",
+    "title": "Entropy trong lý thuyết thông tin",
+    "keywords": [
+      "bit",
+      "bất định"
+    ],
+    "content": "Giải thích ngắn: Entropy đo mức độ bất định trung bình của nguồn tin.\nCông thức: H(X) = -Σ p(x) log_2 p(x)\nĐịnh nghĩa quan trọng: Entropy cao hơn nghĩa là thông tin trung bình nhiều hơn.\nTừ khóa gợi ý: bit, bất định"
+  },
+  {
+    "id": "general_knowledge__probability_expectation",
+    "category": "general_knowledge",
+    "topic": "probability_expectation",
+    "title": "Kỳ vọng toán học",
+    "keywords": [
+      "xác suất",
+      "trung bình"
+    ],
+    "content": "Giải thích ngắn: Kỳ vọng là giá trị trung bình dài hạn của biến ngẫu nhiên.\nCông thức: E[X] = Σ x p(x)\nĐịnh nghĩa quan trọng: Không nhất thiết là giá trị thực sự quan sát được.\nTừ khóa gợi ý: xác suất, trung bình"
+  },
+  {
+    "id": "general_knowledge__algorithm_definition",
+    "category": "general_knowledge",
+    "topic": "algorithm_definition",
+    "title": "Định nghĩa thuật toán",
+    "keywords": [
+      "bước hữu hạn",
+      "giải bài toán"
+    ],
+    "content": "Giải thích ngắn: Thuật toán là dãy bước xác định, hữu hạn để giải một lớp bài toán.\nĐịnh nghĩa quan trọng: Các tiêu chí thường gồm đúng đắn, hiệu quả và tính dừng.\nTừ khóa gợi ý: bước hữu hạn, giải bài toán"
+  },
+  {
+    "id": "general_knowledge__database_normalization",
+    "category": "general_knowledge",
+    "topic": "database_normalization",
+    "title": "Chuẩn hóa cơ sở dữ liệu",
+    "keywords": [
+      "1NF",
+      "2NF",
+      "3NF"
+    ],
+    "content": "Giải thích ngắn: Chuẩn hóa giảm dư thừa và bất nhất dữ liệu bằng cách tổ chức quan hệ hợp lý.\nĐịnh nghĩa quan trọng: 3NF thường loại bỏ phụ thuộc bắc cầu không cần thiết.\nTừ khóa gợi ý: 1NF, 2NF, 3NF"
+  },
+  {
+    "id": "general_knowledge__inflation_deflation",
+    "category": "general_knowledge",
+    "topic": "inflation_deflation",
+    "title": "Lạm phát và giảm phát",
+    "keywords": [
+      "mức giá",
+      "kinh tế vĩ mô"
+    ],
+    "content": "Giải thích ngắn: Lạm phát là mức giá chung tăng; giảm phát là mức giá chung giảm.\nĐịnh nghĩa quan trọng: Hai hiện tượng có hệ quả rất khác nhau lên tiêu dùng và đầu tư.\nTừ khóa gợi ý: mức giá, kinh tế vĩ mô"
+  },
+  {
+    "id": "general_knowledge__risk_return_tradeoff",
+    "category": "general_knowledge",
+    "topic": "risk_return_tradeoff",
+    "title": "Đánh đổi rủi ro - lợi nhuận",
+    "keywords": [
+      "đầu tư",
+      "risk premium"
+    ],
+    "content": "Giải thích ngắn: Lợi nhuận kỳ vọng cao hơn thường đòi hỏi chấp nhận rủi ro cao hơn.\nĐịnh nghĩa quan trọng: Khái niệm nền tảng trong tài chính và quyết định đầu tư.\nTừ khóa gợi ý: đầu tư, risk premium"
+  }
+]

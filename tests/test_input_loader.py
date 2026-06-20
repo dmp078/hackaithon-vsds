@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from app.input_loader import load_questions
+from app.input_loader import discover_input_file, load_questions
 
 
 def test_load_json_array(tmp_path: Path) -> None:
@@ -68,3 +68,15 @@ def test_preserve_duplicate_choices_and_vietnamese_unicode(tmp_path: Path) -> No
     assert invalid_count == 0
     assert questions[0].question == "Thủ đô là gì?"
     assert questions[0].choices == ["Giống nhau", "Khác", "Giống nhau"]
+
+
+def test_discover_input_file_prefers_root_public_test_over_sample(monkeypatch, tmp_path: Path) -> None:
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    (data_dir / "sample_public_test.json").write_text("[]", encoding="utf-8")
+    official = tmp_path / "public-test_1780368312.json"
+    official.write_text("[]", encoding="utf-8")
+
+    monkeypatch.chdir(tmp_path)
+
+    assert discover_input_file() == Path("./public-test_1780368312.json")

@@ -1,0 +1,463 @@
+{"qid": "test_0001", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 10663.140582997585, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0002", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.14858299982734025, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0003", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6199.598625011276, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0004", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5988.40950000158, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0005", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6206.8107499944745, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0006", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.14445799752138555, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0007", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.0037919962778687477, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0008", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.09154199506156147, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0009", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 1832.7791659976356, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0010", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1592.549417007831, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0011", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 4288.577249986702, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0012", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1595.5952499934938, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0013", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.2970830100821331, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0014", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4326.402457998483, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0015", "selected_index": 2, "answer": "C", "provider": "heuristic", "latency_ms": 0.06175000453367829, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0016", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2041.73099999025, "raw_response": "{\n\"selected_index\": 0\n}", "error": null, "used_fallback": false}
+{"qid": "test_0017", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3196.870999992825, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0018", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1576.8207499932032, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0019", "selected_index": 3, "answer": "D", "provider": "heuristic", "latency_ms": 0.02837499778252095, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0020", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2650.199291994795, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0021", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2021.5172919997713, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0022", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1518.9812909957254, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0023", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5103.886083990801, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0024", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1632.6170829997864, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0025", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1420.446832999005, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0026", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1496.3562920020195, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0027", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3950.397790991701, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0028", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6859.987582996837, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0029", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1412.352582992753, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0030", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1411.7652080021799, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0031", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2356.0347919992637, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0032", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 4566.491874997155, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0033", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1118.10329099535, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0034", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1141.936333006015, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0035", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1145.9480420016916, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0036", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.04716600233223289, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0037", "selected_index": 5, "answer": "F", "provider": "heuristic", "latency_ms": 0.07458298932760954, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0038", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1026.9338340003742, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0039", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3737.042416993063, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0040", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5733.649208006682, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0041", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1082.9952920030337, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0042", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1147.739542007912, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0043", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1830.6748750037514, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0044", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1522.8641669964418, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0045", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6617.704208008945, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0046", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1419.8404589988058, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0047", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6448.737500002608, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0048", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1483.0749579996336, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0049", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6012.417124991771, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0050", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1558.3218750107335, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0051", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1193.0741249962011, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0052", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 7955.213791996357, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0053", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4204.583832994103, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0054", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2050.1165839959867, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0055", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.13299999409355223, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0056", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1774.5257500064326, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0057", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 7745.898166991537, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0058", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1722.9067080043023, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0059", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1927.4335840018466, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0060", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2033.8230000052135, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0061", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1701.0659170045983, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0062", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1558.0727500055218, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0063", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2397.6151660026517, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0064", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 5527.43604099669, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0065", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1445.2688339952147, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0066", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1761.5044160047546, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0067", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2889.6623750042636, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0068", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1247.8912090009544, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0069", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2578.8779580034316, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0070", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2219.5344169886084, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0071", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2762.7043329994194, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0072", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2830.4299590090523, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0073", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1392.6217499974882, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0074", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1416.596084003686, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0075", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1343.1011250067968, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0076", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1753.8327910006046, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0077", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2414.4974169903435, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0078", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.06333300552796572, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0079", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2395.950833000825, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0080", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2324.367583001731, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0081", "selected_index": 2, "answer": "C", "provider": "heuristic", "latency_ms": 0.20766700617969036, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0082", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2871.5248329972383, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0083", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3221.9404589995975, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0084", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2118.475417009904, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0085", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2456.0817500023404, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0086", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2273.991166992346, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0087", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2692.7640840003733, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0088", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2132.6669999980368, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0089", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2364.8416249925504, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0090", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 9638.543708992074, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0091", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 5204.525584005751, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0092", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2218.815457992605, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0093", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3033.169165995787, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0094", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6013.840832994902, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0095", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 7434.3990000052145, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0096", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2351.95133399975, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0097", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1856.9976670114556, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0098", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2008.955249999417, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0099", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3383.22870900447, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0100", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1908.4315420041094, "raw_response": "{\n  \"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0101", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2716.232749997289, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0102", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 3261.7702499992447, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0103", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.0787919998401776, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0104", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7456.7767919943435, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0105", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2021.6319169994676, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0106", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2082.4929170048563, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0107", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8163.073582996731, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0108", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1951.8337079935009, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0109", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1849.912834004499, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0110", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2059.944667009404, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0111", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.06362500425893813, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0112", "selected_index": 6, "answer": "G", "provider": "heuristic", "latency_ms": 0.11666699720080942, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0113", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 9758.2774170005, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0114", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2084.9182499950984, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0115", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1944.102166002267, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0116", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.07616599032189697, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0117", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 8510.35683399823, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0118", "selected_index": 4, "answer": "E", "provider": "heuristic", "latency_ms": 0.12233300367370248, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0119", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8683.304833000875, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0120", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1771.0279589955462, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0121", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2403.6317499994766, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0122", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2189.0987919905456, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0123", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2607.545624996419, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0124", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1902.1780830080388, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0125", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1771.6493329935474, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0126", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7752.162417004001, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0127", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1794.0575829998124, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0128", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2026.5876249904977, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0129", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3823.831125002471, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0130", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6181.657917011762, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0131", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1258.4180420089979, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0132", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1391.0993750032503, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0133", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1284.7862920025364, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0134", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1654.2485829995712, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0135", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1113.8731250102865, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0136", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1655.521166001563, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0137", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1339.0975000074832, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0138", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 4931.522041995777, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0139", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1607.8139589953935, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0140", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1763.7627920048544, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0141", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5499.042333001853, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0142", "selected_index": 7, "answer": "H", "provider": "ollama", "latency_ms": 2801.589457987575, "raw_response": "{\"selected_index\": 7}", "error": null, "used_fallback": false}
+{"qid": "test_0143", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1242.5355000013951, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0144", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2616.4690839941613, "raw_response": "{\"selected_index\":0}", "error": null, "used_fallback": false}
+{"qid": "test_0145", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1412.3915420059348, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0146", "selected_index": 2, "answer": "C", "provider": "heuristic", "latency_ms": 0.08591699588578194, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0147", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2814.301582999178, "raw_response": "{\n  \"selected_index\": 4\n}", "error": null, "used_fallback": false}
+{"qid": "test_0148", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3375.316334000672, "raw_response": "{\n  \"selected_index\": 1\n}", "error": null, "used_fallback": false}
+{"qid": "test_0149", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6900.149708992103, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0150", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1751.4921669935575, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0151", "selected_index": 5, "answer": "F", "provider": "ollama", "latency_ms": 2354.2321249988163, "raw_response": "{\"selected_index\": 5}", "error": null, "used_fallback": false}
+{"qid": "test_0152", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.7176249928306788, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0153", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1330.9009170043282, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0154", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1860.8800420042826, "raw_response": "{\"selected_index\":2}", "error": null, "used_fallback": false}
+{"qid": "test_0155", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.17025000124704093, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0156", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1413.9822090073721, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0157", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8821.510542009491, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0158", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.04962499951943755, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0159", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 4365.871082991362, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0160", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1464.3677080021007, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0161", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1679.6320829889737, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0162", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1805.7495829998516, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0163", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1901.6329170117388, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0164", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1290.0510420004139, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0165", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3313.0006669962313, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0166", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1844.7138339979574, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0167", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6016.640374989947, "raw_response": "{\"selected_index\":2}", "error": null, "used_fallback": false}
+{"qid": "test_0168", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1388.6453330051154, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0169", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 9188.226750004105, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0170", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1561.0552080033813, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0171", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 5013.773416008917, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0172", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8416.81750000862, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0173", "selected_index": 3, "answer": "D", "provider": "heuristic", "latency_ms": 0.021625004592351615, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0174", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.16091599536594003, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0175", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8505.219707993092, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0176", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2115.1411660102895, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0177", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2754.8580410075374, "raw_response": "{\n  \"selected_index\": 1\n}", "error": null, "used_fallback": false}
+{"qid": "test_0178", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1372.3789999930887, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0179", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.07679199916310608, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0180", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1346.5045409975573, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0181", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1641.0400830063736, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0182", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5335.666958999354, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0183", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1841.757874994073, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0184", "selected_index": 3, "answer": "D", "provider": "heuristic", "latency_ms": 0.029082992114126682, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0185", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6706.408708996605, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0186", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1324.1735419869656, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0187", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2042.6241669920273, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0188", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.13587498688139021, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0189", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.06837499677203596, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0190", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1424.6091669920133, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0191", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2687.7844160044333, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0192", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 3185.5537920055212, "raw_response": "{\n\"selected_index\": 6\n}", "error": null, "used_fallback": false}
+{"qid": "test_0193", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2959.5135830022627, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0194", "selected_index": 5, "answer": "F", "provider": "ollama", "latency_ms": 2333.558583006379, "raw_response": "{\"selected_index\": 5}", "error": null, "used_fallback": false}
+{"qid": "test_0195", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1760.7003330049338, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0196", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1568.8872499886202, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0197", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8806.366500008153, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0198", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1634.948874998372, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0199", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1591.1308340000687, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0200", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1434.835916996235, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0201", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 8412.797500001034, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0202", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 4098.830125003587, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0203", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1856.3834999949904, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0204", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1740.5390000058105, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0205", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7651.274291987647, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0206", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2049.044374987716, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0207", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.20500000391621143, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0208", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2511.1249170004157, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0209", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1716.6432079975493, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0210", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6484.669333003694, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0211", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5363.422957991133, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0212", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 9582.649916002993, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0213", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1765.8218750002561, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0214", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7822.948000000906, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0215", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1442.0170000084909, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0216", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1604.4053339865059, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0217", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6184.23499999335, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0218", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2809.4952079991344, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0219", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7268.943458999274, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0220", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 3508.3040000026813, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0221", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1926.5819160063984, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0222", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 1782.2099999903003, "raw_response": "{\"selected_index\": 6}", "error": null, "used_fallback": false}
+{"qid": "test_0223", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2746.687207996729, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0224", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1674.8854580073385, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0225", "selected_index": 2, "answer": "C", "provider": "heuristic", "latency_ms": 0.2985410101246089, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0226", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3334.426165994955, "raw_response": "{\"selected_index\":0}", "error": null, "used_fallback": false}
+{"qid": "test_0227", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2089.8074580036337, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0228", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 1533.6383329995442, "raw_response": "{\"selected_index\": 6}", "error": null, "used_fallback": false}
+{"qid": "test_0229", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1320.6279169971822, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0230", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1655.6468329945346, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0231", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4881.831541992142, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0232", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.1560829987283796, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0233", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1938.1552080012625, "raw_response": "{\n\"selected_index\": 0\n}", "error": null, "used_fallback": false}
+{"qid": "test_0234", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2783.6296250025043, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0235", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2088.330665996182, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0236", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1325.0614580028923, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0237", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1421.7369999969378, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0238", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2338.16700000898, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0239", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7900.987000000896, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0240", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2033.5865000088234, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0241", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1606.0179589985637, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0242", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1528.860166989034, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0243", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7081.774709004094, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0244", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2079.2138340038946, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0245", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2169.5236250088783, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0246", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2913.544291004655, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0247", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1281.5762079990236, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0248", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4504.384250001749, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0249", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6493.894250001176, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0250", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1423.0992090015206, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0251", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1722.5955419999082, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0252", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1415.5101670039585, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0253", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1483.3500000095228, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0254", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1565.3024170023855, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0255", "selected_index": 7, "answer": "H", "provider": "ollama", "latency_ms": 2908.4057090076385, "raw_response": "{\"selected_index\": 7}", "error": null, "used_fallback": false}
+{"qid": "test_0256", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1514.4841670116875, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0257", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1590.663916998892, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0258", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2116.925166992587, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0259", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1349.8995830013882, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0260", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1358.043208005256, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0261", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2308.692542006611, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0262", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1770.2138750028098, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0263", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1885.2948330022627, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0264", "selected_index": 7, "answer": "H", "provider": "ollama", "latency_ms": 2722.4085409980034, "raw_response": "{\"selected_index\": 7}", "error": null, "used_fallback": false}
+{"qid": "test_0265", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3353.439166006865, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0266", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1526.4007500081789, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0267", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 1739.827665995108, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0268", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1970.949374997872, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0269", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2537.010707994341, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0270", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2126.8122920009773, "raw_response": "{\n  \"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0271", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1619.7621250030352, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0272", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 11054.702458000975, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0273", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1424.136792003992, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0274", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1462.141915995744, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0275", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2559.1735829948448, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0276", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1423.1792500067968, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0277", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2704.149208992021, "raw_response": "{\"selected_index\":0}", "error": null, "used_fallback": false}
+{"qid": "test_0278", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2482.5521250022575, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0279", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6910.741166007938, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0280", "selected_index": 8, "answer": "I", "provider": "ollama", "latency_ms": 2471.7589159990894, "raw_response": "{\"selected_index\": 8}", "error": null, "used_fallback": false}
+{"qid": "test_0281", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 1824.3194170063362, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0282", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 7201.432333007688, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0283", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1500.0237920030486, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0284", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1407.0322909974493, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0285", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2190.343916998245, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0286", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5058.947832992999, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0287", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1648.5092920047464, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0288", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1540.9786670061294, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0289", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1726.4402080036234, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0290", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1339.0541249973467, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0291", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2549.6549579984276, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0292", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1602.8214160032803, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0293", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1385.0847499998054, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0294", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1838.139333005529, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0295", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 4717.179874991416, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0296", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 6610.099084005924, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0297", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 1916.5157090028515, "raw_response": "{\"selected_index\": 6}", "error": null, "used_fallback": false}
+{"qid": "test_0298", "selected_index": 5, "answer": "F", "provider": "ollama", "latency_ms": 2658.2277080015047, "raw_response": "{\"selected_index\": 5}", "error": null, "used_fallback": false}
+{"qid": "test_0299", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2064.099916999112, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0300", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5725.299500001711, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0301", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1457.6124580053147, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0302", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5619.216166989645, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0303", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1667.4877089972142, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0304", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1543.3599170064554, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0305", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2066.271832998609, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0306", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 9845.079624996288, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0307", "selected_index": 7, "answer": "H", "provider": "ollama", "latency_ms": 2538.1110419984907, "raw_response": "{\"selected_index\": 7}", "error": null, "used_fallback": false}
+{"qid": "test_0308", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1497.3795419937233, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0309", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1617.8632079972886, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0310", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 3265.1134580082726, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0311", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1876.5428750048159, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0312", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2917.267290991731, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0313", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1424.9572919943603, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0314", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1904.3963329895632, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0315", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1502.9663750028703, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0316", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1364.653124997858, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0317", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1687.5110000109999, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0318", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1329.2476250062464, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0319", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1424.9643750081304, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0320", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1650.0697080045938, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0321", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1502.4625410005683, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0322", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1414.2882080050185, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0323", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2307.028249997529, "raw_response": "{\n\"selected_index\": 2\n}", "error": null, "used_fallback": false}
+{"qid": "test_0324", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6375.673041999107, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0325", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 9317.504500009818, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0326", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2025.4767499864101, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0327", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2969.983582996065, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0328", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1729.762540999218, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0329", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1551.0007920092903, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0330", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1449.284374990384, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0331", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1748.3617079997202, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0332", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2596.7640839953674, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0333", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 8864.083500011475, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0334", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2734.2292910034303, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0335", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.06679199577774853, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0336", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2222.7652910078177, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0337", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2506.589791009901, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0338", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2369.199500011746, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0339", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3145.7149159978144, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0340", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1856.3749589957297, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0341", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2695.352750000893, "raw_response": "{\"selected_index\":3}", "error": null, "used_fallback": false}
+{"qid": "test_0342", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 7004.558083004667, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0343", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 3157.3717499995837, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0344", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2230.646208001417, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0345", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2916.9452079950133, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0346", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6827.044499994372, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0347", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 7954.926958991564, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0348", "selected_index": 7, "answer": "H", "provider": "ollama", "latency_ms": 1501.6852499975357, "raw_response": "{\"selected_index\": 7}", "error": null, "used_fallback": false}
+{"qid": "test_0349", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1434.9602080037585, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0350", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 10381.437250005547, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0351", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 2310.1004580094013, "raw_response": "{\"selected_index\": 6}", "error": null, "used_fallback": false}
+{"qid": "test_0352", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1547.4236250011018, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0353", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4117.953416003729, "raw_response": "{\"selected_index\":1}", "error": null, "used_fallback": false}
+{"qid": "test_0354", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1484.2287079954986, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0355", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2566.287124995142, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0356", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1415.666083994438, "raw_response": "{ \"selected_index\": 2 }", "error": null, "used_fallback": false}
+{"qid": "test_0357", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5889.987167000072, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0358", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1634.8083750053775, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0359", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1420.4559159989003, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0360", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1722.9553749930346, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0361", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 8622.711916992557, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0362", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1646.2622079998255, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0363", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 9899.212457996327, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0364", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7333.424666998326, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0365", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5981.944416998886, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0366", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2972.906041992246, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0367", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1438.935333993868, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0368", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 8092.987875003018, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0369", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1533.7341249978635, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0370", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1510.3774169983808, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0371", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2173.5603749984875, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0372", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.0898329890333116, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0373", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1828.7028339982498, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0374", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1779.6282089984743, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0375", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5927.119374988251, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0376", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1543.0037499900209, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0377", "selected_index": 3, "answer": "D", "provider": "heuristic", "latency_ms": 0.04383300256449729, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0378", "selected_index": 5, "answer": "F", "provider": "ollama", "latency_ms": 2988.399291993119, "raw_response": "{\"selected_index\": 5}", "error": null, "used_fallback": false}
+{"qid": "test_0379", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1636.3713329919847, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0380", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1374.1837499983376, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0381", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 1772.3548329959158, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0382", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.1025829988066107, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0383", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1539.3380409950623, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0384", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1405.6957080028951, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0385", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1494.3993749911897, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0386", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1541.520250000758, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0387", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1478.6423750047106, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0388", "selected_index": 2, "answer": "C", "provider": "heuristic", "latency_ms": 0.06004099850542843, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0389", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1728.171624999959, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0390", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3291.525458000251, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0391", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6882.001749996562, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0392", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2535.227665997809, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0393", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1702.295042006881, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0394", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.0322499981848523, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0395", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2668.1802910025, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0396", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1835.7747080008266, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0397", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2623.1638330064015, "raw_response": "{ \"selected_index\": 4 }", "error": null, "used_fallback": false}
+{"qid": "test_0398", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1936.8085830064956, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0399", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1393.3191249961965, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0400", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1657.6266670017503, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0401", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1478.7021249940153, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0402", "selected_index": 4, "answer": "E", "provider": "ollama", "latency_ms": 2732.2259999928065, "raw_response": "{\"selected_index\": 4}", "error": null, "used_fallback": false}
+{"qid": "test_0403", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 3095.5181249883026, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0404", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1956.1357909988146, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0405", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1379.5549999922514, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0406", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.15970898675732315, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0407", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 4493.666792011936, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0408", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 3007.4851249955827, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0409", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 9954.08745900204, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0410", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2005.6929999991553, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0411", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 8621.385332997306, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0412", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.07516700134146959, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0413", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6558.981000009226, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0414", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1886.4797919959528, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0415", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1805.245499999728, "raw_response": "{\n\"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0416", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 2055.499125010101, "raw_response": "{\n\"selected_index\": 1\n}", "error": null, "used_fallback": false}
+{"qid": "test_0417", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2210.85241700348, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0418", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 6844.809415997588, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0419", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1934.723166996264, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0420", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.15033299860078841, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0421", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 11586.56570900348, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0422", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1782.8269160090713, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0423", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2465.981583998655, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0424", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1629.1169169999193, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0425", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 2924.282125008176, "raw_response": "{\"selected_index\": 6}", "error": null, "used_fallback": false}
+{"qid": "test_0426", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7355.494707997423, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0427", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1430.3103749989532, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0428", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6495.805582992034, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0429", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 7434.911167001701, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0430", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1590.567250008462, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0431", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 3637.326790994848, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0432", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1426.2509999971371, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0433", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 5631.766374994186, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0434", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 9583.241790998727, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0435", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1755.455125006847, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0436", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 6261.3980419992, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0437", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 5015.311750001274, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0438", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1572.4282080045668, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0439", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.13066599785815924, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0440", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5787.458459002664, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0441", "selected_index": 1, "answer": "B", "provider": "heuristic", "latency_ms": 0.0603340013185516, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0442", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1699.6735410066321, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0443", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 9449.595916987164, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0444", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2949.336083998787, "raw_response": "{ \"selected_index\": 0 }", "error": null, "used_fallback": false}
+{"qid": "test_0445", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1516.4335839945124, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0446", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1571.6243750066496, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0447", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 9101.455249998253, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0448", "selected_index": 0, "answer": "A", "provider": "heuristic", "latency_ms": 0.05804200191050768, "raw_response": null, "error": null, "used_fallback": false}
+{"qid": "test_0449", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1343.19520900317, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0450", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2036.0893329925602, "raw_response": "{\"selected_index\":0}", "error": null, "used_fallback": false}
+{"qid": "test_0451", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 1463.178040998173, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0452", "selected_index": 6, "answer": "G", "provider": "ollama", "latency_ms": 2906.3236249930924, "raw_response": "{\n\"selected_index\": 6\n}", "error": null, "used_fallback": false}
+{"qid": "test_0453", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 2407.0512909966055, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0454", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 2104.515166996862, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}
+{"qid": "test_0455", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1657.7413749910193, "raw_response": "{ \"selected_index\": 1 }", "error": null, "used_fallback": false}
+{"qid": "test_0456", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2086.66295799776, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0457", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 2514.7434170066845, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0458", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 3453.527417004807, "raw_response": "{\n  \"selected_index\": 3\n}", "error": null, "used_fallback": false}
+{"qid": "test_0459", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 5929.879749994143, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0460", "selected_index": 0, "answer": "A", "provider": "ollama", "latency_ms": 7162.661958005629, "raw_response": "{\"selected_index\": 0}", "error": null, "used_fallback": false}
+{"qid": "test_0461", "selected_index": 1, "answer": "B", "provider": "ollama", "latency_ms": 1466.3284169946564, "raw_response": "{\"selected_index\": 1}", "error": null, "used_fallback": false}
+{"qid": "test_0462", "selected_index": 2, "answer": "C", "provider": "ollama", "latency_ms": 1575.4620410007192, "raw_response": "{\"selected_index\": 2}", "error": null, "used_fallback": false}
+{"qid": "test_0463", "selected_index": 3, "answer": "D", "provider": "ollama", "latency_ms": 1779.348416996072, "raw_response": "{\"selected_index\": 3}", "error": null, "used_fallback": false}

@@ -24,4 +24,12 @@ pythonpath = ["."]
 addopts = "-q"
 
 [tool.setuptools]
-packages = ["app", "app.providers", "app.solvers"]
+packages = [
+  "app",
+  "app.evaluation",
+  "app.prompts",
+  "app.providers",
+  "app.retrieval",
+  "app.reranker",
+  "app.solvers",
+]

@@ -16,6 +16,7 @@ Vietnamese multiple-choice QA agent for a technical AI competition. The current 
 - Debug logging.
 - Benchmark summary.
 - Docker local development workflow.
+- Optional offline retrieval framework with local embeddings.
 
 ## Current exclusions
 
@@ -146,6 +147,17 @@ Example real-model run:
   --limit 3
 ```
 
+Example run with retrieval explicitly enabled:
+
+```bash
+.venv/bin/python -m app.main \
+  --input ./data/sample_public_test.json \
+  --output ./output/pred.csv \
+  --solver-mode auto \
+  --provider ollama \
+  --retrieval on
+```
+
 ## Evaluation workflow
 
 The curated gold validation set is for evaluation only.
@@ -199,6 +211,95 @@ The experiment runner also writes:
 reports/comparison.md
 reports/comparison.json
 ```
+
+## Retrieval framework
+
+The retrieval layer is optional and disabled by default.
+
+- `--retrieval off` preserves the current production behavior.
+- `--retrieval on` enables a lightweight local retrieval step only for LLM-bound questions that pass a heuristic gate.
+- Document embeddings are built offline and stored locally.
+- Query embeddings are isolated behind a single interface so the embedding backend can be replaced later without changing the retrieval pipeline.
+
+### Retrieval architecture
+
+```text
+question
+-> heuristic solver (existing path)
+-> if LLM is needed and retrieval=on:
+   -> retrieval gate
+   -> query embedding (local BGE-m3 interface)
+   -> cosine top-k retrieval from precomputed vectors
+   -> optional reranker if a local reranker becomes available
+   -> short snippet injection into prompt
+-> existing LLM generation path
+```
+
+Modules:
+
+- `app/retrieval/loader.py`: loads KB docs and offline embedding index
+- `app/retrieval/gate.py`: heuristic retrieval gating
+- `app/retrieval/retriever.py`: cosine similarity and top-k retrieval
+- `app/retrieval/context_builder.py`: snippet packing for prompt injection
+- `app/retrieval/pipeline.py`: orchestration layer
+- `app/reranker/`: optional reranker interface and fallback implementation
+
+### Build the starter knowledge base
+
+Generate the small curated corpus:
+
+```bash
+.venv/bin/python scripts/build_kb.py
+```
+
+This writes:
+
+```text
+knowledge_base/reference_documents.json
+```
+
+### Build offline BGE-m3 embeddings
+
+Pull the local embedding model if needed:
+
+```bash
+ollama pull bge-m3
+```
+
+Build document embeddings offline:
+
+```bash
+.venv/bin/python scripts/build_embeddings.py
+```
+
+This writes:
+
+```text
+embeddings/bge_m3_reference_documents.json
+```
+
+Inference never regenerates document embeddings.
+
+### Retrieval benchmark
+
+Run the baseline, retrieval, and retrieval+rereanker-if-available comparison:
+
+```bash
+.venv/bin/python scripts/benchmark_retrieval.py
+```
+
+This writes:
+
+```text
+reports/retrieval_framework/
+├── baseline/
+├── retrieval_bge_m3/
+├── retrieval_bge_m3_qwen_rerank/
+├── comparison.md
+└── summary.json
+```
+
+Note: the current reranker module is intentionally optional. If a compatible local Qwen reranker is unavailable, the benchmark keeps the cosine-only retrieval result and records the reranker variant as unavailable.
 
 ## Recommended optimization order
 

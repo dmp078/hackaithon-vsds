@@ -1,0 +1,14 @@
+{
+  "input_file": "public-test_1780368312.json",
+  "output_file": "submissions/submission_20260620_180431_qwen35_9b_prod_public.csv",
+  "total_questions": 463,
+  "successful_predictions": 463,
+  "failed_predictions": 0,
+  "fallback_predictions": 0,
+  "total_latency_ms": 1325031.3142468948,
+  "average_latency_ms": 2861.8386916779586,
+  "solver_mode": "auto",
+  "provider": "ollama",
+  "model": "qwen3.5:9b",
+  "invalid_records": 0
+}

@@ -1,6 +1,7 @@
 from app.config import AppConfig
 from app.models import QuestionItem
 from app.providers.base import LLMProvider
+from app.retrieval.models import RetrievalResult
 from app.solvers.llm_solver import LLMSolver
 
 
@@ -101,3 +102,45 @@ def test_llm_solver_does_not_retry_for_recoverable_near_json_output() -> None:
     assert prediction.used_fallback is False
     assert prediction.selected_index == 1
     assert len(provider.prompts) == 1
+
+
+class RetrievalAwareProvider(LLMProvider):
+    name = "retrieval-aware"
+
+    def __init__(self) -> None:
+        self.prompts: list[str] = []
+
+    def generate(self, question: QuestionItem, prompt: str) -> str:
+        self.prompts.append(prompt)
+        return '{"selected_index": 1}'
+
+
+class FakeRetrievalPipeline:
+    def build_snippets(self, question: QuestionItem) -> RetrievalResult:
+        return RetrievalResult(
+            snippets=["[mathematics] Công thức nghiệm bậc hai: x = (-b ± √Δ)/(2a)"],
+            retrieval_latency_ms=1.5,
+            gate_enabled=True,
+            reranker_used=False,
+        )
+
+
+def test_llm_solver_injects_retrieval_snippets_when_pipeline_present() -> None:
+    provider = RetrievalAwareProvider()
+    solver = LLMSolver(
+        AppConfig(max_retries=1, retrieval_mode="on"),
+        provider,
+        retrieval_pipeline=FakeRetrievalPipeline(),
+    )
+    question = QuestionItem(
+        qid="q_retrieval",
+        question="Công thức nghiệm của phương trình bậc hai là gì?",
+        choices=["A", "B", "C"],
+        category="mathematics",
+    )
+
+    prediction = solver.solve(question)
+
+    assert prediction.selected_index == 1
+    assert "Ngữ cảnh tham khảo ngắn" in provider.prompts[0]
+    assert "Công thức nghiệm bậc hai" in provider.prompts[0]

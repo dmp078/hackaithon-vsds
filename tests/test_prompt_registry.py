@@ -30,3 +30,35 @@ def test_routed_prompt_selects_category_specific_versions() -> None:
     assert resolve_prompt_version("routed", "chemistry") == "stem"
     assert resolve_prompt_version("routed", "economics_finance") == "stem"
     assert resolve_prompt_version("routed", "history") == "compact"
+
+
+def test_prompt_registry_preserves_prompt_when_retrieval_snippets_absent() -> None:
+    question = QuestionItem(qid="q1", question="Thủ đô Việt Nam?", choices=["Huế", "Hà Nội"])
+
+    without_retrieval = build_prompt_variants_for_version(question, "baseline", category="general")
+    with_empty_retrieval = build_prompt_variants_for_version(
+        question,
+        "baseline",
+        category="general",
+        retrieval_snippets=[],
+    )
+
+    assert without_retrieval == with_empty_retrieval
+
+
+def test_prompt_registry_appends_retrieval_snippets_as_reference_context() -> None:
+    question = QuestionItem(qid="q1", question="GDP thực là gì?", choices=["A", "B"])
+
+    primary, full = build_prompt_variants_for_version(
+        question,
+        "baseline",
+        category="economics_finance",
+        retrieval_snippets=[
+            "[economics] GDP thực: GDP thực loại bỏ tác động của lạm phát.",
+            "[economics] Công thức giảm phát GDP: GDP danh nghĩa / GDP thực × 100.",
+        ],
+    )
+
+    assert "Ngữ cảnh tham khảo ngắn" in primary
+    assert "GDP thực loại bỏ tác động của lạm phát" in primary
+    assert "GDP danh nghĩa / GDP thực × 100" in full

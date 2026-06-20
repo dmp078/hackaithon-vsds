@@ -40,6 +40,14 @@ def parse_args() -> argparse.Namespace:
         choices=["letter", "zero_based_index", "one_based_index", "full_text"],
     )
     parser.add_argument("--prompt-version", type=str, default=None, help="Prompt version for LLM solver")
+    parser.add_argument("--retrieval", type=str, default=None, choices=["off", "on"], help="Optional retrieval mode")
+    parser.add_argument(
+        "--retrieval-reranker",
+        type=str,
+        default=None,
+        choices=["off", "on"],
+        help="Optional reranker mode for retrieval",
+    )
     parser.add_argument("--limit", type=int, default=None, help="Limit processed questions")
     parser.add_argument("--log-level", type=str, default=None, help="Logging level")
     return parser.parse_args()
@@ -145,6 +153,8 @@ def main() -> None:
         output_path=Path(args.output) if args.output else None,
         log_level=args.log_level,
         limit=args.limit,
+        retrieval_mode=args.retrieval,
+        retrieval_reranker_mode=args.retrieval_reranker,
     )
     configure_logging(config.log_level)
     run_batch(

@@ -9,24 +9,38 @@ from app.models import Prediction, QuestionItem
 from app.prompt_builder import build_repair_prompt
 from app.prompts.registry import build_prompt_variants_for_version
 from app.providers.base import LLMProvider
+from app.retrieval.pipeline import RetrievalPipeline
 from app.solvers.base import QuestionSolver
 
 LOGGER = logging.getLogger(__name__)
 
 
 class LLMSolver(QuestionSolver):
-    def __init__(self, config: AppConfig, provider: LLMProvider) -> None:
+    def __init__(
+        self,
+        config: AppConfig,
+        provider: LLMProvider,
+        retrieval_pipeline: RetrievalPipeline | None = None,
+    ) -> None:
         self.config = config
         self.provider = provider
+        self.retrieval_pipeline = retrieval_pipeline
+        if self.retrieval_pipeline is None and config.retrieval_mode == "on":
+            self.retrieval_pipeline = RetrievalPipeline(config)
 
     def solve(self, question: QuestionItem) -> Prediction:
         started = time.perf_counter()
         last_error: str | None = None
         last_response: str | None = None
+        retrieval_snippets: list[str] | None = None
+        if self.retrieval_pipeline is not None:
+            retrieval_result = self.retrieval_pipeline.build_snippets(question)
+            retrieval_snippets = retrieval_result.snippets
         base_prompt, full_prompt = build_prompt_variants_for_version(
             question,
             self.config.prompt_version,
             category=question.category,
+            retrieval_snippets=retrieval_snippets,
         )
 
         LOGGER.debug("Question %s input length: %s chars", question.qid, len(question.question))
