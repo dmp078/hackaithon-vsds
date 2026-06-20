@@ -7,6 +7,9 @@ output/*.csv
 output/*.json
 output/*.jsonl
 logs/*.log
+reports/
+/gold_validation.json
+/gold_validation_review_queue.json
 .DS_Store
 public-test*.json
 submission*.csv

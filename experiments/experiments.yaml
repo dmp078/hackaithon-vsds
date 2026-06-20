@@ -1,0 +1,29 @@
+experiments:
+  - name: baseline_ctx_16384
+    prompt_version: baseline
+    num_ctx: 16384
+    num_predict: 32
+    temperature: 0
+    think: false
+
+  - name: baseline_short_output
+    prompt_version: baseline
+    num_ctx: 16384
+    num_predict: 8
+    temperature: 0
+    think: false
+
+  - name: compact_ctx_8192
+    prompt_version: compact
+    num_ctx: 8192
+    num_predict: 8
+    temperature: 0
+    think: false
+
+  - name: routed_prompt_ctx_8192
+    prompt_version: routed
+    num_ctx: 8192
+    num_predict: 8
+    temperature: 0
+    think: false
+

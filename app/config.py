@@ -22,6 +22,7 @@ def default_output_path(filename: str) -> Path:
 class AppConfig:
     solver_mode: str = "heuristic"
     provider_name: str = "ollama"
+    prompt_version: str = "baseline"
     answer_format: str = "letter"
     output_path: Path = field(default_factory=lambda: default_output_path("pred.csv"))
     debug_output_path: Path = field(default_factory=lambda: default_output_path("debug_predictions.jsonl"))
@@ -47,6 +48,7 @@ class AppConfig:
         return cls(
             solver_mode=os.getenv("SOLVER_MODE", "heuristic"),
             provider_name=os.getenv("LLM_PROVIDER", "ollama"),
+            prompt_version=os.getenv("PROMPT_VERSION", "baseline"),
             answer_format=os.getenv("ANSWER_FORMAT", "letter"),
             output_path=Path(os.getenv("OUTPUT_PATH", str(default_output_path("pred.csv")))),
             debug_output_path=Path(
@@ -79,6 +81,7 @@ class AppConfig:
         solver_mode: str | None = None,
         provider_name: str | None = None,
         answer_format: str | None = None,
+        prompt_version: str | None = None,
         output_path: Path | None = None,
         log_level: str | None = None,
         limit: int | None = None,
@@ -86,6 +89,7 @@ class AppConfig:
         return AppConfig(
             solver_mode=solver_mode or self.solver_mode,
             provider_name=provider_name or self.provider_name,
+            prompt_version=prompt_version or self.prompt_version,
             answer_format=answer_format or self.answer_format,
             output_path=output_path or self.output_path,
             debug_output_path=(output_path.parent if output_path else self.debug_output_path.parent)

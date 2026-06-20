@@ -39,6 +39,7 @@ def parse_args() -> argparse.Namespace:
         default=None,
         choices=["letter", "zero_based_index", "one_based_index", "full_text"],
     )
+    parser.add_argument("--prompt-version", type=str, default=None, help="Prompt version for LLM solver")
     parser.add_argument("--limit", type=int, default=None, help="Limit processed questions")
     parser.add_argument("--log-level", type=str, default=None, help="Logging level")
     return parser.parse_args()
@@ -140,6 +141,7 @@ def main() -> None:
         solver_mode=args.solver_mode,
         provider_name=args.provider,
         answer_format=args.answer_format,
+        prompt_version=args.prompt_version,
         output_path=Path(args.output) if args.output else None,
         log_level=args.log_level,
         limit=args.limit,

@@ -9,6 +9,20 @@ from app.models import QuestionItem
 from app.providers.base import LLMProvider
 
 
+def build_selected_index_schema(choice_count: int) -> dict[str, object]:
+    return {
+        "type": "object",
+        "properties": {
+            "selected_index": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": choice_count - 1,
+            }
+        },
+        "required": ["selected_index"],
+    }
+
+
 class OllamaProvider(LLMProvider):
     name = "ollama"
 
@@ -33,17 +47,7 @@ class OllamaProvider(LLMProvider):
             "messages": [{"role": "user", "content": prompt}],
             "stream": False,
             "think": self.config.ollama_think,
-            "format": {
-                "type": "object",
-                "properties": {
-                    "selected_index": {
-                        "type": "integer",
-                        "minimum": 0,
-                        "maximum": len(question.choices) - 1,
-                    }
-                },
-                "required": ["selected_index"],
-            },
+            "format": build_selected_index_schema(len(question.choices)),
             "options": {
                 "temperature": self.config.ollama_temperature,
                 "num_ctx": self.config.ollama_num_ctx,

@@ -146,6 +146,71 @@ Example real-model run:
   --limit 3
 ```
 
+## Evaluation workflow
+
+The curated gold validation set is for evaluation only.
+Do not fine-tune on it.
+Human spot-check the labels before treating it as an official benchmark.
+
+Run a limited gold evaluation:
+
+```bash
+make evaluate-gold-limit-10
+```
+
+Run the full gold evaluation:
+
+```bash
+make evaluate-gold
+```
+
+Run configured experiments on the first 10 gold questions:
+
+```bash
+make experiments-limit-10
+```
+
+Run all configured experiments:
+
+```bash
+make experiments
+```
+
+Export wrong, invalid, or fallback records for manual review:
+
+```bash
+make export-review EXPERIMENT=baseline_ctx_16384
+```
+
+Each evaluation run writes:
+
+```text
+reports/<experiment-name>/
+├── summary.json
+├── predictions.jsonl
+├── errors.jsonl
+├── category_metrics.json
+└── report.md
+```
+
+The experiment runner also writes:
+
+```text
+reports/comparison.md
+reports/comparison.json
+```
+
+## Recommended optimization order
+
+1. Measure baseline accuracy and latency.
+2. Compare structured-output prompt variants.
+3. Analyze errors by category.
+4. Add category-specific optimizations only where metrics justify them.
+5. Add deterministic STEM solvers only for well-defined patterns.
+6. Build a separate fine-tuning dataset.
+7. Fine-tune with LoRA or QLoRA only after the evaluation loop is stable.
+8. Re-run Docker verification before submission.
+
 ## Competition TODO list
 
 1. Will the private test input be JSON or CSV?

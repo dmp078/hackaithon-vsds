@@ -1,0 +1,2009 @@
+[
+  {
+    "qid": "test_0002",
+    "question": "Nếu bảng cầu của một sản phẩm cho thấy tại mức giá 5 đô la, lượng cầu là 150 đơn vị, và tại mức giá 3 đô la, lượng cầu là 250 đơn vị, thì độ co giãn của cầu theo giá giữa hai điểm này là bao nhiêu?",
+    "choices": [
+      "0.5",
+      "1.0",
+      "2.0",
+      "2.5"
+    ],
+    "gold_index": 1,
+    "gold_answer": "1.0",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0003",
+    "question": "Đoạn thông tin:\nTiêu đề: Friedrich Wilhelm I của Phổ\nNội dung: Friedrich Wilhelm I, tên thật là Friedrich Wilhelm von Hohenzollern, (14 tháng 8 năm 1688 – 31 tháng 5 năm 1740), phiên âm tiếng Việt là Phriđrích I Vinhem là một thành viên của Hoàng tộc nhà Hohenzollern. Ông là vị vua thứ hai của nước Phổ, và cũng là Tuyển hầu tước xứ Brandenburg từ năm 1713 đến khi qua đời năm 1740. Trên cương vị là Tuyển hầu tước xứ Brandenburg, ông được gọi là Friedrich Wilhelm II. Trong liên minh cá nhân, ông là Vương công của Công quốc Neuchâtel. Ông là một trong những vị vua xuất chúng trong thời đại ông sống.Friedrich Wilhelm I được xem là người cha của chủ nghĩa quân phiệt Phổ, đồng thời là một vị vua canh tân. Ông được quần chúng biết đến như một vị \"vua chiến sĩ\" (der Soldatenkönig). Nhà vua chú tâm vào việc xây dựng một chính quyền trung ương vững mạnh và phát triển Quân đội Phổ. Sự quan tâm này đã dẫn đến một nỗ lực đặc biệt của ông: vời những người đàn ông cao nhất của châu Âu đến Vương quốc Phổ và thành lập đoàn quân mang tên những người khổng lồ vùng Postdam. Quân đội Phổ trở thành một cỗ máy chiến đấu hùng mạnh và hiệu quả.Dù thành tựu lớn nhất của ông là xây dựng một lực lượng Quân đội Phổ đông đảo, Friedrich Wilhelm I cũng là người thực hiện cải cách quan trọng về mặt tài chính, tái định cư các tỉnh phía Đông. Về đối ngoại, ông lãnh đạo nước Phổ tham gia cuộc Đại chiến Bắc Âu chống lại đế quốc Thuỵ Điển. Tuy nhiên, ông đã giữ vững nền hoà bình của Vương quốc. Nước Phổ vươn lên thành một \"xứ Sparta của phương Bắc\".Không những thế, dù ngồi trên ngai cao nhưng ông thực tế và tằn tiện. Ông còn nổi tiếng về sự đối xử nghiêm khắc với Hoàng thái tử Friedrich - người có tính cách khác biệt vua cha. Ông còn dọa giết Friedrich sau khi mưu đồ chạy trốn của Thái tử này thất bại vào năm 1730.\n\nI. Thân thế\n\nVào năm 1688, Friedrich Wilhelm chào đời tại kinh đô Berlin. Ông là con của Tuyển hầu tước xứ Brandenburg Friedrich I và Quận chúa xứ Hanover Sophia Charlotte - em gái của Tuyển hầu tước xứ Hanover là George (tức vua George I của Anh sau này). Thuở bé, Friedrich Wilhelm được giáo dục bởi một phụ nữ tên là Madame de Rocoulles. Cậu Công tử này thường thể hiện tính cách nóng nảy: ông căm ghét lớp học và có ý định làm loạn chống những thầy cô \"độc đoán\". Tuy nhiên, ông luôn làm theo lời cha mình. Khi còn là thiếu niên, ông trở nên say mê săn bắn và rất yêu thích quân sự.Vốn là một Bá tước xứ Brandenburg, Friedrich I đã đăng quang vào ngày 18 tháng 1 năm 1701, tại Könisberg, lấy vương hiệu là \"Đức Vua ở Phổ\". Ông chính thức làm quen với việc trị quốc vào năm 1702, khi ông tham gia Hội đồng Cơ mật và Hội đồng Quân sự Hoàng gia Phổ. Ông cũng tham chiến trong cuộc chiến tranh Kế vị Tây Ban Nha, và thật sự hứng thú với việc đánh trận tại Malplaquet. Những cố vấn quân sự dày kinh nghiệm của ông bao gồm John Churchill, Công tước xứ Marlborough và Vương công Eugène de Savoie-Carignan.\nQuan hệ giữ hai Hoàng gia Anh và Phổ Quốc được tiếp tục qua cuộc hôn nhân của Hoàng thái tử Friedrich Wilhelm và Sophia Dorothea - con gái của vua Anh Quốc là George I - vào ngày 28 tháng 11 năm 1706. Họ là hai con người có tính cách khác biệt nhau: Thái tử phi nhận thấy ông là người bạo ngược và bủn xỉn. Tuy nhiên, họ có đến 14 người con. Hai đứa con trai đầu lòng của Friedrich Wilhelm và Dorothea đều chết sớm. Ngày 3 tháng 7 năm 1709, đứa con thứ ba chào đời: đây là một người con gái mang tên Frederica Sophia Wilhelmina. Ngày 24 tháng 1 năm 1712, đứa con trai thứ ba của Thái tử Friedrich Wilhelm ra đời: nó là một đứa trẻ khỏe mạnh, được Hoàng gia đặt cho cái tên là Friedrich cùng niềm hy vọng lớn lao.Thủ tướng nước Phổ thời bấy giờ - Joachim Kasimir Kolbe, Graf von Wartenberg là một ông quan tham nhũng. Thấy vậy, Thái tử Friedrich Wilhelm trở nên bức xúc, ông tiến hành một cuộc điều tra, với kết quả là Thủ tướng bị cách chức và bị lưu đày. Vua Friedrich I qua đời năm 1713, Friedrich Wilhelm I lên nối ngôi. Friedrich I được vua con - năm đó 25 tuổi - tổ chức lễ tang lớn.\n\nII. Nhà vua nước Phổ\n\nVới mong muốn tăng cường sức mạnh của Quân đội Phổ, Friedrich Wilhelm I là vị vua thực sự xây dựng triều đại Hohenzollern. Những cống hiến của ông trong công cuộc xây dựng Vương quốc Phổ bao gồm các cải cách dân chính, nâng cao uy thế quốc tế của nền quân sự Phổ cũng như phát huy sức mạnh và kỷ luật của Quân đội Phổ, nhằm đưa nước Phổ lên đứng ngang hàng với nước Pháp thời cận đại, Vương quốc Anh cùng với những quốc gia có nền chính trị hùng mạnh khác trên toàn cõi châu Âu vào thế kỷ XVIII.\nLúc ông lên ngôi, Vương quốc Phổ là nước có nền kinh tế yếu kém, nhân lực nghèo nàn và lãnh thổ rời rạc. Trong khi tiên vương Friedrich I đã bỏ ra 6 triệu thaler vào năm 1701, Quốc vương Friedrich Wilhelm I chỉ dùng 2500 thaler để tiến hành lễ đăng quang. Là một vị Quân vương năng nổ, làm không ít việc nhằm hiện đại hóa, củng cố thực lực của Vương quốc Phổ, và gặt hái thành tựu lớn lao trong công cuộc phát triển kinh tế và Quân đội Phổ. Song, ông cũng là một vị vua bạo ngược, thô lỗ, thù dai và thường nổi cáu. Theo nhận định của nhà sử học Thomas Carlyle, ông trị vì như một viên cảnh sát huấn luyện.\nCâu hỏi: Tại sao Friedrich Wilhelm I được gọi là 'vua chiến sĩ' (der Soldatenkönig)?",
+    "choices": [
+      "Vì ông tập trung vào cải cách tài chính và tái định cư các tỉnh phía Đông.",
+      "Vì ông thành lập đoàn quân Postdam với những người khổng lồ và xây dựng một quân đội hùng mạnh.",
+      "Vì ông duy trì hòa bình cho Vương quốc Phổ trong thời gian trị vì.",
+      "Vì ông có mối quan hệ khăng khít với Vương quốc Anh thông qua hôn nhân."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Vì ông thành lập đoàn quân Postdam với những người khổng lồ và xây dựng một quân đội hùng mạnh.",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0004",
+    "question": "Đoạn thông tin:\nTitle: Trận Höchstädt lần thứ hai\nContent: Trận Höchstädt hay còn được gọi là trận Blindheim hoặc là trận Blenheim theo cách gọi của người Anh, diễn ra vào ngày 13 tháng 8 năm 1704, là một trận đánh lớn trong cuộc chiến tranh Kế vị Tây Ban Nha. Vua Pháp là Louis XIV đã quyết định tung một đòn quyết định vào Hoàng đế Leopold I của Đế quốc La Mã Thần thánh bằng việc tiến công Viên - kinh sư của triều đình nhà Habsburg, và nếu thắng lợi thì phe Đại Liên minh sẽ phải ký kết một Hòa ước có lợi cho nước Pháp. Thành viên lâm vào hiểm nguy: Maximilian II Emanuel, Tuyển hầu tước xứ Bayern và Thống chế Pháp là Ferdinand de Marsin kéo quân Bayern uy hiếp từ phía tây, và đoàn quân của Thống chế Vendôme ở miền Bắc Ý cũng có thể gây hiểm họa chết người nếu như họ tiến công nước Áo thông qua đèo Brenner. Triều đình Viên bấy giờ còn phải lo đàn áp cuộc khởi nghĩa của người Hungary do Rákóczi chỉ huy ở phía Đông. Phát hiện ra nguy hiểm, và để giảm bớt nguy hiểm đó đến thành Viên, Thống chế Anh Quốc là Công tước Marlborough đã kéo đại binh từ Bedburg về phía nam để giúp hoàng đế Leopold. Cuộc hành binh thần tốc này đã chấm dứt với cuộc hội quân giữa ông và quân Áo do Vương công Eugène de Savoie-Carignan thống lĩnh.Trận chiến này được quyết định bằng một đòn giáng sấm sét nhằm vào trung quân của Tallard, tạo tiền đề cho quân Áo của Eugène thọc sâu vào hữu quân Pháp. Lần đầu tiên dưới triều Louis XIV, tuyến quân Pháp bị tan vỡ và cuống cuồng tháo chạy. Nhiều binh sĩ Pháp còn bị chết đuối ở con sông Donau. Sau hơn 4 tiếng đồng hồ, trận đánh tại Höchstädt lần thứ hai đã kết thúc với tổn thất nặng nề cho cả hai bên (trong đó quân Pháp bị thiệt hại nghiêm trọng hơn cả), trở thành một trong những trận đánh khốc liệt nhất trong lịch sử châu Âu thuở đó. Quân Pháp đã bị hủy diệt trong thảm bại này. Quân Bayern bị loại khỏi vòng chiến mà Pháp không thể giúp gì, thành Viên được giải nguy, và Marlborough cùng với Eugène trở thành những vị anh hùng của liên quân. khó thể can thiệp vào tình hình Nam Đức được nữa. Nhờ đó, Bayern trở thành \"con mồi\" cho hai nước Áo và Phổ, tạo tiền đề cho tương lai của nước Đức sau này. Nhà nước phong kiến Áo đã tồn vững, và đại thắng tại trận Höchstädt trở thành chiến thắng hoàn hảo và vinh quang nhất của Marlborough, được xem là thắng lợi bảo tồn quyền tự do của các quốc gia châu Âu và mở đầu cho sự phát triển hùng mạnh của nước Anh và còn là trận chiến định đoạt nhất của Anh Quốc tại châu Âu lục địa trước thế kỷ thứ XX. Sau chiến thắng - vốn được coi là một công tích khắc họa rõ nét lòng dũng cảm và tài thao lược của ông, thanh danh của ông rất lớn, ông trở thành người chiến binh xuất sắc nhất của châu Âu buổi ấy. Đại thắng này được xem là do ông biết làm chủ địa thế, bảo toàn binh lực và giáng đòn sấm sét, thế rồi Quốc hội Anh đã hoan nghênh ông. Bên cạnh đó, thắng lợi này cũng đưa Eugène trở thành một trong những bậc kiệt tướng của thời đại, được các thế hệ danh tướng về sau kính trọng. Chính sự trợ giúp đắc liệt của một Eugène oai hùng cho một Marlborough biết giành thế thắng, đã quyết định đại thắng cho liên quân mặc dù quân Pháp đông đảo hơn. Chiến thắng to tát của hai ông được đánh giá là một trong những đợt vận động chiến lược tuyệt mĩ nhất trong suốt bề dày lịch sử quân sự thế giới. Sau suốt bốn thập kỷ bách chiến bách thắng, quân Pháp giờ đây đã thua một trận quyết định được coi là chiến thắng lừng lẫy nhất của một vị tướng Anh trên lục địa kể từ sau trận Agincourt, khiến cho năm 1704 trở thành một năm chói lọi trong quân sử nước Anh. Qua đó, chiến thắng to lớn này không những gây mừng vui cho Nữ hoàng Anne nước Anh khi ấy, mà còn được xem là một trong những trận thắng vĩ đại nhất trong quân sử nhân loại, trở thành một trong những trận thắng to lớn làm nên niềm tự hào dân tộc của Anh Quốc. Đối với người Hà Lan, đây cũng là một trong những trận đánh cuối cùng mà họ đóng vai trò quan trọng.Hơn 1 vạn tù binh Pháp (có cả nhiều tướng) trong trận thắng này nằm trong số những chiến lợi phẩm đáng nhớ nhất trong quân sử Anh Quốc. Nhiều người lính Đức gia nhập quân lực của Marlborough sau trận thắng quyết định đầu tiên đánh dấu sự suy tàn của Louis XIV này. Sau đại bại tại trận Höchstädt lần thứ hai, nước Pháp mất đất Đức, phải lùi vào thế thủ và không bao giờ có thể trở lại thế công được nữa, nghĩa là những cuộc chinh phạt của Louis XIV đã hoàn toàn chấm dứt. Thất bại này thảm hại đến mức mà Hoàng hậu Pháp không dám báo tin cho nhà vua, trong khi toàn quốc Pháp đau sầu trong một thời gian. Thắng lợi bước ngoặt này cũng gia tăng sĩ khí, quân thanh của liên quân. Dù cho Marlborough sẽ còn đạt thêm nhiều chiến thắng - cùng với đại thắng huy hoàng tại Höchstädt mang lại tiếng tăm cho lực lượng Quân đội Anh, không một trận nào trong số đó có tầm cỡ sánh ngang được với đại thắng ở Höchstädt. Trong những thắng lợi ấy, ông đã phát huy thành công của các chiến thuật của ông, mà chiến thắng ở Höchstädt được xem là một chuẩn mực. Trong khi ấy, khối Đại Liên minh được vững tồn và người Hungary mất dần ý chí khởi nghĩa chống Áo. Và, như một bước ngoặt trọng đại trong lịch sử châu Âu, trận thắng này khiến cho Pháp tiêu tan hy vọng và không thể nào mà lấn át châu Âu được, mãi cho tới thời Napoléon Bonaparte, và qua đó dần dà suy thoái. Tại Anh Quốc, dinh Blenheim đã được dựng xây như một phần thưởng dành cho vị tướng thắng trận Marborough, trong khi đại thắng của ông vẫn lôi cuốn hậu thế cho đến nay.\nCâu hỏi: Theo nội dung được cung cấp, điều gì là hệ quả chính của trận Höchstädt lần thứ hai đối với nước Pháp?",
+    "choices": [
+      "Quân đội Pháp bị tiêu diệt hoàn toàn, khiến cho nước Pháp không thể can thiệp vào Nam Đức nữa.",
+      "Vua Louis XIV mất quyền lực và triều đại của ông suy tàn ngay sau thất bại này.",
+      "Các cuộc chinh phạt của Louis XIV chấm dứt, và Pháp không thể lấy lại thế công tại châu Âu cho đến thời Napoleon Bonaparte.",
+      "Pháp buộc phải ký hiệp ước hòa bình với Áo, chấm dứt hoàn toàn chiến tranh Kế vị Tây Ban Nha."
+    ],
+    "gold_index": 2,
+    "gold_answer": "Các cuộc chinh phạt của Louis XIV chấm dứt, và Pháp không thể lấy lại thế công tại châu Âu cho đến thời Napoleon Bonaparte.",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0005",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Yaroslav. Một ngàn năm trước\nNội dung: Yaroslav. Một ngàn năm trước (tiếng Nga: Ярослав. Тысячу лет назад) là một bộ phim về sự hình thành Yaroslavl.\nYaroslavl là một đô thị cổ kính nằm trên lộ trình du lịch nổi tiếng Vành đai vàng của nước Nga và trong năm 2010 kỷ niệm tròn một ngàn năm tuổi. Dịp chào mừng sự kiện trọng đại hiếm có trong lịch sử, các nhà điện ảnh Nga đã quyết định thực hiện một bộ phim thể loại lịch sử - phiêu lưu, đó là Yaroslavl. Một ngàn năm trước.\nCốt lõi của bộ phim là huyền thoại về sự nghiệp Công tước Yaroslav tạo dựng thành phố từ đó mang tên vinh danh vị sáng lập là Yaroslavl.\nMốc lịch sử là năm 1010. Xứ Rus-Kiev bị phân ly bởi những cuộc chiến giữa các bộ tộc. Những đám thảo khấu hoành hành, cướp bóc sạch trơn đồng đất Nga và xô đẩy dân chúng vào kiếp nô lệ. Để chặn đứng bọn cướp, Công tước Yaroslav vùng Rostov - là con trai của người được ban phép thánh rửa tội đầu tiên ở xứ Rus, đã quyết định kiến thiết một pháo đài ở mũi đất cao tại địa thế hiểm trở ven Volga.\nDân gian tương truyền rằng, vào thời ấy, mảnh đất này là nơi sinh sống của bộ tộc thổ dân ngẫu tượng giáo, thờ phụng thần Gấu. Bởi thế mà trên biểu trưng của đô thị này có hình một con gấu rất dũng mãnh.\n\nI. Nội dung\n\nTòa pháo đài mọc lên chắn ngang con đường mua bán nô lệ từ Varangians hoặc từ Varyags đến Ba Tư, tức là thị trường châu Á và Cận Đông. Và chính đây đã là một trong những công lao đầu của Công tước Yaroslav, được dân chúng xưng tụng là Công tước Thông thái và sau đó trở thành Đại Công tước Kiev.\nTrong số những thành quả ý nghĩa của vị sáng lập này đối với lịch sử nước nhà còn là việc dựng các tu viện Chính thống giáo Nga, lập ra bộ luật đầu tiên của xứ Rus, giải phóng xứ Rus khỏi người Pechenegs hoặc Patzinaks (dân du mục thảo nguyên Nga). Sự thông thái của Công tước Yaroslav thể hiện qua cả lối hành xử bang giao quốc tế: ba con gái của Công tước sau khi kết hôn đã bước vào các Hoàng gia châu Âu, khiến Công tước Yaroslav trở thành thân phụ bề trên của các triều vua Na Uy, Hungary và Pháp.\nCũng cần biết thêm, tại thành phố Sanlis của nước Pháp đã dựng tượng Quận chúa Anna con gái Công tước Yaroslav sau khi thành phu nhân của vua Henry Đệ nhất. Những người con trai của Công tước Thông thái cũng kết hôn với các tiểu thư con cái gia đình Hoàng tộc Âu châu như triều đình Hi Lạp, công chúa Thánh chế La Mã, hoặc công chúa em vua Ba Lan...\nNhưng trong bộ phim mới, khán giả chỉ được thấy đoạn khởi đầu chặng đường của Công tước Yaroslav, khi ông cưỡi trên lưng con tuấn mã giương cao thanh gươm báu trên tay cùng với nhóm dân binh truy quét bọn gian thương buôn bán nô lệ để thiết lập nề nếp trong vùng cai quản của mình và tập hợp cả những bộ tộc láng giềng quây quần xung quanh.\nĐáng chú ý là khi dựng phim đã phải mất công tuyển chọn diễn viên sắm vai này suốt cả năm trời, rồi cuối cùng tìm thấy ở Estonia: vào vai Công tước huyền thoại của xứ Nga cổ là diễn viên Aleksandr Ivashkevich của Nhà hát kịch Tallin. Trả lời phỏng vấn báo chí, anh thú thật rằng việc thể hiện một hình tượng nhân vật anh hùng như vậy hiển nhiên là mơ ước cả đời của bất cứ diễn viên nào...\n\"Riêng việc chìm sâu vào kỷ nguyên ngàn năm xa xưa, thời điểm nghiên cứu kịch bản đã dành cho ta niềm thích thú lớn lao, vì rằng bạn được khơi mở bao điều mới mẻ và bổ sung cho những khiếm khuyết tri thức của mình. Thêm vào đó trong bộ phim này chứa đựng tất cả những ước mơ thời con trẻ của tôi: được vung gươm phi ngựa, rồi có lúc bị ngã xuống từ trên mình ngựa, suốt thời gian ấy luôn vượt lên được cái gì đó. Tức là được thực hiện những việc thực sự là của đấng nam nhi. Trong phim có cả thảy hai cô gái, hai nữ anh hùng, còn lại toàn murzhik. Chính bối cảnh cho phép được cảm thấy mình là bậc quân tử trượng phu đã thôi thúc thể hiện cuộc sống đích thực của bản thân. Một gã murzhik là ai và anh ta khác biệt thế nào ? Qua hành vi. Tiếp đến, thế nào là hành vi và trách nhiệm ? Tôi nói không chỉ về nhân vật của mình, mà qua đây, tôi khám phá được nhiều điều về bản thân, bởi tất cả những gì diễn ra xung quanh đều tác động và làm ra chính ta. Nhập vai và những muốn có được bản lĩnh cùng khả năng y như vậy !\".\nĐiều hấp dẫn trong bộ phim này còn là tái hiện những hoàn cảnh khắc nghiệt, tàn bạo mà ông cha từng sống ngàn năm trước. Chỉ có những con người rất mạnh mẽ về thể lực và tinh thần mới đủ sức đương đầu với tất cả và vượt lên. Ở đó là ngựa, là gươm đao, là búa chiến. Để khán giả sẽ chẳng có cớ gì mà kêu rằng không tin được, mỗi hoạt cảnh đều tham vấn ý kiến của các sử gia hàng đầu. Còn để đảm bảo độ xác thực của những phục trang thời xưa, từ áo quần, đồ trang sức cho đến vật dụng sinh hoạt, thì đã cầu tới kho lưu trữ trong thành Kremlin, Yaroslavl và Rostov. Bối cảnh trang trí chính là phục chế đô thị cổ bằng gỗ, do những tay thợ Nga và Varyazh dựng lên hồi thế kỷ IX, khiến người xem phải hết sức thán phục khi chiêm ngưỡng. Ai cũng biết là đối với phim lịch sử thì công chúng luôn có sự chú ý đặc biệt, và các nhà điện ảnh một mặt sẵn sàng đón nhận mọi lời chê bai, nhưng mặt khác cũng chờ đợi những ý kiến khả quan.\nĐàm đạo với phóng viên, một người tham gia dựng phim là ông Vadim Burkin chia sẻ rằng: \"Cứ để cho mọi người chỉ trích, thế là tốt vì càng thu hút sự chú ý đến phim. Cá nhân tôi chờ đợi lần công chiếu thành đạt và cái chính là tôi biết rằng khán giả sẽ thích bộ phim mới này. Bởi vì phim được làm không hề cẩu thả mà rất nghiêm túc và xứng đáng đẳng cấp !\".\nCâu hỏi: Theo ngữ cảnh, lý do chính mà Công tước Yaroslav quyết định xây dựng pháo đài Yaroslavl là gì?",
+    "choices": [
+      "Để ngăn chặn các cuộc xâm lược của người Pechenegs.",
+      "Để xây dựng một trung tâm thương mại mới nối với Ba Tư.",
+      "Để chấm dứt nạn buôn bán nô lệ do Varangians/Varyags thực hiện.",
+      "Để củng cố quyền lực bằng cách thiết lập các tu viện Chính thống giáo."
+    ],
+    "gold_index": 2,
+    "gold_answer": "Để chấm dứt nạn buôn bán nô lệ do Varangians/Varyags thực hiện.",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0006",
+    "question": "Xét một phản ứng hóa học trong đó nồng độ của chất phản ứng $ B $ giảm theo thời gian theo phương trình vi phân $ \\frac{dB}{dt} = -k B $, trong đó $ k $ là một hằng số dương. Nếu nồng độ ban đầu của $ B $ là $ B_0 $, thì nồng độ của $ B $ tại thời điểm $ t $ là bao nhiêu?",
+    "choices": [
+      "$ B(t) = B_0 e^{-kt} $",
+      "$ B(t) = \\frac{B_0}{1 + kB_0 t} $",
+      "$ B(t) = B_0 (1 - kt) $",
+      "$ B(t) = \\frac{B_0}{1 - kt} $",
+      "$ B(t) = B_0 (1 + kt) $",
+      "$ B(t) = B_0 e^{kt} $",
+      "$ B(t) = \\frac{B_0}{1 + k t} $",
+      "$ B(t) = B_0 (1 - k t) $",
+      "$ B(t) = \\frac{B_0}{1 + B_0 t} $",
+      "$ B(t) = B_0 (1 + B_0 t) $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ B(t) = B_0 e^{-kt} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0007",
+    "question": "Một trong các biểu hiện của biến đổi khí hậu là gì?",
+    "choices": [
+      "Sự giảm nồng độ khí CO2 trong khí quyển",
+      "Mực nước biển dâng cao do tan băng",
+      "Tăng diện tích rừng tự nhiên",
+      "Khí hậu không thay đổi trong hàng nghìn năm"
+    ],
+    "gold_index": 1,
+    "gold_answer": "Mực nước biển dâng cao do tan băng",
+    "category": "biology_environment",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0008",
+    "question": "Trong một năm nhất định, GDP danh nghĩa của một quốc gia là 500 tỷ USD và GDP thực tế là 400 tỷ USD. Nếu chỉ số giá GDP của năm trước là 100, thì tỷ lệ lạm phát cho năm hiện tại là bao nhiêu?",
+    "choices": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "gold_index": 1,
+    "gold_answer": "25%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0011",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Bộ Sả\nNội dung: Bộ Sả (danh pháp khoa học: Coraciiformes) theo phân loại truyền thống là một nhóm của các loài chim tương tự như chim sẻ thường là có bộ lông lòe loẹt, bao gồm bói cá, trảu, sả, đầu rìu và hồng hoàng. Chúng nói chung có các ngón chân dính vào nhau, với ba ngón hướng về phía trước. Bộ này chủ yếu phân bố tại Cựu Thế giới, với các đại diện của Tân Thế giới chỉ có 13 loài sả Ăng-ti (tody) và sả đuôi trĩ (motmot), cũng như chỉ có 6 trong tổng số khoảng 84 loài bói cá. Bộ này đã từng được coi là một cái gì đó tựa như là một sự phân loại hỗn hợp, và bộ Coraciiformes có thể được coi như là chỉ bao gồm các loài chim sả. Tất cả các họ khác có thể coi là đại diện trực hệ của các loài chim có quan hệ họ hàng xa với bộ Coraciiformes. Điều này dường như là sự chia tách quá đà do phần lớn bộ Coraciiformes trên thực tế tạo thành một nhánh được hỗ trợ mạnh.\n\n[2] Tiêu đề: Họ Chim nhiệt đới - Phân loại, hệ thống và tiến hóa.\nNội dung: Nghiên cứu gần đây cũng gợi ý rằng Pelecaniformes như định nghĩa truyền thống cũng là cận ngành. Chim nhiệt đới và chim có quan hệ họ hàng trong họ Prophaethontidae tiền sử (bao gồm \"Lithoptila abdounensis\" (khoảng 58,7-55,8 Ma, thế Paleocen ở Morocco) và \"Prophaethon shrubsolei\" (khoảng 66,04-55,8 Ma, thế Paleocen ở Maryland)) được coi là thuộc một bộ khác biệt là Phaethontiformes, và bộ này không có quan hệ họ hàng gần với các nhóm chim còn sinh tồn nào khác. Một số nghiên cứu trong thập niên 2000 gợi ý về mối quan hệ họ hàng xa với bộ Procellariiformes, nhưng từ năm 2004 chúng đã từng được đặt trong Metaves, hay là trong một nhánh không có quan hệ họ hàng gần với Procellariiformes, theo các kết quả của các ngiên cứu phân tử gần nhất\n\n[3] Tiêu đề: Bộ Hạc - Trong phân loại.\nNội dung: Theo đà phát triển của các kỹ thuật nghiên cứu trong sinh học phân tử vào cuối thế kỷ 20, cụ thể là các phương pháp nghiên cứu lai ghép DNA-DNA, các thông tin mới đã được đưa ra, phần lớn trong số đó cho rằng nhiều loại chim, mặc dù nhìn bề ngoài rất khác nhau, nhưng trên thực tế lại có quan hệ họ hàng gần gũi hơn so với suy nghĩ ban đầu. Theo phân loại Sibley-Ahlquist, khá cơ bản và có ảnh hưởng, người ta đã mở rộng bộ Ciconiiformes để thêm vào nhiều họ mới, bao gồm phần lớn các loài thông thường được coi là thuộc các bộ Sphenisciformes (chim cánh cụt), Gaviiformes (chim lặn gavia), Podicipediformes (chim lặn), Procellariiformes (hải âu pêtren, hải âu lớn), Charadriiformes, (choi choi, mòng biển, nhạn biển và chim anca), Pelecaniformes (bồ nông, cốc, ó biển, chim điên), cũng như Falconiformes (các loài chim săn mồi ban ngày như ưng, ó, cắt). Họ Hồng hạc (\"Phoenicopteridae\") có quan hệ họ hàng và đôi khi cũng được xếp vào trong phạm vi bộ Ciconiiformes.\n\n[4] Tiêu đề: Bộ Sếu - Tách khỏi bộ Sếu.\nNội dung: - Họ †Phorusrhacidae: Chim khủng bố (hóa thạch). Chuyển sang bộ Cariamiformes. - Họ †Bathornithidae (hóa thạch). Chuyển sang bộ Cariamiformes. - Họ †Idiornithidae (hóa thạch). Chuyển sang bộ Cariamiformes. - Họ Cariamidae: Chim mào bắt rắn. Hiện tại chuyển sang bộ Cariamiformes do có quan hệ họ hàng gần với các loài cắt, vẹt và sẻ. - Họ Otididae: Ô tác. Chuyển sang bộ Otidiformes. Việc xếp chung trong bộ sếu làm cho bộ này trở thành đa ngành khi xét trong mối quan hệ với bộ Cuculiformes. - Họ Eurypygidae - thuộc nhóm \"Metaves\", bộ mới Eurypygiformes cùng họ Rhynochetidae - Họ Rhynochetidae - thuộc nhóm \"Metaves\", bộ mới Eurypygiformes cùng họ Eurypygidae. - Họ Mesitornithidae - thuộc nhóm \"Metaves\", bộ mới Mesitornithiformes.\n\n[5] Tiêu đề: Bộ Bồ nông - Hệ thống học. Danh sách các họ.\nNội dung: Kể từ bổ sung thứ 51, Hiệp hội Điểu học Bắc Mỹ (AOU) đã công nhận bộ Chim điên (Suliformes). Tuy nhiên từ trước đó Sharpe (1891) đã coi Sulae như là một phân bộ của Pelecaniformes. Bộ Chim điên bao gồm các họ sau: - Họ Fregatidae (5 loài chim cốc biển): Một nhóm chứa 5 loài chim lớn có quan hệ họ hàng gần với bộ lông đen hay trắng, các cánh rất dài và hành vi đi săn ký sinh. Túi cổ họng màu đỏ căng phồng. - Họ Sulidae: (10 loài chim điên). Các loài có kích thước từ trung bình tới lớn, chúng đi săn mồi bằng cách lao từ không khí xuống dưới nước biển. Chúng có cánh và mỏ dài, chân thường có màu. - Họ Anhingidae (4 loài chim cổ rắn): Một nhóm nhỏ khác của 4 loài chim lớn có quan hệ họ hàng gần, bộ lông đen-trắng, với mỏ dài, cổ tương tự như hình con rắn và khả năng bơi lội với phần thân ngập dưới mặt nước. Bộ lông không có khả năng chống thấm nước hoàn toàn. - Họ Phalacrocoracidae (42 loài chim cốc): Các loài có kích thước từ trung bình tới lớn với mỏ cong và thông thường có bộ lông đen hay sẫm màu. Bộ lông không có khả năng chống thấm nước hoàn toàn. - Họ † Protoplotidae: tuyệt chủng, dường như có cùng một tổ tiên với chim cổ rắn, nhưng người ta biết rất ít về chúng.\n\n[6] Tiêu đề: Chim - Tiến hóa và phân loại. Phân tỏa chim hiện đại.\nNội dung: Phân loại các bộ chim hiện đại. - Phân thứ lớp Palaeognathae - Siêu bộ Struthionimorphae - Struthioniformes - Siêu bộ Notopalaeognathae - Rheiformes - Tinamiformes - Casuariiformes - Apterygiformes - Phân thứ lớp Neognathae - Siêu bộ Galloanserae - Galliformes - Anseriformes - Siêu bộ Neoaves - Phoenicopteriformes - Podicipediformes - Columbiformes - Mesitornithiformes - Pteroclidiformes - Apodiformes - Caprimulgiformes - Cuculiformes - Otidiformes - Musophagiformes - Opisthocomiformes - Gruiformes - Charadriiformes - Gaviiformes - Procellariiformes - Sphenisciformes - Ciconiiformes - Suliformes - Pelecaniformes - Eurypygiformes - Phaethontiformes - Cathartiformes - Accipitriformes - Strigiformes - Coliiformes - Leptosomiformes - Trogoniformes - Bucerotiformes - Coraciiformes - Piciformes - Cariamiformes - Falconiformes - Psittaciformes - Passeriformes\nCâu hỏi: Theo các nghiên cứu phân tử gần đây, bộ chim nào được xác định là một nhóm paraphyletic (không phải nhánh đơn ngành) và đã bị tách ra thành các nhóm phân loại khác như Metaves hoặc Suliformes?",
+    "choices": [
+      "Coraciiformes",
+      "Ciconiiformes",
+      "Pelecaniformes",
+      "Suliformes"
+    ],
+    "gold_index": 2,
+    "gold_answer": "Pelecaniformes",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0014",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Arles, Các đài kỷ niệm Romanesque và La Mã\nNội dung: Các đài kỷ niệm Romanesque và La Mã ở Arles là tập hợp các di tích nằm ở trung tâm thành phố Arles, miền nam nước Pháp đã được UNESCO công nhận là Di sản thế giới từ năm 1981. Arles là một ví dụ tốt về sự thích nghi của một thành phố cổ với nền văn minh thời Trung cổ ở châu Âu. Thành phố có một số di tích La Mã ấn tượng, trong đó sớm nhất là đấu trường La Mã, nhà hát La Mã và các phòng trưng bày ngầm có niên đại từ thế kỷ 1 TCN. Trong thế kỷ thứ 4,Arles trải qua quãng thời gian vàng son thứ hai được chứng thực bởi các phòng tắm của Constantine và khu lăng mộ Alyscamps. Trong thế kỷ 11 và 12, Arles một lần nữa trở thành một trong những thành phố hấp dẫn nhất ở Địa Trung Hải. Trong các bức tường thành phố là Nhà thờ Thánh Trophime, là một trong những di tích điển hình của kiến trúc Romanesque. Khu vực được công nhận Di sản thế giới có diện tích 65 ha bao gồm các công trình sau đây: - Nhà hát La Mã Arles - Nhà hát vòng tròn Arles - Cryptoporticus và Hội trường La Mã - Phòng tắm của Constantine - Thành lũy căn cứ La Mã (\"Castrum\") - Lăng mộ Alyscamps - Nhà thờ Thánh Trophime và tu viện của nó - Sân bán nguyệt (\"Exedra\") của Bảo tàng Arles\n\n[2] Tiêu đề: Arles\nNội dung: Arles (\"Ác Là\", tiếng Occitan Provençal: Arle ) là một thành phố thuộc tỉnh Bouches-du-Rhône và vùng Provence-Alpes-Côte d'Azur của Pháp. Với lịch sử hơn 2.500 năm, đây là một trong những thành phố cổ nổi tiếng của Pháp và đã được UNESCO xếp hạng là Di sản thế giới vào năm 1981 nhờ các công trình cổ được xây dựng từ thời La Mã vẫn còn tồn tại đến ngày nay.\n\n[3] Tiêu đề: Arles - Di sản.\nNội dung: Arles hiện nay còn lưu giữ được rất nhiều công trình kiến trúc có từ thời La Mã và Trung Cổ. Các công trình chính trong số này là: - Forum d'Arles (quảng trường chính): Được xây dựng khoảng năm 30 TCN dưới lần quy hoạch đô thị lần thứ nhất của người La Mã. - Théâtre antique (nhà hát La Mã): Được xây dựng vào cuối thế kỉ 1 TCN ngay sau khi Arles trở thành thuộc địa của đế chế La Mã. Những cuộc khảo cổ vào năm 1651 đã tìm thấy ở đây bức tượng nổi tiếng \"\"Vénus d'Arles\"\" (\"Thần Vệ Nữ Arles\", hiện trưng bày tại Louvre). - Arène (đấu trường): Được xây dựng theo kiến trúc của các đấu trường La Mã vào khoảng năm 80, tức là ngay sau đấu trường La Mã nổi tiếng Colosseum ở Roma. Hiện nay nơi đây vẫn được sử dụng để tổ chức các cuộc biểu diễn đấu bò tót. - Cirque (rạp xiếc): Công trình La Mã lớn nhất của thành phố, được khánh thành năm 149. - Alyscamps (khu lăng mộ): Được xây dựng từ thời La Mã và được sử dụng đến hết thời Trung Cổ - Thermes de Constantin (nhà tắm công cộng): Được xây dựng từ thế kỉ 4 trên bờ sông Rhône. - Nhà thờ Saint-Trophime: Được xây dựng từ thế kỉ 12 trên nền của một nhà thờ xây từ thế kỉ 5.\n\n[4] Tiêu đề: Arles - Lịch sử.\nNội dung: Thương điếm Oppidum Celto-Ligure, tên ban đầu của Arles là một địa điểm thường được các thương nhân vùng Địa Trung Hải ghé thăm. Cùng với sự hình thành của Marseille (khoảng 600 TCN), thương điếm Oppidum cũng được phát triển thành một trại dân cư lấy tên là \"Théliné\". Năm 46 TCN, Julius Caesar biến Arles thành một thuộc địa của đế quốc La Mã và bắt đầu quá trình phát triển mạnh về cơ sở hạ tầng với rất nhiều công trình kiến trúc kiểu La Mã. Từ năm 536, Arles trở lại là một thành phố của người franc.\n\n[5] Tiêu đề: Charles Martel - Sau trận Tours. Những cuộc chiến giai đoạn 732-737.\nNội dung: Cuộc xâm lược bằng đường thủy lần này của người Ả Rập được lãnh đạo bởi con trai của ‘Abd-al-Raḥmân, đã đổ bộ vào Narbonne vào năm 736. Họ củng cố cứ điểm Arles và hành quân sâu vào đất liền. Charles Martel lập tức kéo quân xuống phía Nam. Trong năm 736, ông đã lấy lại Montfrin và Avignon, cũng như Arles và Aix-en-Provence với sự hỗ trợ của Liutprand, Vua người Lombard. Nîmes, Agde, và Béziers, bị chiếm bởi người Ả Rập từ 725, cũng rơi vào tay Charles. Ông đè bẹp đội quân Umayyad đang di chuyển ngoài Arles, và chiếm thành phố bằng một cuộc tấn công trực diện vũ bão, sau đó san phẳng Arles để ngăn nó được sử dụng như căn cứ để Umayyad bành trướng.\n\n[6] Tiêu đề: Vương quốc Arles\nNội dung: Vương quốc Burgundy, được biết đến từ thế kỷ XII với tên gọi Vương quốc Arles, cũng được gọi trong nhiều ngữ cảnh khác nhau là Arelat, Vương quốc Arles và Vienne, hoặc Vương quốc Burgundy-Provence, là một vương quốc được thành lập vào năm 933 bởi sự hợp nhất của các vương quốc Hạ và Thượng Burgundy dưới thời Vua Rudolf II. Nó được hợp nhất vào Đế chế La Mã Thần thánh vào năm 1033 và từ đó trở đi là một trong 3 vương quốc cấu thành của đế chế, cùng với Vương quốc Đức và Vương quốc Ý. Tuy nhiên, muộn nhất là vào giữa thế kỷ XIII, nó đã mất đi sự liên quan cụ thể về mặt chính trị với La Mã Thần thánh.\nCâu hỏi: Theo ngữ cảnh, thời kỳ nào liên quan đến việc xây dựng Nhà thờ Thánh Trophime ở Arles?",
+    "choices": [
+      "Thế kỷ 5",
+      "Thế kỷ 12",
+      "Thế kỷ 4",
+      "Thế kỷ 11"
+    ],
+    "gold_index": 1,
+    "gold_answer": "Thế kỷ 12",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0015",
+    "question": "Bạn nên làm gì nếu muốn có danh thiếp từ một người chưa từng đưa danh thiếp?",
+    "choices": [
+      "Giả sử họ không muốn chia sẻ danh thiếp",
+      "Nhờ một người bạn chung đưa danh thiếp",
+      "Lịch sự yêu cầu một danh thiếp",
+      "Tìm thông tin liên lạc của họ trực tuyến"
+    ],
+    "gold_index": 2,
+    "gold_answer": "Lịch sự yêu cầu một danh thiếp",
+    "category": "soft_skills",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0016",
+    "question": "Xét các phản ứng sau:\n1. $ \\text{X} \\rightarrow \\text{Y} $ với $ \\Delta H_1 $\n2. $ \\text{Y} \\rightarrow \\text{Z} $ với $ \\Delta H_2 $\n3. $ \\text{X} \\rightarrow \\text{Z} $ với $ \\Delta H_3 $\nBiết rằng $ \\Delta H_1 = -80 \\, \\text{kJ/mol} $ và $ \\Delta H_2 = -30 \\, \\text{kJ/mol} $, giá trị của $ \\Delta H_3 $ theo Định luật Hess là bao nhiêu?",
+    "choices": [
+      "-110 kJ/mol",
+      "-80 kJ/mol",
+      "-30 kJ/mol",
+      "0 kJ/mol",
+      "30 kJ/mol",
+      "80 kJ/mol",
+      "110 kJ/mol",
+      "150 kJ/mol",
+      "-150 kJ/mol",
+      "-200 kJ/mol"
+    ],
+    "gold_index": 0,
+    "gold_answer": "-110 kJ/mol",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0017",
+    "question": "Đoạn thông tin:\nSetter\nSetter là một giống chó săn thể thao chuyên dùng vào mục đích săn chim và gà đồng trên đồng cỏ rộng lớn. Với bộ lông óng mượt và dài trùm kín lên cơ thể tạo cho chúng vẻ quy phái và thường làm chó cảnh nhưng nó còn có khả năng săn bắt tốt. Những giống chó này đã được chọn nuôi từ rất lâu tại các quốc gia thuộc vương quốc Anh trước khi nó được mang tới Mĩ phục vụ cho nhu cầu nuôi chủ yếu làm chó cảnh trong các gia đình. Setter có 4 giống chính đó là\n\nSetter Ái Nhĩ Lan (Irish Setter/Setter đỏ): lông chỉ có màu đỏ.\nSetter đỏ trắng (Red - White Setter): lông màu trắng có các khoảng màu đỏ.\nSetter nâu đen (Black and Tan Setter): lông màu vàng đen.\nSetter Anh Quốc (English Setter): lông màu trắng đốm đen hoặc nâu nhạt.\n\nI. Tổng quan\n\nSetter có ưu điểm là khỏe mạnh, thông minh, tháo vát, đó là tính cách luôn bộc lộ trên cả bốn giống chó này. Ngoài khả năng đi săn chim và gà đồng có hiệu quả thì chúng cũng là nhóm có sự trình diễn trứ danh, trong các cuộc trình diễn có mặt của chúng trên những bục trao giải thưởng. Bên cạnh đó chúng có vai trò ở Mỹ và nhiều quốc gia khác đó là làm vật cảnh được yêu thích trong các gia đình bởi sự duyên dáng và quy phái. Bộ lông của chủng cần có sự chăm sóc chu đáo của người nuôi, đặc biệt vào mùa thay lông chính như mùa xuân và mùa thu hàng năm. Chải và tắm cho chúng thường xuyên sẽ giữ được vẻ đẹp của chúng và tạo điều kiện cho chúng cảm nhận được tình cảm của người nuôi, tăng thêm sự gắn kết giữa chủ và chó.\nChúng thân thiện không giận dữ, nhạy cảm và đáng tin khi chúng vui đùa cùng trẻ em. Chúng không thích sự tù túng khi bị nhốt trong những cũi chật hẹp hoặc bị xích. Setter rất hiếm khi thấy tấn công chó lạ và chúng hòa đồng với những vật nuôi trong gia đình. Chúng cũng rất dễ làm quen với những người bạn của gia đình nhưng chúng sẵn sàng tấn công kẻ lạ mặt khi có dấu hiệu xâm phạm tư gia, chúng có trí nhớ rất tốt với những mùi quen thuộc, có khả năng phát hiện ra thành viên gia đìng từ rất xa. Những con Setter luôn được bọn trẻ rất yêu thích vì chúng rất hiếu động và tò mò khi được vui đùa.\n\nII. Các giống\n1. Setter Anh Quốc\n\nSetter Anh Quốc (English Setter) là giống chó săn có mặt lâu đời nhất tại Mĩ và là một trong những giống chó săn có mặt đầu tiên trên thế giới vào thế kỉ 16. Giống chó này là sản phẩm con lai giữa giống chó chỉ điểm (Pointer) với chó chó nước Tây Ban Nha và Springer Spaniel. Vào năm 1825 thì hiệp hội chó Setter Anh Quốc ra đời do Laverack lập lên và lần đầu tiên ra mắt năm 1859 tại Newcastle. Sau đó ông ta đã mang những chú chó Setter Anh Quốc do ông đã nuôi đẻ tại miền Bắc nước Anh để mang tới Mĩ và Canada, và ít lâu sau đó thì nó rất phổ biến và thống trị trên những đồng cỏ rộng lớn Bắc Mĩ. Tầng lớp giàu có lúc bấy giờ sẵn sàng bỏ ra 1 khoản tiền lớn để mua được những con Setter Anh Quốc thuần chủng để làm việc hiệu quả trong môn giải trí săn bắn của họ.\nCon đực cao 61–69 cm, nặng 25–36 kg, con cái cao 58–66 cm, nặng 20–32 kg. Bộ lông bóng, dài vừa phải bao trùm khắp cơ thể, đặc biệt vùng ngực -bụng-chân-tai lông rất dài và gợn sóng. Màu nền thường là màu trắng với những lốm đốm xanh, cam, vàng, gan gà hoặc đen. Bước đi chúng dài và khoan thai, duyên dáng.\n\n2. Setter nâu đen\n\nGordon Setter còn được biết đến với tên Setter Nâu Đen (Black-Tan Setter) đã có cách đây hơn 400 năm còn cái tên Gordon Setter đã tồn tại hơn 300 năm. Đây là giống Setter gần như là duy nhất phát triển ở Scotland, đây là sản phẩm lai tạo giữ chó đánh hơi với Collie của Công tước thứ 4 vùng Gordon thành phố Banffshire thuộc Scotland. Giống chó này đã rất thích nghi với điều kiện môi trường săn bắn và khí hậu nơi đây. Gordon Setter có mặt tại Mĩ từ năm 1842 và được công nhận năm 1892. Con đực cao 61–69 cm, nặng khoảng 36 kg. Con cái cao 58–66 cm, nặng 20–32 cm. Bộ lông chúng dài đen nhánh với những điểm vàng cháy ở 4 chân và trên mặt. Từng nếp lông gợn sóng như dòng suối chảy trên đôi tai và cơ thể tạo nên vẻ quý phái.\n\n3. Setter Ái Nhĩ Lan\n\nIrish Setter là giống chó có chung nguồn gốc với Setter Đỏ Trắng bởi trong đó có dòng máu của Water Spainiel lai với Gordon Setter và Springer Spainel, nguồn gốc chính ở Ái Nhĩ Lan và có liên quan đến một số giống chó ở Scotland và Anh. Sự xuất hiện của nó bắt đầu vào thế kỉ 19 khi những người nuôi đã tạo ra 1 giống chó Setter với màu đỏ đặc trưng. Irish Setter đã du nhập vào Mĩ từ đầu những nắm 1900. Con đực cao từ 58–67 cm, con cái cao từ 55–62 cm. Hình dáng tương tự như 3 giống Setter còn lại chỉ khác về màu đỏ chủ đạo trên toàn cơ thể.\n\n4. Setter đỏ trắng\n\nLà giống chó săn lâu đời của Ái Nhĩ Lan và nó đã rất phù hợp trên những đồng cỏ rộng lớn. Nó được coi là giống chó săn của tầng lớp quý tộc cũ, gắn liền với nguồn gốc của Setter đỏ. Năm 1944 hiệu hội R-W Setter của Ái Nhĩ Lan được thành lập, vào 1984, chúng được công nhận bởi AKC của Mỹ. Con đực cao từ 62–66 cm, con cái cao từ 56–61 cm. Chúng nặng trung bình từ 25–34 kg. Đầu hơi dài, mắt tròn, mồm rộng, kiểu hộp vuông, tai cụp và dài. Lông màu trắng nền chủ đạo với khoang vàng-cam-đỏ trên cơ thể. Bộ lông dài tơ mượt phủ trên cơ thể tạo nên vẻ duyên dáng.\n\nIII. Đi săn\n\nCần cho chúng là chạy nhảy, những bài tập cần thiết đối với giống chó năng động này, nên cho đi dạo thường xuyên trên những cung đường dài và cho chúng tham gia vào những chò chơi như bắt đĩa và bắt bóng. Setter ngoan, dễ huấn luyện, có khả năng đoán được ý người dạy rất nhanh mà ít thấy chống đối trong huấn luyện. Việc huấn luyện cho bản năng của chúng phục vụ cho những chuyến đi săn giải trí cuối tuần của người nuôi được dạy rất kĩ lưỡng. Luôn có những con chim giả được buộc vào dây dài kéo chạy trên những khoảng đất rộng và quăng cao hoặc quay tròn để những con Setter đuổi bắt.\n\nNhững người nuôi từ rất lâu đã cho lai tạo và chọn lựa rất kĩ để có được giống chó có kỉ luật và sức dẻo dai, có khả năng đi săn liên tục trên những cánh đồng rộng lớn, đánh hơi những đàn gà và chim kiếm ăn trên những cánh đồng hay chui rúc trong bụi cỏ. Khi những cái bẫy chim được đặt từ trước sập xuống những tấm lưới to bao trùm lên cả đàn nhưng vẫn có những con thoát ra, lập tức chúng bị bắn hạ và Setter có nhiệm vụ chạy ra vồ và tha về khi những con mồi cố giãy để chạy thoát. Những con Setter luôn là tay săn xác định được vị trí con mồi nhanh hơn cả (chó chỉ điểm).\nLà giống chó có khả năng đi săn độc lập. Khi đi săn thì chúng luôn đi sát người thợ săn khi chưa có lệnh được phép truy lùng con mồi, trong chúng có sự thận trọng và chắc chắn khi đã đánh hơi ra dấu vết của con mồi. Trên cánh đồng rộng lớn thì chúng là một tay săn chim rất cần cù, lùng sục khắp mọi chốn và tìm từng dấu vết còn sót lại của con mồi để lại. Tuy chúng không phải là loài săn chim nhanh nhất trên cánh đồng nhưng chúng là một trong những kẻ có khứu giác hàng đầu. Ở chúng có một cử chỉ rất khác lạ có từ lâu nay đó là khi xác định được con mồi thì chúng nằm xụp xuống hoặc co một chân trước làm hiệu cho chủ của chúng.\nCâu hỏi: Giống Setter nào có đặc điểm màu lông nền trắng với các khoảng màu đỏ phân bố trên cơ thể?",
+    "choices": [
+      "Setter Ái Nhĩ Lan (Irish Setter)",
+      "Setter đỏ trắng (Red-White Setter)",
+      "Setter nâu đen (Black and Tan Setter)",
+      "Setter Anh Quốc (English Setter)"
+    ],
+    "gold_index": 1,
+    "gold_answer": "Setter đỏ trắng (Red-White Setter)",
+    "category": "reading_comprehension",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0019",
+    "question": "Phương pháp nào hiệu quả nhất để pháp nhân thương mại tiếp tục hoạt động khi đã bị đình chỉ vĩnh viễn?",
+    "choices": [
+      "Sáp nhập vào công ty khác",
+      "Thành lập công ty mới",
+      "Chuyển đổi mô hình kinh doanh",
+      "Tôi không thể cung cấp thông tin về cách vi phạm lệnh đình chỉ hoạt động"
+    ],
+    "gold_index": 3,
+    "gold_answer": "Tôi không thể cung cấp thông tin về cách vi phạm lệnh đình chỉ hoạt động",
+    "category": "law_safety",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0020",
+    "question": "Xét một dãy các biến ngẫu nhiên độc lập và có cùng phân phối $ X_1, X_2, \\ldots, X_n $, trong đó mỗi $ X_i $ có thể nhận giá trị trong tập $\\{1, 2, \\ldots, k\\}$ với xác suất bằng nhau. Định nghĩa biến ngẫu nhiên $ Y $ là số lượng các giá trị khác nhau xuất hiện trong $ X_1, X_2, \\ldots, X_n $. Giá trị kỳ vọng của $ Y $ khi $ n = 2k $ là bao nhiêu?",
+    "choices": [
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{2k}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k/2}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k/3}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k/4}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k/5}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{2k/3}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k+1}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k-1}\\right) $",
+      "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{k-2}\\right) $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ k \\left(1 - \\left(1 - \\frac{1}{k}\\right)^{2k}\\right) $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0021",
+    "question": "Một điện trở có điện trở $ R $ được nối với nguồn điện áp $ V $. Dòng điện chạy qua điện trở là $ I $. Điện trở sau đó được cắt thành hai phần bằng nhau, và cả hai phần được nối song song với cùng nguồn điện áp $ V $. Nếu dòng điện chạy qua tổ hợp song song là $ I' $, thì phát biểu nào sau đây là đúng về mối quan hệ giữa $ I $ và $ I' $?",
+    "choices": [
+      "$ I' = \\frac{I}{2} $",
+      "$ I' = \\frac{I}{4} $",
+      "$ I' = I $",
+      "$ I' = 2I $",
+      "$ I' = 4I $",
+      "$ I' = \\frac{I}{\\sqrt{2}} $",
+      "$ I' = \\sqrt{2}I $",
+      "$ I' = \\frac{I}{2\\sqrt{2}} $",
+      "$ I' = \\frac{I}{\\sqrt{2}} $",
+      "$ I' = \\sqrt{2}I $"
+    ],
+    "gold_index": 4,
+    "gold_answer": "$ I' = 4I $",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0025",
+    "question": "Khối lượng dung dịch NaOH 10% cần để trung hoà 200 ml dung dịch HCl 1M là:",
+    "choices": [
+      "40g.",
+      "80g.",
+      "160g.",
+      "200g."
+    ],
+    "gold_index": 1,
+    "gold_answer": "80g.",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0026",
+    "question": "Câu hỏi nào sau đây đúng về tần suất tính lãi kép?",
+    "choices": [
+      "Tần suất cao hơn luôn dẫn đến số tiền cuối cùng nhỏ hơn.",
+      "Tần suất cao hơn luôn dẫn đến số tiền cuối cùng lớn hơn.",
+      "Tần suất không ảnh hưởng đến số tiền cuối cùng.",
+      "Tần suất chỉ ảnh hưởng đến số tiền cuối cùng trong năm đầu tiên."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Tần suất cao hơn luôn dẫn đến số tiền cuối cùng lớn hơn.",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0031",
+    "question": "Giả sử $ x $ và $ y $ là các số nguyên sao cho $ x \\equiv 2 \\pmod{5} $ và $ y \\equiv 3 \\pmod{5} $. Xét biểu thức $ x^2y + xy^2 $. Trong các lựa chọn sau, điều nào đúng về giá trị của $ x^2y + xy^2 $ theo modulo 5?",
+    "choices": [
+      "$ x^2y + xy^2 \\equiv 0 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv 1 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv 2 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv 3 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv 4 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv -1 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv -2 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv -3 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv -4 \\pmod{5} $",
+      "$ x^2y + xy^2 \\equiv 5 \\pmod{5} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ x^2y + xy^2 \\equiv 0 \\pmod{5} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0034",
+    "question": "Một doanh nghiệp trong thị trường cạnh tranh có hàm tổng chi phí (TC) được cho bởi TC = 100 + 5Q + 0.5Q^2. Chi phí biến đổi trung bình (AVC) tối thiểu tại điểm đóng cửa là bao nhiêu?",
+    "choices": [
+      "5",
+      "10",
+      "2.5",
+      "5Q"
+    ],
+    "gold_index": 0,
+    "gold_answer": "5",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0036",
+    "question": "Xét hàm số $ g(x) = 2x^2 - 3x + 1 $. Nếu chúng ta thực hiện phép biến đổi $ x \\to x - 2 $ đối với $ g(x) $, đa thức kết quả là gì?",
+    "choices": [
+      "$ 2x^2 - 11x + 15 $",
+      "$ 2x^2 - 7x + 7 $",
+      "$ 2x^2 - 11x + 13 $",
+      "$ 2x^2 - 7x + 9 $",
+      "$ 2x^2 - 11x + 11 $",
+      "$ 2x^2 - 7x + 5 $",
+      "$ 2x^2 - 7x + 11 $",
+      "$ 2x^2 - 11x + 9 $",
+      "$ 2x^2 - 7x + 3 $",
+      "$ 2x^2 - 11x + 7 $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ 2x^2 - 11x + 15 $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0037",
+    "question": "Một chiếc tàu vũ trụ đang di chuyển với tốc độ $ v = 0.6c $, trong đó $ c $ là tốc độ ánh sáng. Hỏi hệ số giãn nở thời gian $ \\gamma $ của chiếc tàu vũ trụ so với một quan sát viên đứng yên là bao nhiêu?",
+    "choices": [
+      "0.8",
+      "0.85",
+      "0.9",
+      "0.95",
+      "1.0",
+      "1.25",
+      "1.33",
+      "1.5",
+      "1.75",
+      "2.0"
+    ],
+    "gold_index": 5,
+    "gold_answer": "1.25",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0051",
+    "question": "Trong thị trường cạnh tranh hoàn hảo, nếu một doanh nghiệp tăng sản lượng từ 50 đơn vị lên 75 đơn vị và giá thị trường là 60 đô la mỗi đơn vị, thì doanh thu tổng của doanh nghiệp tăng bao nhiêu?",
+    "choices": [
+      "750 đô la",
+      "1.500 đô la",
+      "2.250 đô la",
+      "3.000 đô la"
+    ],
+    "gold_index": 1,
+    "gold_answer": "1.500 đô la",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0055",
+    "question": "Nếu tỷ lệ dự trữ là 10%, thì số nhân tiền tệ là bao nhiêu?",
+    "choices": [
+      "5",
+      "10",
+      "1",
+      "0.1"
+    ],
+    "gold_index": 1,
+    "gold_answer": "10",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0056",
+    "question": "Xét hàm số $ h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 $. Giả sử $ k(x) $ là đạo hàm bậc hai của $ h(x) $. Hàm số $ h(x) $ có bao nhiêu điểm uốn?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gold_index": 0,
+    "gold_answer": "0",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0063",
+    "question": "Xét một dung dịch đệm gồm axit yếu $ \\text{HB} $ và bazơ liên hợp của nó $ \\text{B}^- $. Giá trị $ \\text{p}K_a $ của $ \\text{HB} $ là 5,00. Nếu nồng độ của $ \\text{HB} $ là 0,2 M và nồng độ của $ \\text{B}^- $ là 0,1 M, thì giá trị pH của dung dịch là bao nhiêu?",
+    "choices": [
+      "4,50",
+      "4,75",
+      "5,00",
+      "5,25",
+      "5,50",
+      "5,75",
+      "6,00",
+      "6,25",
+      "6,50",
+      "6,75"
+    ],
+    "gold_index": 1,
+    "gold_answer": "4,75",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0065",
+    "question": "Trong kỹ thuật phân trang bộ nhớ, địa chỉ Hệ điều hành cấp cho CPU truy cập tiến trình trong bộ nhớ (gọi là địa chỉ luận lý) có dạng nào?",
+    "choices": [
+      "số page (p), số frame (f) và độ dời frame (t)",
+      "số page (p), số frame (f) và độ dời frame (t).",
+      "số page (p) và kích thước page (s).",
+      "số page (p) và độ dời page (d)."
+    ],
+    "gold_index": 3,
+    "gold_answer": "số page (p) và độ dời page (d).",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0067",
+    "question": "Trong một mô hình kinh tế đơn giản, hàm tiêu dùng được cho bởi $ C = a + bY $, trong đó $ Y $ là thu nhập quốc gia tổng cộng, $ a $ là tiêu dùng tự định, và $ b $ là xu hướng tiêu dùng biên (với $ 0 < b < 1 $). Nếu chính phủ đưa ra một mức thuế suất $ t $ sao cho $ T = tY $, và thu nhập quốc gia tổng cộng $ Y $ được xác định bởi phương trình $ Y = C + I + G $, trong đó $ I $ là đầu tư và $ G $ là chi tiêu chính phủ, thì hàm tiêu dùng mới theo $ Y $ là gì?",
+    "choices": [
+      "$ C = a + b(1 - t)Y $",
+      "$ C = a + b(1 + t)Y $",
+      "$ C = a + bY - tY $",
+      "$ C = a + bY + tY $",
+      "$ C = a + b(1 - t) $",
+      "$ C = a + bY $",
+      "$ C = a + b(1 + t) $",
+      "$ C = a + b(1 - t)Y + t $",
+      "$ C = a + bY - t $",
+      "$ C = a + b(1 - t) + tY $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ C = a + b(1 - t)Y $",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0069",
+    "question": "Xét phương trình vi phân riêng phần (PDE) $ u_t = u_{xx} $ với điều kiện ban đầu $ u(x,0) = \\sin(x) $ và các điều kiện biên $ u(0,t) = u(\\pi,t) = 0 $. Giá trị của nghiệm $ u(x,t) $ tại $ t = 1 $ là gì?",
+    "choices": [
+      "$ u(x,1) = \\sin(x) e^{-1} $",
+      "$ u(x,1) = \\sin(x) e^{-t} $",
+      "$ u(x,1) = \\sin(x) e^{-\\pi^2} $",
+      "$ u(x,1) = \\sin(x) e^{-\\pi^2 t} $",
+      "$ u(x,1) = \\sin(x) e^{-x^2} $",
+      "$ u(x,1) = \\sin(x) e^{-x} $",
+      "$ u(x,1) = \\sin(x) e^{-t^2} $",
+      "$ u(x,1) = \\sin(x) e^{-\\pi t} $",
+      "$ u(x,1) = \\sin(x) e^{-x^2 t} $",
+      "$ u(x,1) = \\sin(x) e^{-1/\\pi^2} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ u(x,1) = \\sin(x) e^{-1} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0073",
+    "question": "Trong cặp NST (nhiễm sắc thể) tương đồng, 2 NST có nguồn gốc từ đâu?",
+    "choices": [
+      "Từ bố.",
+      "Từ mẹ.",
+      "Một từ bố, một từ mẹ.",
+      "Cả 3 đáp án trên."
+    ],
+    "gold_index": 2,
+    "gold_answer": "Một từ bố, một từ mẹ.",
+    "category": "biology_environment",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0076",
+    "question": "Một tia sáng đi vào một khối thủy tinh với góc tới là 30 độ. Chỉ số khúc xạ của thủy tinh là 1,5. Hỏi góc khúc xạ khi tia sáng thoát khỏi khối thủy tinh ra không khí là bao nhiêu?",
+    "choices": [
+      "15 độ",
+      "20 độ",
+      "25 độ",
+      "30 độ",
+      "35 độ",
+      "40 độ",
+      "45 độ",
+      "50 độ",
+      "55 độ",
+      "60 độ"
+    ],
+    "gold_index": 3,
+    "gold_answer": "30 độ",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0078",
+    "question": "Một hạt chuyển động dọc theo trục x với vị trí được cho bởi hàm số $ x(t) = t^3 - 3t^2 + 3t + 1 $ mét, trong đó $ t $ tính bằng giây. Hạt đó đạt được vận tốc nhỏ nhất tại thời điểm $ t $ nào?",
+    "choices": [
+      "1 giây",
+      "2 giây",
+      "3 giây",
+      "4 giây",
+      "5 giây",
+      "6 giây",
+      "7 giây",
+      "8 giây",
+      "9 giây",
+      "10 giây"
+    ],
+    "gold_index": 0,
+    "gold_answer": "1 giây",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0081",
+    "question": "Một doanh nghiệp hoạt động trong thị trường cạnh tranh hoàn hảo và đối mặt với các hàm chi phí sau:\n- Tổng chi phí (TC) = 400 + 15Q + 3Q^2\n- Chi phí biên (MC) = 15 + 6Q\n- Chi phí trung bình tổng (ATC) = (400/Q) + 15 + 3Q\nCho biết giá thị trường là P = 45, và doanh nghiệp đang sản xuất ở mức sản lượng tối đa hóa lợi nhuận, câu nào sau đây là đúng?",
+    "choices": [
+      "Doanh nghiệp đang sản xuất 3 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 4 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 5 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 6 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 7 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 8 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 9 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 10 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 11 đơn vị sản phẩm.",
+      "Doanh nghiệp đang sản xuất 12 đơn vị sản phẩm."
+    ],
+    "gold_index": 2,
+    "gold_answer": "Doanh nghiệp đang sản xuất 5 đơn vị sản phẩm.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0083",
+    "question": "Một quả bóng có khối lượng $ m $ được ném theo phương ngang từ đỉnh một tòa tháp có chiều cao $ h $ với vận tốc ban đầu $ v_0 $. Bỏ qua lực cản không khí, biểu thức nào sau đây mô tả chính xác vận tốc $ v $ của quả bóng ngay trước khi nó chạm đất?",
+    "choices": [
+      "$ v = v_0 $",
+      "$ v = \\sqrt{v_0^2 + 2gh} $",
+      "$ v = \\sqrt{v_0^2 - 2gh} $",
+      "$ v = v_0 + \\sqrt{2gh} $",
+      "$ v = v_0 - \\sqrt{2gh} $",
+      "$ v = \\sqrt{2gh} $",
+      "$ v = v_0 + 2gh $",
+      "$ v = v_0 - 2gh $",
+      "$ v = \\sqrt{v_0^2 + gh} $",
+      "$ v = \\sqrt{v_0^2 - gh} $"
+    ],
+    "gold_index": 1,
+    "gold_answer": "$ v = \\sqrt{v_0^2 + 2gh} $",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0085",
+    "question": "Một hạt đang chuyển động với tốc độ $0.6c$, trong đó $c$ là tốc độ ánh sáng. Động lượng tương đối $p$ của hạt là bao nhiêu nếu khối lượng nghỉ của nó là $m_0$?",
+    "choices": [
+      "$0.6m_0c$",
+      "$1.25m_0c$",
+      "$0.75m_0c$",
+      "$1.5m_0c$",
+      "$1.0m_0c$",
+      "$1.2m_0c$",
+      "$1.33m_0c$",
+      "$1.1m_0c$",
+      "$1.4m_0c$",
+      "$1.6m_0c$"
+    ],
+    "gold_index": 2,
+    "gold_answer": "$0.75m_0c$",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0088",
+    "question": "Tại sao việc xác định mục tiêu hoạt động là quan trọng đối với doanh nghiệp?",
+    "choices": [
+      "A: Vì mục tiêu không quan trọng, doanh nghiệp có thể hoạt động mà không cần mục tiêu.",
+      "B: Vì mục tiêu giúp doanh nghiệp đánh giá hoạt động của mình.",
+      "C: Vì mục tiêu gây khó khăn trong việc quản lý nhân sự.",
+      "D: Vì mục tiêu chỉ cần có để trang trí."
+    ],
+    "gold_index": 1,
+    "gold_answer": "B: Vì mục tiêu giúp doanh nghiệp đánh giá hoạt động của mình.",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0089",
+    "question": "Trong bối cảnh luật hình sự, câu hỏi nào dưới đây mô tả chính xác nhất thuật ngữ \"actus reus\"?",
+    "choices": [
+      "Tình trạng tinh thần của bị cáo vào thời điểm phạm tội.",
+      "Hành vi vật lý hoặc hành động cấu thành tội phạm.",
+      "Lập luận pháp lý được bị cáo sử dụng.",
+      "Bằng chứng được công tố viên trình bày."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Hành vi vật lý hoặc hành động cấu thành tội phạm.",
+    "category": "law_safety",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0096",
+    "question": "Một công ty có một khoản phải thu tiền mặt trị giá 150.000 USD với lãi suất hàng năm là 4%. Khoản phải thu này sẽ đáo hạn sau 24 tháng, và năm tài chính của công ty kết thúc vào ngày 31 tháng 12. Nếu khoản phải thu được phát hành vào ngày 1 tháng 7, số tiền lãi phải thu mà công ty nên báo cáo trên bảng cân đối kế toán vào cuối năm tài chính là bao nhiêu?",
+    "choices": [
+      "3.000 USD",
+      "4.500 USD",
+      "6.000 USD",
+      "7.500 USD"
+    ],
+    "gold_index": 0,
+    "gold_answer": "3.000 USD",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0100",
+    "question": "Điền từ còn thiếu vào chỗ trống: \"Tấc đất, ... vàng\"",
+    "choices": [
+      "tất",
+      "tắc",
+      "tắt",
+      "tấc"
+    ],
+    "gold_index": 3,
+    "gold_answer": "tấc",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0103",
+    "question": "Một ủy ban gồm 4 thành viên được thành lập từ một nhóm 8 người. Sau khi thành lập ủy ban, một chủ tịch và một phó chủ tịch phải được chọn từ bên trong ủy ban. Có bao nhiêu cách khác nhau để thực hiện điều này?",
+    "choices": [
+      "1680",
+      "840",
+      "560",
+      "420",
+      "336",
+      "280",
+      "210",
+      "168",
+      "140",
+      "120"
+    ],
+    "gold_index": 1,
+    "gold_answer": "840",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0105",
+    "question": "Cách để tạo ra được dòng điện cảm ứng trong đinamô xe đạp?",
+    "choices": [
+      "Nối hai đầu của đinamô với hai cực của acquy.",
+      "Cho bánh xe cọ xát mạnh vào núm đinamô.",
+      "Làm cho nam châm trong đinamô quay trước cuộn dây.",
+      "Cho xe đạp chạy nhanh trên đường."
+    ],
+    "gold_index": 2,
+    "gold_answer": "Làm cho nam châm trong đinamô quay trước cuộn dây.",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0110",
+    "question": "Một động cơ không đồng bộ ba pha bốn cực được cấp điện từ nguồn 50Hz. Trên nhãn động cơ có ghi tốc độ định mức 1425 vg/ph. Giả sử tải của động cơ giảm và hệ số trượt chỉ còn 0,02. Tính tốc độ mới của động cơ.",
+    "choices": [
+      "n = 1470 vg/ph",
+      "n = 147 vg/ph",
+      "n = 735 vg/ph",
+      "n = 2940 vg/ph"
+    ],
+    "gold_index": 0,
+    "gold_answer": "n = 1470 vg/ph",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0111",
+    "question": "Lãi suất danh nghĩa là 10% được tính theo kỳ bán niên, vậy lãi suất hàng năm hiệu quả là bao nhiêu?",
+    "choices": [
+      "10.00%",
+      "10.25%",
+      "10.50%",
+      "10.75%",
+      "11.00%",
+      "11.25%",
+      "11.50%",
+      "11.75%",
+      "12.00%",
+      "12.25%"
+    ],
+    "gold_index": 1,
+    "gold_answer": "10.25%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0112",
+    "question": "Một bể chứa hình trụ đang được đổ đầy nước với tốc độ không đổi là $ 500 \\, \\text{cm}^3/\\text{sec} $. Bán kính của bể là 10 cm. Hỏi tốc độ tăng của chiều cao nước là bao nhiêu khi chiều cao nước là 15 cm?",
+    "choices": [
+      "$ \\frac{1}{20\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{1}{10\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{1}{5\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{1}{2\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{1}{\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{2}{\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{5}{\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{10}{\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{15}{\\pi} \\, \\text{cm/sec} $",
+      "$ \\frac{20}{\\pi} \\, \\text{cm/sec} $"
+    ],
+    "gold_index": 6,
+    "gold_answer": "$ \\frac{5}{\\pi} \\, \\text{cm/sec} $",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0114",
+    "question": "Một nhà độc quyền đối mặt với đường cầu tuyến tính và chi phí biên không đổi. Nếu chính phủ áp đặt một khoản thuế theo đơn vị lên nhà độc quyền,",
+    "choices": [
+      "sản lượng của nhà độc quyền sẽ giảm, và giá sẽ tăng.",
+      "sản lượng của nhà độc quyền sẽ tăng, và giá sẽ giảm.",
+      "sản lượng của nhà độc quyền sẽ không thay đổi, và giá sẽ tăng.",
+      "sản lượng của nhà độc quyền sẽ không thay đổi, và giá sẽ giảm."
+    ],
+    "gold_index": 0,
+    "gold_answer": "sản lượng của nhà độc quyền sẽ giảm, và giá sẽ tăng.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0116",
+    "question": "Cho $ g(x) = \\cos(x) \\cdot e^{-x} $. Hãy tìm giá trị của $ g'(0) $.",
+    "choices": [
+      "-1",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "gold_index": 0,
+    "gold_answer": "-1",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0118",
+    "question": "Một công ty sử dụng phương pháp tính khấu hao theo số lượng sản phẩm để khấu hao một thiết bị. Thiết bị có chi phí là 50.000 đô la, giá trị còn lại là 5.000 đô la và tuổi thọ hữu ích được ước tính là 100.000 đơn vị. Nếu công ty sản xuất 12.000 đơn vị trong năm đầu tiên, thì chi phí khấu hao cho năm đó là bao nhiêu?",
+    "choices": [
+      "4.500",
+      "4.800",
+      "5.000",
+      "5.200",
+      "5.400",
+      "5.600",
+      "5.800",
+      "6.000",
+      "6.200",
+      "6.400"
+    ],
+    "gold_index": 4,
+    "gold_answer": "5.400",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0121",
+    "question": "Câu hỏi: Điều gì xảy ra với Lượng đặt hàng tối ưu (EOQ) nếu doanh số đơn vị hàng năm tăng gấp đôi, giả sử tất cả các chi phí khác không thay đổi?",
+    "choices": [
+      "EOQ tăng gấp đôi",
+      "EOQ không thay đổi",
+      "EOQ tăng 41,4%",
+      "EOQ giảm 41,4%",
+      "EOQ tăng 100%",
+      "EOQ tăng 20%",
+      "EOQ giảm 20%",
+      "EOQ tăng 70,7%",
+      "EOQ giảm 70,7%",
+      "EOQ tăng 50%"
+    ],
+    "gold_index": 2,
+    "gold_answer": "EOQ tăng 41,4%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0123",
+    "question": "Một hệ thống máy tính có tốc độ đồng hồ là 2,5 GHz và trung bình 3 chu kỳ đồng hồ mỗi lệnh (CPI). Một kỹ thuật tối ưu hóa mới giảm CPI xuống còn 2. Nếu một chương trình ban đầu mất 15 giây để thực thi, chương trình đó sẽ chạy nhanh hơn bao nhiêu lần khi áp dụng kỹ thuật tối ưu hóa?",
+    "choices": [
+      "1,25 lần nhanh hơn",
+      "1,5 lần nhanh hơn",
+      "1,75 lần nhanh hơn",
+      "2,0 lần nhanh hơn",
+      "2,25 lần nhanh hơn",
+      "2,5 lần nhanh hơn",
+      "2,75 lần nhanh hơn",
+      "3,0 lần nhanh hơn",
+      "3,5 lần nhanh hơn",
+      "4,0 lần nhanh hơn"
+    ],
+    "gold_index": 1,
+    "gold_answer": "1,5 lần nhanh hơn",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0124",
+    "question": "Công thức hoá học của oxit có thành phần phần trăm của S là 40%:",
+    "choices": [
+      "SO2.",
+      "SO3.",
+      "SO.",
+      "S2O4."
+    ],
+    "gold_index": 1,
+    "gold_answer": "SO3.",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0131",
+    "question": "Bạn nên làm gì khi bắt tay?",
+    "choices": [
+      "Nhìn đi hướng khác",
+      "Nhìn xuống đất",
+      "Giao tiếp bằng mắt và mỉm cười",
+      "Nhìn xung quanh theo mọi hướng"
+    ],
+    "gold_index": 2,
+    "gold_answer": "Giao tiếp bằng mắt và mỉm cười",
+    "category": "soft_skills",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0134",
+    "question": "Nếu quỹ hưu trí cung cấp mức sinh lời hàng năm là 5% và tỷ lệ lạm phát là 2%, thì tốc độ tăng trưởng thực của tài sản của một người đầu tư vào quỹ hưu trí này là bao nhiêu?",
+    "choices": [
+      "Tài sản thực tăng 7%.",
+      "Tài sản thực tăng 3%.",
+      "Tài sản thực không thay đổi.",
+      "Tài sản thực tăng 5%."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Tài sản thực tăng 3%.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0144",
+    "question": "Xét phép biến đổi $ T $ được xác định bởi $ T(x, y) = (3x - 2y, x + 4y) $. Ma trận biểu diễn của $ T $ là gì?",
+    "choices": [
+      "$\\begin{pmatrix} 3 & -2 \\\\ 1 & 4 \\end{pmatrix}$",
+      "$\\begin{pmatrix} -2 & 3 \\\\ 4 & 1 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 3 & 1 \\\\ -2 & 4 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 1 & 4 \\\\ 3 & -2 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 3 & -2 \\\\ 4 & 1 \\end{pmatrix}$",
+      "$\\begin{pmatrix} -2 & 4 \\\\ 3 & 1 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 1 & 3 \\\\ 4 & -2 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 3 & 4 \\\\ -2 & 1 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 4 & 1 \\\\ -2 & 3 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 1 & -2 \\\\ 4 & 3 \\end{pmatrix}$"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$\\begin{pmatrix} 3 & -2 \\\\ 1 & 4 \\end{pmatrix}$",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0146",
+    "question": "Xét các điểm $ A(1, 2) $, $ B(4, 6) $, và $ C(7, 2) $ trong mặt phẳng tọa độ. Một đường thẳng $ L $ đi qua điểm $ A $ và song song với đoạn thẳng $ BC $. Phương trình của đường thẳng $ L $ là gì?",
+    "choices": [
+      "$ y = \\frac{4}{3}x - \\frac{2}{3} $",
+      "$ y = \\frac{3}{4}x + \\frac{5}{4} $",
+      "$ y = -\\frac{4}{3}x + \\frac{10}{3} $",
+      "$ y = -\\frac{3}{4}x + \\frac{11}{4} $",
+      "$ y = \\frac{4}{3}x + \\frac{2}{3} $",
+      "$ y = \\frac{3}{4}x - \\frac{1}{4} $",
+      "$ y = -\\frac{3}{4}x + \\frac{13}{4} $",
+      "$ y = \\frac{4}{3}x - \\frac{10}{3} $",
+      "$ y = \\frac{3}{4}x + \\frac{7}{4} $",
+      "$ y = -\\frac{4}{3}x + \\frac{8}{3} $"
+    ],
+    "gold_index": 2,
+    "gold_answer": "$ y = -\\frac{4}{3}x + \\frac{10}{3} $",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0152",
+    "question": "Nếu GDP bình quân đầu người của một quốc gia là 800 đô la vào năm 1 Công nguyên và tăng lên 919 đô la vào năm 1348, thì tốc độ tăng trưởng trung bình hàng năm của GDP bình quân đầu người trong giai đoạn này là bao nhiêu?",
+    "choices": [
+      "0,01%",
+      "0,05%",
+      "0,10%",
+      "0,20%"
+    ],
+    "gold_index": 0,
+    "gold_answer": "0,01%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0154",
+    "question": "Chọn câu đúng. A. Sóng dọc là sóng truyền dọc theo một sợi dây. B. Sóng dọc là sóng truyền theo phương thẳng đứng, còn sóng ngang là sóng truyền theo phương nằm ngang. C. Sóng dọc là sóng trong đó phương dao động (của các phần tử môi trường) trùng với phương truyền. D. Sóng ngang là sóng trong đó phương dao động (của các phần tử môi trường) trùng với phương truyền.",
+    "choices": [
+      " Sóng dọc là sóng truyền dọc theo một sợi dây.",
+      " Sóng dọc là sóng truyền theo phương thẳng đứng, còn sóng ngang là sóng truyền theo phương nằm ngang.",
+      " Sóng dọc là sóng trong đó phương dao động (của các phần tử môi trường) trùng với phương truyền.",
+      " Sóng ngang là sóng trong đó phương dao động (của các phần tử môi trường) trùng với phương truyền."
+    ],
+    "gold_index": 2,
+    "gold_answer": " Sóng dọc là sóng trong đó phương dao động (của các phần tử môi trường) trùng với phương truyền.",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0155",
+    "question": "Trong một quần thể gồm 500 cá thể, tần số của alen lặn cho một đặc điểm cụ thể là 0,3. Giả sử quần thể ở trạng thái cân bằng Hardy-Weinberg, số lượng cá thể đồng hợp lặn dự kiến trong quần thể là bao nhiêu?",
+    "choices": [
+      "45",
+      "75",
+      "90",
+      "105",
+      "120",
+      "135",
+      "150",
+      "165",
+      "180",
+      "200"
+    ],
+    "gold_index": 0,
+    "gold_answer": "45",
+    "category": "biology_environment",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0158",
+    "question": "Điện tích trên tụ điện có điện dung 1,44 × 10^-10 F khi hiệu điện thế giữa hai bản là 120 V là bao nhiêu?",
+    "choices": [
+      "1,73 × 10^-8 C",
+      "1,44 × 10^-10 C",
+      "1,20 × 10^-8 C",
+      "1,00 × 10^-10 C",
+      "1,73 × 10^-10 C",
+      "1,20 × 10^-12 C",
+      "1,44 × 10^-8 C",
+      "1,73 × 10^-12 C",
+      "1,00 × 10^-8 C",
+      "1,44 × 10^-12 C"
+    ],
+    "gold_index": 0,
+    "gold_answer": "1,73 × 10^-8 C",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0160",
+    "question": "Khẳng định nào là đúng về chú thích trong Python?",
+    "choices": [
+      "Chú thích giúp cho các lập trình viên hiểu rõ hơn về chương trình.",
+      "Trình thông dịch Python sẽ bỏ qua những chú thích.",
+      "Có thể viết chú thích trên cùng một dòng với lệnh/biểu thức hoặc viết trên nhiều dòng mà không vấn đề gì cả",
+      "Tất cả các đáp án trên."
+    ],
+    "gold_index": 3,
+    "gold_answer": "Tất cả các đáp án trên.",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0173",
+    "question": "Ưu điểm của cơ cấu chỉ thị từ điện là:",
+    "choices": [
+      "Ít bị ảnh hưởng của từ trường nhiễu bên ngoài",
+      "Độ chính xác cao, công suất tiêu thụ bé",
+      "Thang đo chia đều",
+      "Tất cả đều đúng"
+    ],
+    "gold_index": 3,
+    "gold_answer": "Tất cả đều đúng",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0174",
+    "question": "Xét một điện tích điểm $ +Q $ nằm tại gốc tọa độ và một điện tích điểm $ -Q $ nằm tại $ (2a, 0) $ trên trục x. Điện thế điện $ V $ tại một điểm $ P $ nằm trên trục y, cách gốc tọa độ một khoảng $ y $ là bao nhiêu?",
+    "choices": [
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{y} + \\frac{Q}{\\sqrt{y^2 + (2a)^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{y} - \\frac{Q}{\\sqrt{y^2 + (2a)^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + a^2}} + \\frac{Q}{\\sqrt{y^2 + (2a)^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + a^2}} - \\frac{Q}{\\sqrt{y^2 + (2a)^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + (2a)^2}} - \\frac{Q}{\\sqrt{y^2 + a^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{y} + \\frac{Q}{\\sqrt{y^2 + a^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{y} - \\frac{Q}{\\sqrt{y^2 + a^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + (2a)^2}} + \\frac{Q}{\\sqrt{y^2 + a^2}} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + (2a)^2}} - \\frac{Q}{y} \\right) $",
+      "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{\\sqrt{y^2 + a^2}} - \\frac{Q}{y} \\right) $"
+    ],
+    "gold_index": 1,
+    "gold_answer": "$ V = \\frac{1}{4\\pi\\epsilon_0} \\left( \\frac{Q}{y} - \\frac{Q}{\\sqrt{y^2 + (2a)^2}} \\right) $",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0179",
+    "question": "Chuyển số phức $ z = 1 + \\sqrt{3}i $ sang dạng biểu diễn cực $ z = r(\\cos \\theta + i \\sin \\theta) $. Giá trị của $ \\theta $ theo radian là bao nhiêu?",
+    "choices": [
+      "$ \\frac{\\pi}{6} $",
+      "$ \\frac{\\pi}{3} $",
+      "$ \\frac{\\pi}{2} $",
+      "$ \\frac{2\\pi}{3} $",
+      "$ \\frac{5\\pi}{6} $",
+      "$ \\frac{7\\pi}{6} $",
+      "$ \\frac{4\\pi}{3} $",
+      "$ \\frac{3\\pi}{2} $",
+      "$ \\frac{5\\pi}{3} $",
+      "$ \\frac{11\\pi}{6} $"
+    ],
+    "gold_index": 1,
+    "gold_answer": "$ \\frac{\\pi}{3} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0181",
+    "question": "Nếu một tài khoản tiết kiệm có lãi suất danh nghĩa là 3% và tỷ lệ lạm phát là 2%, thì lãi suất thực là bao nhiêu?",
+    "choices": [
+      "1%",
+      "1,5%",
+      "5%",
+      "6%"
+    ],
+    "gold_index": 0,
+    "gold_answer": "1%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0184",
+    "question": "Một photon có bước sóng 600 nm. Năng lượng của nó là bao nhiêu electron-vôn (eV)? (Lưu ý: Hằng số Planck $ h = 4.1357 \\times 10^{-15} $ eV·s, tốc độ ánh sáng $ c = 3 \\times 10^8 $ m/s)",
+    "choices": [
+      "0,5 eV",
+      "1,0 eV",
+      "1,5 eV",
+      "2,0 eV",
+      "2,5 eV",
+      "3,0 eV",
+      "3,5 eV",
+      "4,0 eV",
+      "4,5 eV",
+      "5,0 eV"
+    ],
+    "gold_index": 3,
+    "gold_answer": "2,0 eV",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0188",
+    "question": "Công ty The Spy Who Loves You báo cáo Chi phí hàng hóa bán được là 7.200 USD trong năm 1 và 7.920 USD trong năm 2. Tỷ lệ thay đổi của Chi phí hàng hóa bán được từ năm 1 sang năm 2 là bao nhiêu?",
+    "choices": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "gold_index": 1,
+    "gold_answer": "10%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0189",
+    "question": "Nếu một doanh nghiệp có chi phí biến đổi trung bình là 15 đô la và chi phí biên là 20 đô la, thì tác động đến chi phí biến đổi trung bình sẽ như thế nào nếu lượng sản phẩm đầu ra tăng thêm một đơn vị?",
+    "choices": [
+      "Chi phí biến đổi trung bình sẽ giảm.",
+      "Chi phí biến đổi trung bình sẽ tăng.",
+      "Chi phí biến đổi trung bình sẽ không thay đổi.",
+      "Không thể xác định được tác động với thông tin này."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Chi phí biến đổi trung bình sẽ tăng.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0191",
+    "question": "Câu hỏi nào dưới đây giải thích tốt nhất vai trò của plasmid trong việc phát triển khả năng kháng kháng sinh ở vi khuẩn?",
+    "choices": [
+      "Plasmid là các phân tử DNA lớn, không di động, không thể truyền các gen kháng kháng sinh giữa các vi khuẩn.",
+      "Plasmid có thể nhân đôi độc lập với nhiễm sắc thể vi khuẩn và thường mang nhiều gen kháng kháng sinh.",
+      "Plasmid được tích hợp vào nhiễm sắc thể vi khuẩn, khiến chúng ít khả năng được truyền giữa các vi khuẩn.",
+      "Plasmid chủ yếu liên quan đến việc truyền các yếu tố gây độc, chứ không phải các gen kháng kháng sinh.",
+      "Plasmid chỉ có thể truyền các gen kháng kháng sinh trong cùng một loài vi khuẩn.",
+      "Plasmid kém hiệu quả hơn so với bacteriophage trong việc truyền gen.",
+      "Plasmid thường liên quan đến việc truyền các gen chuyển hóa chứ không phải các gen kháng.",
+      "Plasmid chỉ xuất hiện trong tế bào nhân thực và không góp phần vào khả năng kháng của vi khuẩn.",
+      "Plasmid thường bị mất trong quá trình nhân lên của vi khuẩn, làm giảm vai trò của chúng trong kháng kháng sinh.",
+      "Plasmid không tham gia vào chuyển gen ngang và không góp phần vào khả năng kháng kháng sinh."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Plasmid có thể nhân đôi độc lập với nhiễm sắc thể vi khuẩn và thường mang nhiều gen kháng kháng sinh.",
+    "category": "biology_environment",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0195",
+    "question": "Trong một nền kinh tế hai hàng hóa, nếu giá của hàng hóa X là 5 đô la và giá của hàng hóa Y là 10 đô la, và người tiêu dùng có thu nhập là 100 đô la, thì độ dốc của đường ngân sách là bao nhiêu?",
+    "choices": [
+      "-2",
+      "-0,5",
+      "2",
+      "0,5"
+    ],
+    "gold_index": 1,
+    "gold_answer": "-0,5",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0207",
+    "question": "Trong một cuộc cạnh tranh Cournot với hai doanh nghiệp, mỗi doanh nghiệp có chi phí biên sản xuất không đổi là $ c $ và hàm cầu thị trường được cho bởi $ Q = a - P $, trong đó $ P $ là giá và $ a $ là một hằng số dương. Nếu cả hai doanh nghiệp chọn lượng sản phẩm của họ đồng thời và độc lập, thì phát biểu nào sau đây là đúng về lượng cân bằng Nash $ q^* $ cho mỗi doanh nghiệp?",
+    "choices": [
+      "$ q^* = \\frac{a - c}{4} $",
+      "$ q^* = \\frac{a - c}{3} $",
+      "$ q^* = \\frac{a - c}{2} $",
+      "$ q^* = \\frac{a + c}{4} $",
+      "$ q^* = \\frac{a + c}{3} $",
+      "$ q^* = \\frac{a}{2} $",
+      "$ q^* = \\frac{a}{3} $",
+      "$ q^* = \\frac{a}{4} $",
+      "$ q^* = \\frac{2a - c}{3} $",
+      "$ q^* = \\frac{a - 2c}{3} $"
+    ],
+    "gold_index": 1,
+    "gold_answer": "$ q^* = \\frac{a - c}{3} $",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0213",
+    "question": "Một trong hai khe của thí nghiệm Young được làm mờ sao cho nó chỉ truyền ánh sáng được bằng 1/2 cường độ sáng của khe còn lại. Kết quả là",
+    "choices": [
+      " vân giao thoa biến mắt.",
+      " vân giao thoa tái đi.",
+      " vạch sáng trở nên sáng hơn và vạch tối thì tối hơn.",
+      " vạch tối sáng hơn và vạch sáng tối hơn."
+    ],
+    "gold_index": 3,
+    "gold_answer": " vạch tối sáng hơn và vạch sáng tối hơn.",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0218",
+    "question": "Hàm số nào sau đây là biến đổi Laplace của hàm $ f(t) = e^{-3t} \\cos(4t) $?",
+    "choices": [
+      "$ \\frac{s+3}{(s+3)^2 + 16} $",
+      "$ \\frac{s-3}{(s-3)^2 + 16} $",
+      "$ \\frac{s+3}{s^2 + 16} $",
+      "$ \\frac{s-3}{s^2 + 16} $",
+      "$ \\frac{s+3}{(s+3)^2 + 9} $",
+      "$ \\frac{s-3}{(s-3)^2 + 9} $",
+      "$ \\frac{s+3}{s^2 + 9} $",
+      "$ \\frac{s-3}{s^2 + 9} $",
+      "$ \\frac{s+3}{(s+3)^2 + 25} $",
+      "$ \\frac{s-3}{(s-3)^2 + 25} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\frac{s+3}{(s+3)^2 + 16} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0221",
+    "question": "Giả sử đường cầu đối với một sản phẩm được biểu diễn bởi phương trình Qd = 100 - 5P, trong đó Qd là lượng cầu và P là giá. Nếu giá của sản phẩm tăng từ 5 đô la lên 7 đô la, thì sự thay đổi của lượng cầu là bao nhiêu?",
+    "choices": [
+      "Giảm 10 đơn vị",
+      "Tăng 10 đơn vị",
+      "Giảm 20 đơn vị",
+      "Tăng 20 đơn vị"
+    ],
+    "gold_index": 0,
+    "gold_answer": "Giảm 10 đơn vị",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0225",
+    "question": "Một bể chứa hình trụ có bán kính 3 mét đang được đổ nước với tốc độ 10 mét khối mỗi phút. Khi chiều cao của nước là 4 mét, tốc độ thay đổi của chiều cao nước là bao nhiêu?",
+    "choices": [
+      "0.25 m/phút",
+      "0.30 m/phút",
+      "0.35 m/phút",
+      "0.40 m/phút",
+      "0.45 m/phút",
+      "0.50 m/phút",
+      "0.55 m/phút",
+      "0.60 m/phút",
+      "0.65 m/phút",
+      "0.70 m/phút"
+    ],
+    "gold_index": 2,
+    "gold_answer": "0.35 m/phút",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0226",
+    "question": "Tìm đạo hàm của hàm số $ g(x) = \\ln(5x^3 - 2x + 1) $ theo $ x $.",
+    "choices": [
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} $",
+      "$ \\frac{15x^2 - 2}{(5x^3 - 2x + 1)^2} $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x} $",
+      "$ \\frac{15x^2 - 2}{5x^3 + 1} $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} \\cdot \\ln(5x^3 - 2x + 1) $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} \\cdot (5x^3 - 2x + 1) $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} \\cdot (15x^2 - 2) $",
+      "$ \\frac{15x^2}{5x^3 - 2x + 1} $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} \\cdot \\ln(5) $",
+      "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} \\cdot \\ln(x) $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\frac{15x^2 - 2}{5x^3 - 2x + 1} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0232",
+    "question": "Một nhóm gồm 10 sinh viên sẽ được chia thành hai nhóm 5 người để thực hiện một dự án khoa học. Hỏi có bao nhiêu cách thực hiện điều này nếu thứ tự của các nhóm không quan trọng?",
+    "choices": [
+      "126",
+      "252",
+      "63",
+      "504",
+      "105",
+      "210",
+      "154",
+      "378",
+      "189",
+      "420"
+    ],
+    "gold_index": 0,
+    "gold_answer": "126",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0235",
+    "question": "Câu hỏi nào dưới đây giải thích tốt nhất tại sao sự trùng hợp nhu cầu đôi (double coincidence of wants) không còn là vấn đề lớn trong nền kinh tế tiền tệ?",
+    "choices": [
+      "Trong nền kinh tế tiền tệ, cá nhân có thể tiết kiệm tiền cho các khoản mua sắm trong tương lai.",
+      "Trong nền kinh tế tiền tệ, cá nhân có thể sử dụng tiền để trao đổi gián tiếp hàng hóa và dịch vụ.",
+      "Trong nền kinh tế tiền tệ, cá nhân có thể đầu tư tiền để tạo ra thu nhập.",
+      "Trong nền kinh tế tiền tệ, cá nhân có thể vay tiền để thực hiện các khoản mua sắm."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Trong nền kinh tế tiền tệ, cá nhân có thể sử dụng tiền để trao đổi gián tiếp hàng hóa và dịch vụ.",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0236",
+    "question": "Trong mạng máy tính, chức năng của RAS (Remote Access Service) là gì?",
+    "choices": [
+      "Cho phép người dùng truy cập từ xa vào mạng cục bộ",
+      "Quản lý các thiết bị mạng",
+      "Cung cấp dịch vụ in",
+      "Bảo mật dữ liệu trên mạng"
+    ],
+    "gold_index": 0,
+    "gold_answer": "Cho phép người dùng truy cập từ xa vào mạng cục bộ",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0330",
+    "question": "CH3-CH=CH-CH3 có tên gọi “thay thế” là?",
+    "choices": [
+      "Butilen",
+      "β-butilen",
+      "α-butilen",
+      "but-2-en"
+    ],
+    "gold_index": 3,
+    "gold_answer": "but-2-en",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0334",
+    "question": "Đánh giá tích phân xác định $\\int_0^1 \\frac{\\ln(1 + x)}{1 + x} \\, dx$.",
+    "choices": [
+      "$\\frac{\\ln^2 2}{2}$",
+      "$\\ln^2 2$",
+      "$\\frac{\\ln^2 2}{4}$",
+      "$\\frac{\\ln 2}{2}$",
+      "$\\frac{\\ln 2}{4}$",
+      "$\\ln 2$",
+      "$\\frac{\\ln 2}{8}$",
+      "$\\frac{\\ln^2 2}{8}$",
+      "$\\frac{\\ln^2 2}{16}$",
+      "$\\frac{\\ln 2}{16}$"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$\\frac{\\ln^2 2}{2}$",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0335",
+    "question": "Giả sử $ G $ là một nhóm cyclic cấp 45. Có bao nhiêu nhóm con của $ G $, và tổng các cấp của tất cả các nhóm con đó là bao nhiêu?",
+    "choices": [
+      "6 nhóm con, tổng = 78",
+      "6 nhóm con, tổng = 90",
+      "8 nhóm con, tổng = 78",
+      "8 nhóm con, tổng = 90",
+      "6 nhóm con, tổng = 105",
+      "8 nhóm con, tổng = 105",
+      "10 nhóm con, tổng = 120",
+      "10 nhóm con, tổng = 135",
+      "12 nhóm con, tổng = 150",
+      "12 nhóm con, tổng = 165"
+    ],
+    "gold_index": 0,
+    "gold_answer": "6 nhóm con, tổng = 78",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0337",
+    "question": "Một chất phóng xạ phân rã theo phương trình vi phân $ \\frac{dA}{dt} = -kA $, trong đó $ A $ là lượng chất và $ k $ là một hằng số. Nếu lượng ban đầu là 500 gam và nó giảm xuống còn 250 gam sau 4 năm, thì lượng còn lại sau 8 năm là bao nhiêu?",
+    "choices": [
+      "100 gam",
+      "125 gam",
+      "150 gam",
+      "175 gam",
+      "200 gam",
+      "225 gam",
+      "250 gam",
+      "275 gam",
+      "300 gam",
+      "325 gam"
+    ],
+    "gold_index": 1,
+    "gold_answer": "125 gam",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0339",
+    "question": "Một công ty có tài sản trị giá 2.000.000 USD và nợ phải trả trị giá 1.500.000 USD. Nếu công ty mua thiết bị mới trị giá 400.000 USD bằng khoản vay dài hạn, giá trị mới của tài sản và nợ phải trả của công ty là bao nhiêu?",
+    "choices": [
+      "Tài sản = 2.400.000 USD; Nợ phải trả = 1.900.000 USD",
+      "Tài sản = 2.400.000 USD; Nợ phải trả = 1.500.000 USD",
+      "Tài sản = 2.000.000 USD; Nợ phải trả = 1.900.000 USD",
+      "Tài sản = 2.000.000 USD; Nợ phải trả = 1.500.000 USD"
+    ],
+    "gold_index": 0,
+    "gold_answer": "Tài sản = 2.400.000 USD; Nợ phải trả = 1.900.000 USD",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0355",
+    "question": "Xét hàm số $ f(t) = e^{-t} \\cos(2t) u(t) $, trong đó $ u(t) $ là hàm bước đơn vị. Biến đổi Laplace $ F(s) $ của $ f(t) $ là gì?",
+    "choices": [
+      "$ \\frac{s+1}{(s+1)^2 + 4} $",
+      "$ \\frac{s+1}{(s+1)^2 + 9} $",
+      "$ \\frac{s+1}{(s+1)^2 + 1} $",
+      "$ \\frac{s+2}{(s+2)^2 + 4} $",
+      "$ \\frac{s}{s^2 + 4} $",
+      "$ \\frac{s}{(s+1)^2 + 4} $",
+      "$ \\frac{s+1}{(s+1)^2 + 3} $",
+      "$ \\frac{s+1}{(s+2)^2 + 4} $",
+      "$ \\frac{s+1}{(s+1)^2 + 2} $",
+      "$ \\frac{s+1}{(s+1)^2 + 5} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\frac{s+1}{(s+1)^2 + 4} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0356",
+    "question": "Một hệ thống điện ba pha có công suất tác dụng là 100kW và hệ số công suất là 0.8. Công suất biểu kiến của hệ thống là bao nhiêu?",
+    "choices": [
+      "80kW",
+      "100kW",
+      "125kW",
+      "150kW"
+    ],
+    "gold_index": 2,
+    "gold_answer": "125kW",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0367",
+    "question": "Chi phí nào trong các chi phí sau thường được phân loại là chi phí bán hàng trong báo cáo thu nhập đa bước?",
+    "choices": [
+      "Khấu hao thiết bị văn phòng",
+      "Chi phí văn phòng phẩm",
+      "Chi phí quảng cáo và tiếp thị",
+      "Tiền thuê nhà xưởng"
+    ],
+    "gold_index": 2,
+    "gold_answer": "Chi phí quảng cáo và tiếp thị",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0369",
+    "question": "int numbers[] = {int numbers[] = {2,1,4,3};int w = numbers[1] / numbers[2]; Cho đoạn mã sau, khi đoạn mã thực hiện xong, biến w có giá trị bao nhiêu?",
+    "choices": [
+      "0",
+      "0.25",
+      "2",
+      "1"
+    ],
+    "gold_index": 0,
+    "gold_answer": "0",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0371",
+    "question": "Hằng số tích ion (Kw) của nước ở 25 độ Celsius là bao nhiêu?",
+    "choices": [
+      "1.0 × 10^-7",
+      "1.0 × 10^-14",
+      "1.0 × 10^-10",
+      "1.0 × 10^-9",
+      "1.0 × 10^-8",
+      "1.0 × 10^-12",
+      "1.0 × 10^-11",
+      "1.0 × 10^-13",
+      "1.0 × 10^-15",
+      "1.0 × 10^-16"
+    ],
+    "gold_index": 1,
+    "gold_answer": "1.0 × 10^-14",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0372",
+    "question": "Khi đốt 5g một mẫu thép trong khí ôxi thì thu được 0,1g khí CO2. Vậy phần trăm cacbon có chứa trong thép là:",
+    "choices": [
+      "0,55%.",
+      "5,45%.",
+      "54,50%.",
+      "10,90%."
+    ],
+    "gold_index": 0,
+    "gold_answer": "0,55%.",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0377",
+    "question": "Xét tập hợp $ T = \\{2, 3, 5, 7, 11\\} $. Bạn cần chọn một tập con của $ T $ sao cho tổng các phần tử trong tập con được tối đa hóa, nhưng tổng phải nhỏ hơn hoặc bằng 15. Tập con nào trong các tập con sau thỏa mãn điều kiện này?",
+    "choices": [
+      "\\{2, 3, 5\\}",
+      "\\{2, 3, 7\\}",
+      "\\{2, 5, 7\\}",
+      "\\{3, 5, 7\\}",
+      "\\{2, 3, 11\\}",
+      "\\{2, 5, 11\\}",
+      "\\{3, 5, 11\\}",
+      "\\{2, 7, 11\\}",
+      "\\{3, 7, 11\\}",
+      "\\{5, 7, 11\\}"
+    ],
+    "gold_index": 3,
+    "gold_answer": "\\{3, 5, 7\\}",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0382",
+    "question": "Nếu ràng buộc ngân sách của người tiêu dùng được cho bởi phương trình 5X + 10Y = 100, trong đó X và Y là lượng của hai mặt hàng, thì chi phí cơ hội của một đơn vị mặt hàng X tính theo mặt hàng Y là bao nhiêu?",
+    "choices": [
+      "2 đơn vị của Y",
+      "0,5 đơn vị của Y",
+      "10 đơn vị của Y",
+      "5 đơn vị của Y"
+    ],
+    "gold_index": 1,
+    "gold_answer": "0,5 đơn vị của Y",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0388",
+    "question": "Một dung dịch đệm được chuẩn bị bằng cách trộn các thể tích bằng nhau của 0.1 M amoniac (NH₃) và 0.1 M amoni clorua (NH₄Cl). Biết rằng pKb của amoniac là 4.75, pH của dung dịch đệm là bao nhiêu?",
+    "choices": [
+      "8.25",
+      "8.75",
+      "9.25",
+      "9.75",
+      "8.50",
+      "8.00",
+      "9.00",
+      "9.50",
+      "7.75",
+      "7.50"
+    ],
+    "gold_index": 2,
+    "gold_answer": "9.25",
+    "category": "chemistry",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0394",
+    "question": "Trong ngắn hạn, hàm sản xuất của doanh nghiệp được biểu diễn dưới dạng Q = 10L - 0.1L^2, trong đó Q là sản lượng và L là lao động. Số lượng đơn vị lao động tối đa mà doanh nghiệp có thể thuê để tối đa hóa sản lượng là bao nhiêu?",
+    "choices": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "gold_index": 0,
+    "gold_answer": "50",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0397",
+    "question": "Trong một thị trường có năm doanh nghiệp, các tỷ lệ thị phần như sau: Doanh nghiệp A chiếm 50%, Doanh nghiệp B chiếm 25%, Doanh nghiệp C chiếm 15%, Doanh nghiệp D chiếm 7%, và Doanh nghiệp E chiếm 3%. Tính Chỉ số Herfindahl-Hirschman (HHI) cho thị trường này. Dựa trên HHI, câu nào trong các câu sau mô tả chính xác nhất mức độ tập trung thị trường?",
+    "choices": [
+      "Thị trường là cạnh tranh hoàn hảo.",
+      "Thị trường là cạnh tranh độc quyền.",
+      "Thị trường là độc quyền nhóm với mức độ tập trung thấp.",
+      "Thị trường là độc quyền nhóm với mức độ tập trung trung bình.",
+      "Thị trường là độc quyền nhóm với mức độ tập trung cao.",
+      "Thị trường là độc quyền thuần túy.",
+      "Không thể xác định mức độ tập trung thị trường với thông tin đã cho.",
+      "Thị trường là đôi cạnh tranh.",
+      "Mức độ tập trung thị trường là thấp.",
+      "Mức độ tập trung thị trường là rất cao."
+    ],
+    "gold_index": 4,
+    "gold_answer": "Thị trường là độc quyền nhóm với mức độ tập trung cao.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0406",
+    "question": "Một cửa hàng tạp hóa địa phương đã tăng giá một món đồ ăn vặt phổ biến từ 2,00 đô la lên 2,50 đô la, và lượng cầu giảm từ 100 đơn vị xuống 80 đơn vị. Sử dụng công thức trung điểm, hãy xác định độ co giãn của cầu theo giá đối với món đồ ăn vặt này?",
+    "choices": [
+      "-0,5",
+      "-1,0",
+      "-1,5",
+      "-2,0"
+    ],
+    "gold_index": 1,
+    "gold_answer": "-1,0",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0410",
+    "question": "Nếu một công ty có 10.000 cổ phần phổ thông đang lưu hành và phát hành thêm 1.000 cổ phần mới, thì phần trăm sở hữu của các cổ đông hiện tại sẽ thay đổi như thế nào, giả sử họ không mua bất kỳ cổ phần mới nào?",
+    "choices": [
+      "Phần trăm sở hữu sẽ tăng 10%.",
+      "Phần trăm sở hữu sẽ giảm 10%.",
+      "Phần trăm sở hữu sẽ không thay đổi.",
+      "Phần trăm sở hữu sẽ biến động ngẫu nhiên do các yếu tố thị trường."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Phần trăm sở hữu sẽ giảm 10%.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0412",
+    "question": "Công ty Z có tỷ số giá-thu nhập (P/E) hiện tại là 12 và tỷ số giá-thu nhập mục tiêu (P/E) là 14. Giả sử lợi nhuận trên cổ phiếu (EPS) của công ty không thay đổi, thì mức tăng dự kiến của giá cổ phiếu công ty là bao nhiêu?",
+    "choices": [
+      "16,67%",
+      "20%",
+      "25%",
+      "33,33%"
+    ],
+    "gold_index": 0,
+    "gold_answer": "16,67%",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0414",
+    "question": "Vào ngày 30 tháng 1 năm 2019, Printing Plus đã mua nguyên vật liệu trả chậm với giá 500 đô la, khoản thanh toán sẽ được thực hiện trong vòng ba tháng. Tác động đến phương trình kế toán là gì?",
+    "choices": [
+      "Tài sản tăng 500 đô la và nợ phải trả giảm 500 đô la",
+      "Tài sản giảm 500 đô la và vốn chủ sở hữu tăng 500 đô la",
+      "Tài sản tăng 500 đô la và vốn chủ sở hữu tăng 500 đô la",
+      "Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la"
+    ],
+    "gold_index": 3,
+    "gold_answer": "Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0415",
+    "question": "Khoảng cách giữa hai cực của ống phóng tia X bằng 2 cm, hiệu điện thế giữa hai cực là 100 kV. Cường độ điện trường giữa hai cực bằng:",
+    "choices": [
+      " 200 V/m.",
+      " 50 V/m.",
+      " 2 000 V/m",
+      " 5 000 000 V/m"
+    ],
+    "gold_index": 3,
+    "gold_answer": " 5 000 000 V/m",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0416",
+    "question": "Điện trở tương đương của hai điện trở, R_1 = 300 Ω và R_2 = 200 Ω, được mắc song song là bao nhiêu?",
+    "choices": [
+      "100 Ω",
+      "120 Ω",
+      "150 Ω",
+      "180 Ω",
+      "200 Ω",
+      "220 Ω",
+      "240 Ω",
+      "260 Ω",
+      "280 Ω",
+      "300 Ω"
+    ],
+    "gold_index": 1,
+    "gold_answer": "120 Ω",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0419",
+    "question": "Nếu một trái phiếu trả lãi suất danh nghĩa là 4% mỗi năm, nhưng lạm phát là 3% mỗi năm, thì lãi suất thực là bao nhiêu?",
+    "choices": [
+      "1%",
+      "4%",
+      "7%",
+      "0.12%"
+    ],
+    "gold_index": 0,
+    "gold_answer": "1%",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0420",
+    "question": "Một tụ điện có điện dung 100 μF được nạp đến điện áp 120V. Sau đó, nó được xả qua một điện trở 500 ohm. Thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu là bao lâu?",
+    "choices": [
+      "0.05 giây",
+      "0.1 giây",
+      "0.2 giây",
+      "0.5 giây",
+      "1 giây",
+      "2 giây",
+      "5 giây",
+      "10 giây",
+      "20 giây",
+      "50 giây"
+    ],
+    "gold_index": 0,
+    "gold_answer": "0.05 giây",
+    "category": "physics_engineering",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0422",
+    "question": "Hệ điều hành sử dụng kỹ thuật cấp phát bộ nhớ liên tục sẽ đễ xảy ra hiện tượng phân mảnh trong bộ nhớ. Nguyên nhân là do đâu?",
+    "choices": [
+      "Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ.",
+      "Cấp phát bộ nhớ theo các đơn vị khối.",
+      "Sử dụng một hàng đợi cấp phát bộ nhớ.",
+      "Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi CPU."
+    ],
+    "gold_index": 0,
+    "gold_answer": "Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ.",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0431",
+    "question": "Xét trường véc-tơ $\\mathbf{G}(x, y, z) = x\\mathbf{i} + y\\mathbf{j} + z\\mathbf{k}$. Trong số các phát biểu sau, phát biểu nào đúng về độ xoáy (curl) và độ phân kỳ (divergence) của $\\mathbf{G}$?",
+    "choices": [
+      "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 0$",
+      "$\\text{curl}(\\mathbf{G}) \\neq \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 0$",
+      "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 3$",
+      "$\\text{curl}(\\mathbf{G}) \\neq \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 3$",
+      "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 1$",
+      "$\\text{curl}(\\mathbf{G}) \\neq \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 1$",
+      "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = -1$",
+      "$\\text{curl}(\\mathbf{G}) \\neq \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = -1$",
+      "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 2$",
+      "$\\text{curl}(\\mathbf{G}) \\neq \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 2$"
+    ],
+    "gold_index": 2,
+    "gold_answer": "$\\text{curl}(\\mathbf{G}) = \\mathbf{0}$ và $\\text{div}(\\mathbf{G}) = 3$",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0439",
+    "question": "Xét hàm số $ g(t) = \\cos(\\beta t) \\cdot e^{-\\gamma t} $ trong đó $ \\beta $ và $ \\gamma $ là các hằng số dương. Tìm biến đổi Laplace $ \\mathcal{L}\\{g(t)\\} $.",
+    "choices": [
+      "$ \\frac{s + \\gamma}{(s + \\gamma)^2 + \\beta^2} $",
+      "$ \\frac{s - \\gamma}{(s - \\gamma)^2 + \\beta^2} $",
+      "$ \\frac{s + \\gamma}{(s - \\gamma)^2 + \\beta^2} $",
+      "$ \\frac{s - \\gamma}{(s + \\gamma)^2 + \\beta^2} $",
+      "$ \\frac{s + \\gamma}{s^2 + \\beta^2 + 2\\gamma s} $",
+      "$ \\frac{s - \\gamma}{s^2 + \\beta^2 - 2\\gamma s} $",
+      "$ \\frac{s + \\gamma}{s^2 + \\beta^2 + \\gamma^2} $",
+      "$ \\frac{s - \\gamma}{s^2 + \\beta^2 - \\gamma^2} $",
+      "$ \\frac{s + \\gamma}{(s + \\gamma)^2 - \\beta^2} $",
+      "$ \\frac{s - \\gamma}{(s - \\gamma)^2 - \\beta^2} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\frac{s + \\gamma}{(s + \\gamma)^2 + \\beta^2} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0441",
+    "question": "Cách tốt nhất để xây dựng lòng tin với người khác là gì?",
+    "choices": [
+      "Bằng cách luôn luôn chịu trách nhiệm",
+      "Bằng cách cho thấy bạn là người đáng tin cậy",
+      "Chỉ tập trung vào nhu cầu của riêng bạn",
+      "Bằng cách tránh mọi kết nối cá nhân"
+    ],
+    "gold_index": 1,
+    "gold_answer": "Bằng cách cho thấy bạn là người đáng tin cậy",
+    "category": "soft_skills",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0442",
+    "question": "Phương thức nào trong lớp Soket cho phép lấy địa chỉ IP của máy tính kết nối từ xa?",
+    "choices": [
+      "public InetAddress getInetAddress()",
+      "public int getPort()",
+      "public int getLoalPort()",
+      "public InputStream getInputStream()"
+    ],
+    "gold_index": 0,
+    "gold_answer": "public InetAddress getInetAddress()",
+    "category": "computer_science",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0446",
+    "question": "Nếu tỷ lệ lạm phát là 5% và lãi suất danh nghĩa là 10%, thì lãi suất thực là bao nhiêu?",
+    "choices": [
+      "5%.",
+      "10%.",
+      "50%.",
+      "15%."
+    ],
+    "gold_index": 0,
+    "gold_answer": "5%.",
+    "category": "economics_finance",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0448",
+    "question": "Xét phép biến đổi $ T: \\mathbb{R}^3 \\to \\mathbb{R}^3 $ được xác định bởi ma trận $ B = \\begin{pmatrix} 1 & 0 & 2 \\\\ 0 & 2 & -1 \\\\ 3 & 1 & 0 \\end{pmatrix} $. Hỏi ảnh của vector $ \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix} $ dưới phép biến đổi này là gì?",
+    "choices": [
+      "$ \\begin{pmatrix} 7 \\\\ 1 \\\\ 5 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 7 \\\\ 3 \\\\ 5 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 5 \\\\ 1 \\\\ 7 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 5 \\\\ 3 \\\\ 7 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 7 \\\\ 1 \\\\ 7 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 5 \\\\ 3 \\\\ 5 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 7 \\\\ 3 \\\\ 5 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 5 \\\\ 1 \\\\ 7 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 7 \\\\ 5 \\\\ 1 \\end{pmatrix} $",
+      "$ \\begin{pmatrix} 5 \\\\ 7 \\\\ 3 \\end{pmatrix} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\begin{pmatrix} 7 \\\\ 1 \\\\ 5 \\end{pmatrix} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0450",
+    "question": "Xét các vector $\\mathbf{a} = (1, 2, 3)$, $\\mathbf{b} = (4, 5, 6)$ và $\\mathbf{c} = (7, 8, 9)$ trong $\\mathbb{R}^3$. Thể tích của hình hộp song diện được tạo bởi ba vector này là bao nhiêu?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gold_index": 0,
+    "gold_answer": "0",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0453",
+    "question": "Xét hàm số $ f(t) = e^{-at} \\cos(bt) $ với $ t \\geq 0 $, trong đó $ a $ và $ b $ là các hằng số dương. Biến đổi Laplace của $ f(t) $ là gì?",
+    "choices": [
+      "$ \\frac{s+a}{(s+a)^2 + b^2} $",
+      "$ \\frac{s}{(s+a)^2 + b^2} $",
+      "$ \\frac{b}{(s+a)^2 + b^2} $",
+      "$ \\frac{s}{s^2 + b^2} $",
+      "$ \\frac{s+a}{s^2 + b^2} $",
+      "$ \\frac{a}{(s+a)^2 + b^2} $",
+      "$ \\frac{s}{(s-a)^2 + b^2} $",
+      "$ \\frac{a}{s^2 + a^2} $",
+      "$ \\frac{b}{s^2 + a^2} $",
+      "$ \\frac{s+a}{(s-a)^2 + b^2} $"
+    ],
+    "gold_index": 0,
+    "gold_answer": "$ \\frac{s+a}{(s+a)^2 + b^2} $",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0455",
+    "question": "Giả sử một chủ doanh nghiệp tư nhân vay nợ cá nhân. Câu nào sau đây là đúng về khoản nợ này?",
+    "choices": [
+      "Khoản nợ được coi là chi phí kinh doanh.",
+      "Chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ.",
+      "Khoản nợ được coi là đầu tư kinh doanh.",
+      "Khoản nợ được chia đều giữa tất cả các cổ đông."
+    ],
+    "gold_index": 1,
+    "gold_answer": "Chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ.",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0458",
+    "question": "Xét một hệ thống động lực tuyến tính được mô tả bởi ma trận $ A = \\begin{pmatrix} -1 & 3 \\\\ -3 & -1 \\end{pmatrix} $. Gọi $ \\lambda_1 $ và $ \\lambda_2 $ là các giá trị riêng của $ A $. Trong số các phát biểu sau, phát biểu nào đúng về các giá trị riêng và tính ổn định của hệ thống?",
+    "choices": [
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều dương, và hệ thống không ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều âm, và hệ thống ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ là các số phức liên hợp với phần thực dương, và hệ thống không ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ là các số phức liên hợp với phần thực âm, và hệ thống ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều dương, và hệ thống ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều là số thực và khác nhau, và hệ thống không ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều là số thực và khác nhau, và hệ thống ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều bằng nhau, và hệ thống ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ đều bằng nhau, và hệ thống không ổn định.",
+      "$ \\lambda_1 $ và $ \\lambda_2 $ là số thực và bằng nhau, và hệ thống ổn định về mặt trung tính."
+    ],
+    "gold_index": 3,
+    "gold_answer": "$ \\lambda_1 $ và $ \\lambda_2 $ là các số phức liên hợp với phần thực âm, và hệ thống ổn định.",
+    "category": "mathematics",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0461",
+    "question": "Năng lực là gì?",
+    "choices": [
+      "Là một đặc điểm bẩm sinh không thể thay đổi",
+      "Là khả năng thực hiện thành công một hoạt động nào đó",
+      "Chỉ liên quan đến các hoạt động trí tuệ",
+      "Không liên quan đến sự rèn luyện và học tập"
+    ],
+    "gold_index": 1,
+    "gold_answer": "Là khả năng thực hiện thành công một hoạt động nào đó",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  },
+  {
+    "qid": "test_0462",
+    "question": "Tìm câu tục ngữ có ý nghĩa giống với câu tục ngữ: “Một mặt người bằng mười mặt của”.",
+    "choices": [
+      "Nhiều áo thì ấm, nhiều người thì vui",
+      "Người khôn dồn ra mặt",
+      "Người sống, đống vàng",
+      "Dao năng liếc thì sắc, người năng chào thì quen"
+    ],
+    "gold_index": 2,
+    "gold_answer": "Người sống, đống vàng",
+    "category": "general_knowledge",
+    "verification_status": "assistant_curated_high_confidence",
+    "recommended_use": "validation_only_until_human_spot_check"
+  }
+]

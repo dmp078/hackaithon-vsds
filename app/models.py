@@ -7,6 +7,7 @@ class QuestionItem(BaseModel):
     qid: str
     question: str
     choices: list[str]
+    category: str | None = None
 
     @field_validator("qid", "question")
     @classmethod
