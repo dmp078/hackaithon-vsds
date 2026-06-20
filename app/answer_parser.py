@@ -25,6 +25,16 @@ def parse_selected_index(raw_response: str, choice_count: int) -> int:
         if parsed is not None:
             return parsed
 
+    relaxed_candidates = [unfenced]
+    relaxed_fragment = _extract_relaxed_json_fragment(unfenced)
+    if relaxed_fragment is not None and relaxed_fragment != unfenced:
+        relaxed_candidates.append(relaxed_fragment)
+
+    for candidate in relaxed_candidates:
+        parsed = _parse_relaxed_json_candidate(candidate, choice_count)
+        if parsed is not None:
+            return parsed
+
     if re.fullmatch(r"[+-]?\d+", unfenced):
         return _validate_selected_index(int(unfenced), choice_count)
 
@@ -68,6 +78,28 @@ def _extract_json_object(value: str) -> str | None:
                     return value[start : index + 1]
         start = value.find("{", start + 1)
     return None
+
+
+def _extract_relaxed_json_fragment(value: str) -> str | None:
+    start = value.find("{")
+    if start == -1:
+        return None
+    return value[start:].strip()
+
+
+def _parse_relaxed_json_candidate(candidate: str, choice_count: int) -> int | None:
+    normalized = candidate.strip()
+    if not normalized.startswith("{"):
+        return None
+
+    repaired = re.sub(r",\s*([}\]])", r"\1", normalized)
+    if repaired.count("{") == repaired.count("}") + 1:
+        repaired = repaired + "}"
+
+    if repaired == normalized:
+        return None
+
+    return _parse_json_candidate(repaired, choice_count)
 
 
 def _validate_selected_index(selected_index: int, choice_count: int) -> int:

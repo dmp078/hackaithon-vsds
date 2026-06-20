@@ -74,3 +74,30 @@ def test_llm_solver_retry_escalates_to_full_context_for_long_question() -> None:
     assert prediction.used_fallback is False
     assert prediction.selected_index == 1
     assert len(provider.prompts) == 2
+
+
+class RecoverableMalformedProvider(LLMProvider):
+    name = "recoverable-malformed"
+
+    def __init__(self) -> None:
+        self.prompts: list[str] = []
+
+    def generate(self, question: QuestionItem, prompt: str) -> str:
+        self.prompts.append(prompt)
+        return '{"selected_index": 1'
+
+
+def test_llm_solver_does_not_retry_for_recoverable_near_json_output() -> None:
+    provider = RecoverableMalformedProvider()
+    solver = LLMSolver(AppConfig(max_retries=1), provider)
+    question = QuestionItem(
+        qid="q_recoverable",
+        question="2 + 2 bằng bao nhiêu?",
+        choices=["3", "4", "5"],
+    )
+
+    prediction = solver.solve(question)
+
+    assert prediction.used_fallback is False
+    assert prediction.selected_index == 1
+    assert len(provider.prompts) == 1
