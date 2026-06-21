@@ -9,6 +9,7 @@ from app.retrieval.gate import RetrievalGate
 from app.retrieval.loader import load_embedding_index, load_knowledge_base
 from app.retrieval.models import EmbeddingRecord, KnowledgeDocument
 from app.retrieval.retriever import cosine_similarity, retrieve_top_k
+from scripts.build_kb import build_documents
 
 
 def test_retrieval_gate_skips_short_arithmetic() -> None:
@@ -18,7 +19,7 @@ def test_retrieval_gate_skips_short_arithmetic() -> None:
     assert gate.should_retrieve(question) is False
 
 
-def test_retrieval_gate_allows_formula_heavy_math_question() -> None:
+def test_retrieval_gate_skips_formula_heavy_math_question() -> None:
     gate = RetrievalGate(AppConfig(retrieval_mode="on"))
     question = QuestionItem(
         qid="q2",
@@ -27,7 +28,42 @@ def test_retrieval_gate_allows_formula_heavy_math_question() -> None:
         category="mathematics",
     )
 
+    assert gate.should_retrieve(question) is False
+
+
+def test_retrieval_gate_infers_missing_category_for_factual_history_question() -> None:
+    gate = RetrievalGate(AppConfig(retrieval_mode="on"))
+    question = QuestionItem(
+        qid="q3",
+        question="Thủ đô của quốc gia nào nằm ở châu Âu và sự kiện lịch sử năm 1945 nào gắn với quốc gia đó?",
+        choices=["A", "B", "C", "D"],
+        category=None,
+    )
+
     assert gate.should_retrieve(question) is True
+
+
+def test_retrieval_gate_skips_numeric_finance_accounting_question() -> None:
+    gate = RetrievalGate(AppConfig(retrieval_mode="on"))
+    question = QuestionItem(
+        qid="q4",
+        question="Một công ty có khoản phải thu 150.000 USD với lãi suất 4% và đáo hạn sau 24 tháng. Cuối năm cần ghi nhận bao nhiêu lãi phải thu?",
+        choices=["3.000 USD", "4.500 USD", "6.000 USD", "7.500 USD"],
+        category="economics_finance",
+    )
+
+    assert gate.should_retrieve(question) is False
+
+
+def test_build_documents_expands_high_value_factual_domains() -> None:
+    documents = build_documents()
+    categories = {document["category"] for document in documents}
+
+    assert len(documents) >= 250
+    assert "history_geography" in categories
+    assert "biology_environment" in categories
+    assert "law_safety" in categories
+    assert "general_knowledge" in categories
 
 
 def test_load_knowledge_base_and_embedding_index(tmp_path: Path) -> None:

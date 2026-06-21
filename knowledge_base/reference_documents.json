@@ -1181,5 +1181,1934 @@
       "risk premium"
     ],
     "content": "Giải thích ngắn: Lợi nhuận kỳ vọng cao hơn thường đòi hỏi chấp nhận rủi ro cao hơn.\nĐịnh nghĩa quan trọng: Khái niệm nền tảng trong tài chính và quyết định đầu tư.\nTừ khóa gợi ý: đầu tư, risk premium"
+  },
+  {
+    "id": "history_geography__world_war_i",
+    "category": "history_geography",
+    "topic": "world_war_i",
+    "title": "Chiến tranh thế giới thứ nhất",
+    "keywords": [
+      "1914",
+      "1918",
+      "liên minh"
+    ],
+    "content": "Giải thích ngắn: Diễn ra từ 1914 đến 1918 với hai khối chính là Liên minh và Hiệp ước.\nĐịnh nghĩa quan trọng: Khởi phát trực tiếp sau vụ ám sát Franz Ferdinand.\nTừ khóa gợi ý: 1914, 1918, liên minh"
+  },
+  {
+    "id": "history_geography__world_war_ii",
+    "category": "history_geography",
+    "topic": "world_war_ii",
+    "title": "Chiến tranh thế giới thứ hai",
+    "keywords": [
+      "1939",
+      "1945",
+      "phe trục"
+    ],
+    "content": "Giải thích ngắn: Diễn ra từ 1939 đến 1945, kết thúc bằng thắng lợi của phe Đồng minh.\nĐịnh nghĩa quan trọng: Sự kiện lớn gồm trận Stalingrad, D-Day và hai bom nguyên tử ở Nhật.\nTừ khóa gợi ý: 1939, 1945, phe trục"
+  },
+  {
+    "id": "history_geography__cold_war",
+    "category": "history_geography",
+    "topic": "cold_war",
+    "title": "Chiến tranh Lạnh",
+    "keywords": [
+      "Mỹ",
+      "Liên Xô",
+      "ý thức hệ"
+    ],
+    "content": "Giải thích ngắn: Giai đoạn đối đầu chiến lược giữa Mỹ và Liên Xô sau Thế chiến II.\nĐịnh nghĩa quan trọng: Nổi bật với chạy đua vũ trang, không gian và các cuộc chiến ủy nhiệm.\nTừ khóa gợi ý: Mỹ, Liên Xô, ý thức hệ"
+  },
+  {
+    "id": "history_geography__french_revolution",
+    "category": "history_geography",
+    "topic": "french_revolution",
+    "title": "Cách mạng Pháp",
+    "keywords": [
+      "1789",
+      "nhân quyền",
+      "quân chủ"
+    ],
+    "content": "Giải thích ngắn: Lật đổ trật tự phong kiến cũ và khẳng định các khẩu hiệu tự do, bình đẳng, bác ái.\nĐịnh nghĩa quan trọng: Mở đầu cho nhiều biến đổi chính trị ở châu Âu.\nTừ khóa gợi ý: 1789, nhân quyền, quân chủ"
+  },
+  {
+    "id": "history_geography__industrial_revolution",
+    "category": "history_geography",
+    "topic": "industrial_revolution",
+    "title": "Cách mạng công nghiệp",
+    "keywords": [
+      "máy hơi nước",
+      "công xưởng"
+    ],
+    "content": "Giải thích ngắn: Chuyển sản xuất thủ công sang cơ khí hóa quy mô lớn.\nĐịnh nghĩa quan trọng: Bắt đầu ở Anh rồi lan sang châu Âu và Bắc Mỹ.\nTừ khóa gợi ý: máy hơi nước, công xưởng"
+  },
+  {
+    "id": "history_geography__renaissance",
+    "category": "history_geography",
+    "topic": "renaissance",
+    "title": "Phong trào Phục hưng",
+    "keywords": [
+      "nhân văn",
+      "châu Âu"
+    ],
+    "content": "Giải thích ngắn: Phong trào văn hóa - tư tưởng đề cao con người và khoa học cổ điển.\nĐịnh nghĩa quan trọng: Khởi phát mạnh ở Ý rồi lan ra Tây Âu.\nTừ khóa gợi ý: nhân văn, châu Âu"
+  },
+  {
+    "id": "history_geography__united_nations",
+    "category": "history_geography",
+    "topic": "united_nations",
+    "title": "Liên Hợp Quốc",
+    "keywords": [
+      "1945",
+      "hòa bình",
+      "an ninh"
+    ],
+    "content": "Giải thích ngắn: Tổ chức quốc tế thành lập năm 1945 nhằm duy trì hòa bình, an ninh và hợp tác quốc tế.\nĐịnh nghĩa quan trọng: Cơ quan chính gồm Đại hội đồng, HĐBA, ICJ, ECOSOC.\nTừ khóa gợi ý: 1945, hòa bình, an ninh"
+  },
+  {
+    "id": "history_geography__asean",
+    "category": "history_geography",
+    "topic": "asean",
+    "title": "ASEAN",
+    "keywords": [
+      "Đông Nam Á",
+      "1967"
+    ],
+    "content": "Giải thích ngắn: Hiệp hội các quốc gia Đông Nam Á thành lập năm 1967 nhằm thúc đẩy hợp tác khu vực.\nĐịnh nghĩa quan trọng: Việt Nam gia nhập ASEAN năm 1995.\nTừ khóa gợi ý: Đông Nam Á, 1967"
+  },
+  {
+    "id": "history_geography__eu",
+    "category": "history_geography",
+    "topic": "eu",
+    "title": "Liên minh châu Âu",
+    "keywords": [
+      "EU",
+      "thị trường chung"
+    ],
+    "content": "Giải thích ngắn: Liên minh kinh tế - chính trị của nhiều quốc gia châu Âu.\nĐịnh nghĩa quan trọng: Đặc trưng bởi thị trường chung và đồng euro ở nhiều nước thành viên.\nTừ khóa gợi ý: EU, thị trường chung"
+  },
+  {
+    "id": "history_geography__nato",
+    "category": "history_geography",
+    "topic": "nato",
+    "title": "NATO",
+    "keywords": [
+      "phòng thủ tập thể",
+      "1949"
+    ],
+    "content": "Giải thích ngắn: Liên minh quân sự Bắc Đại Tây Dương thành lập năm 1949.\nĐịnh nghĩa quan trọng: Nguyên tắc cốt lõi là phòng thủ tập thể theo Điều 5.\nTừ khóa gợi ý: phòng thủ tập thể, 1949"
+  },
+  {
+    "id": "history_geography__vietnam_august_revolution",
+    "category": "history_geography",
+    "topic": "vietnam_august_revolution",
+    "title": "Cách mạng Tháng Tám",
+    "keywords": [
+      "1945",
+      "độc lập"
+    ],
+    "content": "Giải thích ngắn: Phong trào giành chính quyền năm 1945 dẫn tới sự ra đời của nước Việt Nam Dân chủ Cộng hòa.\nĐịnh nghĩa quan trọng: Tuyên ngôn Độc lập được đọc ngày 2/9/1945.\nTừ khóa gợi ý: 1945, độc lập"
+  },
+  {
+    "id": "history_geography__dien_bien_phu",
+    "category": "history_geography",
+    "topic": "dien_bien_phu",
+    "title": "Chiến thắng Điện Biên Phủ",
+    "keywords": [
+      "1954",
+      "kháng chiến"
+    ],
+    "content": "Giải thích ngắn: Chiến thắng quyết định của Việt Minh trước quân Pháp năm 1954.\nĐịnh nghĩa quan trọng: Mở đường cho Hiệp định Genève.\nTừ khóa gợi ý: 1954, kháng chiến"
+  },
+  {
+    "id": "history_geography__geneva_1954",
+    "category": "history_geography",
+    "topic": "geneva_1954",
+    "title": "Hiệp định Genève 1954",
+    "keywords": [
+      "đình chiến",
+      "vĩ tuyến 17"
+    ],
+    "content": "Giải thích ngắn: Hiệp định quốc tế liên quan chấm dứt chiến sự ở Đông Dương.\nĐịnh nghĩa quan trọng: Việt Nam tạm thời bị chia cắt ở vĩ tuyến 17.\nTừ khóa gợi ý: đình chiến, vĩ tuyến 17"
+  },
+  {
+    "id": "history_geography__paris_1973",
+    "category": "history_geography",
+    "topic": "paris_1973",
+    "title": "Hiệp định Paris 1973",
+    "keywords": [
+      "Việt Nam",
+      "ngừng bắn"
+    ],
+    "content": "Giải thích ngắn: Hiệp định nhằm lập lại hòa bình ở Việt Nam ký năm 1973.\nĐịnh nghĩa quan trọng: Liên quan việc rút quân Mỹ khỏi Việt Nam.\nTừ khóa gợi ý: Việt Nam, ngừng bắn"
+  },
+  {
+    "id": "history_geography__doi_moi_1986",
+    "category": "history_geography",
+    "topic": "doi_moi_1986",
+    "title": "Đổi Mới 1986",
+    "keywords": [
+      "kinh tế",
+      "cải cách"
+    ],
+    "content": "Giải thích ngắn: Chủ trương đổi mới toàn diện, chuyển mạnh sang kinh tế thị trường định hướng XHCN.\nĐịnh nghĩa quan trọng: Tác động lớn đến tăng trưởng và hội nhập kinh tế của Việt Nam.\nTừ khóa gợi ý: kinh tế, cải cách"
+  },
+  {
+    "id": "history_geography__mekong",
+    "category": "history_geography",
+    "topic": "mekong",
+    "title": "Sông Mekong",
+    "keywords": [
+      "Đông Nam Á",
+      "lưu vực"
+    ],
+    "content": "Giải thích ngắn: Một trong các con sông lớn của châu Á, chảy qua nhiều quốc gia Đông Nam Á.\nĐịnh nghĩa quan trọng: Đồng bằng sông Cửu Long là vùng hạ lưu quan trọng của Mekong.\nTừ khóa gợi ý: Đông Nam Á, lưu vực"
+  },
+  {
+    "id": "history_geography__red_river",
+    "category": "history_geography",
+    "topic": "red_river",
+    "title": "Sông Hồng",
+    "keywords": [
+      "miền Bắc",
+      "đồng bằng"
+    ],
+    "content": "Giải thích ngắn: Hệ thống sông quan trọng ở miền Bắc Việt Nam.\nĐịnh nghĩa quan trọng: Gắn liền với đồng bằng sông Hồng và nông nghiệp lúa nước.\nTừ khóa gợi ý: miền Bắc, đồng bằng"
+  },
+  {
+    "id": "history_geography__mountain_climate",
+    "category": "history_geography",
+    "topic": "mountain_climate",
+    "title": "Khí hậu miền núi",
+    "keywords": [
+      "độ cao",
+      "nhiệt độ"
+    ],
+    "content": "Giải thích ngắn: Nhiệt độ thường giảm khi độ cao tăng, khí hậu phân hóa theo đai cao.\nĐịnh nghĩa quan trọng: Khu vực núi cao có thể có khí hậu mát hơn rõ rệt.\nTừ khóa gợi ý: độ cao, nhiệt độ"
+  },
+  {
+    "id": "history_geography__monsoon",
+    "category": "history_geography",
+    "topic": "monsoon",
+    "title": "Gió mùa",
+    "keywords": [
+      "mùa mưa",
+      "mùa khô"
+    ],
+    "content": "Giải thích ngắn: Kiểu hoàn lưu gió đổi hướng theo mùa do chênh lệch khí áp lục địa - đại dương.\nĐịnh nghĩa quan trọng: Ảnh hưởng mạnh đến khí hậu Việt Nam và Nam Á.\nTừ khóa gợi ý: mùa mưa, mùa khô"
+  },
+  {
+    "id": "history_geography__latitude_longitude",
+    "category": "history_geography",
+    "topic": "latitude_longitude",
+    "title": "Vĩ độ và kinh độ",
+    "keywords": [
+      "tọa độ địa lý"
+    ],
+    "content": "Giải thích ngắn: Vĩ độ đo vị trí bắc - nam so với xích đạo; kinh độ đo đông - tây so với kinh tuyến gốc.\nĐịnh nghĩa quan trọng: Dùng để xác định vị trí tuyệt đối trên Trái Đất.\nTừ khóa gợi ý: tọa độ địa lý"
+  },
+  {
+    "id": "history_geography__time_zones",
+    "category": "history_geography",
+    "topic": "time_zones",
+    "title": "Múi giờ",
+    "keywords": [
+      "kinh tuyến",
+      "UTC"
+    ],
+    "content": "Giải thích ngắn: Thế giới chia thành các múi giờ gần đúng theo kinh tuyến.\nĐịnh nghĩa quan trọng: Chênh lệch 15 độ kinh tuyến tương ứng khoảng 1 giờ.\nTừ khóa gợi ý: kinh tuyến, UTC"
+  },
+  {
+    "id": "history_geography__plate_tectonics",
+    "category": "history_geography",
+    "topic": "plate_tectonics",
+    "title": "Kiến tạo mảng",
+    "keywords": [
+      "động đất",
+      "núi lửa"
+    ],
+    "content": "Giải thích ngắn: Vỏ Trái Đất gồm các mảng kiến tạo di chuyển tương đối với nhau.\nĐịnh nghĩa quan trọng: Ranh giới mảng thường gắn với động đất và núi lửa.\nTừ khóa gợi ý: động đất, núi lửa"
+  },
+  {
+    "id": "history_geography__erosion_weathering",
+    "category": "history_geography",
+    "topic": "erosion_weathering",
+    "title": "Phong hóa và xói mòn",
+    "keywords": [
+      "địa mạo"
+    ],
+    "content": "Giải thích ngắn: Phong hóa phá vỡ đá tại chỗ, còn xói mòn là quá trình bóc mòn và vận chuyển vật liệu.\nĐịnh nghĩa quan trọng: Nước, gió, băng là tác nhân quan trọng.\nTừ khóa gợi ý: địa mạo"
+  },
+  {
+    "id": "history_geography__desert_definition",
+    "category": "history_geography",
+    "topic": "desert_definition",
+    "title": "Hoang mạc",
+    "keywords": [
+      "lượng mưa thấp"
+    ],
+    "content": "Giải thích ngắn: Vùng có lượng mưa rất thấp, thảm thực vật thưa thớt.\nĐịnh nghĩa quan trọng: Không nhất thiết phải nóng; có cả hoang mạc lạnh.\nTừ khóa gợi ý: lượng mưa thấp"
+  },
+  {
+    "id": "history_geography__savanna",
+    "category": "history_geography",
+    "topic": "savanna",
+    "title": "Xa van",
+    "keywords": [
+      "đồng cỏ",
+      "nhiệt đới"
+    ],
+    "content": "Giải thích ngắn: Kiểu cảnh quan nhiệt đới với cỏ là chủ yếu và cây phân tán.\nĐịnh nghĩa quan trọng: Thường có mùa mưa và mùa khô rõ rệt.\nTừ khóa gợi ý: đồng cỏ, nhiệt đới"
+  },
+  {
+    "id": "history_geography__rainforest",
+    "category": "history_geography",
+    "topic": "rainforest",
+    "title": "Rừng mưa nhiệt đới",
+    "keywords": [
+      "đa dạng sinh học"
+    ],
+    "content": "Giải thích ngắn: Hệ sinh thái nóng ẩm với lượng mưa lớn quanh năm.\nĐịnh nghĩa quan trọng: Đa dạng sinh học rất cao và nhiều tầng tán.\nTừ khóa gợi ý: đa dạng sinh học"
+  },
+  {
+    "id": "history_geography__ocean_currents",
+    "category": "history_geography",
+    "topic": "ocean_currents",
+    "title": "Dòng biển",
+    "keywords": [
+      "nóng",
+      "lạnh"
+    ],
+    "content": "Giải thích ngắn: Dòng biển nóng/lạnh ảnh hưởng lớn đến khí hậu ven bờ và ngư trường.\nĐịnh nghĩa quan trọng: Ví dụ Gulf Stream là dòng biển nóng nổi tiếng.\nTừ khóa gợi ý: nóng, lạnh"
+  },
+  {
+    "id": "history_geography__el_nino_la_nina",
+    "category": "history_geography",
+    "topic": "el_nino_la_nina",
+    "title": "El Niño và La Niña",
+    "keywords": [
+      "thái bình dương",
+      "dao động khí hậu"
+    ],
+    "content": "Giải thích ngắn: Hai pha đối lập của ENSO gây biến động thời tiết toàn cầu.\nĐịnh nghĩa quan trọng: El Niño thường làm nóng lên bất thường vùng trung tâm - đông Thái Bình Dương.\nTừ khóa gợi ý: thái bình dương, dao động khí hậu"
+  },
+  {
+    "id": "history_geography__map_scale",
+    "category": "history_geography",
+    "topic": "map_scale",
+    "title": "Tỷ lệ bản đồ",
+    "keywords": [
+      "khoảng cách",
+      "bản đồ"
+    ],
+    "content": "Giải thích ngắn: Biểu thị quan hệ giữa khoảng cách trên bản đồ và ngoài thực địa.\nĐịnh nghĩa quan trọng: Tỷ lệ lớn cho chi tiết cao hơn trên phạm vi nhỏ.\nTừ khóa gợi ý: khoảng cách, bản đồ"
+  },
+  {
+    "id": "history_geography__population_density",
+    "category": "history_geography",
+    "topic": "population_density",
+    "title": "Mật độ dân số",
+    "keywords": [
+      "người/km2"
+    ],
+    "content": "Giải thích ngắn: Số người trên một đơn vị diện tích.\nCông thức: Mật độ = dân số / diện tích\nĐịnh nghĩa quan trọng: Dùng để so sánh mức độ tập trung dân cư.\nTừ khóa gợi ý: người/km2"
+  },
+  {
+    "id": "history_geography__urbanization",
+    "category": "history_geography",
+    "topic": "urbanization",
+    "title": "Đô thị hóa",
+    "keywords": [
+      "thành phố",
+      "cơ cấu lao động"
+    ],
+    "content": "Giải thích ngắn: Quá trình gia tăng tỷ lệ dân cư sống ở đô thị và mở rộng không gian đô thị.\nĐịnh nghĩa quan trọng: Thường đi kèm chuyển dịch lao động khỏi nông nghiệp.\nTừ khóa gợi ý: thành phố, cơ cấu lao động"
+  },
+  {
+    "id": "history_geography__migration",
+    "category": "history_geography",
+    "topic": "migration",
+    "title": "Di cư",
+    "keywords": [
+      "nhập cư",
+      "xuất cư"
+    ],
+    "content": "Giải thích ngắn: Di chuyển dân cư từ nơi này sang nơi khác trong hoặc ngoài một quốc gia.\nĐịnh nghĩa quan trọng: Nguyên nhân có thể là kinh tế, xã hội, môi trường, xung đột.\nTừ khóa gợi ý: nhập cư, xuất cư"
+  },
+  {
+    "id": "history_geography__natural_resources",
+    "category": "history_geography",
+    "topic": "natural_resources",
+    "title": "Tài nguyên thiên nhiên",
+    "keywords": [
+      "tái tạo",
+      "không tái tạo"
+    ],
+    "content": "Giải thích ngắn: Gồm các nguồn lực lấy từ tự nhiên phục vụ phát triển.\nĐịnh nghĩa quan trọng: Phân biệt tài nguyên tái tạo và không tái tạo.\nTừ khóa gợi ý: tái tạo, không tái tạo"
+  },
+  {
+    "id": "history_geography__energy_resources",
+    "category": "history_geography",
+    "topic": "energy_resources",
+    "title": "Nguồn năng lượng",
+    "keywords": [
+      "hóa thạch",
+      "tái tạo"
+    ],
+    "content": "Giải thích ngắn: Bao gồm năng lượng hóa thạch, thủy điện, gió, mặt trời, sinh khối...\nĐịnh nghĩa quan trọng: Năng lượng tái tạo thường có lợi thế bền vững hơn.\nTừ khóa gợi ý: hóa thạch, tái tạo"
+  },
+  {
+    "id": "history_geography__seismic_risk",
+    "category": "history_geography",
+    "topic": "seismic_risk",
+    "title": "Rủi ro động đất",
+    "keywords": [
+      "đới đứt gãy"
+    ],
+    "content": "Giải thích ngắn: Nguy cơ động đất lớn hơn ở gần ranh giới mảng và đới đứt gãy hoạt động.\nĐịnh nghĩa quan trọng: Thiết kế công trình phải xét đến cấp động đất.\nTừ khóa gợi ý: đới đứt gãy"
+  },
+  {
+    "id": "history_geography__sea_level_rise",
+    "category": "history_geography",
+    "topic": "sea_level_rise",
+    "title": "Nước biển dâng",
+    "keywords": [
+      "biến đổi khí hậu"
+    ],
+    "content": "Giải thích ngắn: Mực nước biển tăng do băng tan và giãn nở nhiệt của đại dương.\nĐịnh nghĩa quan trọng: Ảnh hưởng mạnh đến đồng bằng ven biển thấp.\nTừ khóa gợi ý: biến đổi khí hậu"
+  },
+  {
+    "id": "history_geography__capital_city",
+    "category": "history_geography",
+    "topic": "capital_city",
+    "title": "Khái niệm thủ đô",
+    "keywords": [
+      "trung tâm chính trị"
+    ],
+    "content": "Giải thích ngắn: Thủ đô thường là trung tâm chính trị - hành chính của quốc gia.\nĐịnh nghĩa quan trọng: Không phải lúc nào cũng là thành phố lớn nhất về dân số.\nTừ khóa gợi ý: trung tâm chính trị"
+  },
+  {
+    "id": "history_geography__archipelago",
+    "category": "history_geography",
+    "topic": "archipelago",
+    "title": "Quần đảo",
+    "keywords": [
+      "đảo",
+      "biển"
+    ],
+    "content": "Giải thích ngắn: Tập hợp nhiều đảo gần nhau tạo thành một vùng đảo.\nĐịnh nghĩa quan trọng: Ví dụ Indonesia và Philippines là quốc gia quần đảo.\nTừ khóa gợi ý: đảo, biển"
+  },
+  {
+    "id": "history_geography__isthmus_peninsula",
+    "category": "history_geography",
+    "topic": "isthmus_peninsula",
+    "title": "Eo đất và bán đảo",
+    "keywords": [
+      "địa hình ven biển"
+    ],
+    "content": "Giải thích ngắn: Eo đất là dải đất hẹp nối hai vùng đất lớn; bán đảo là phần đất nhô ra biển ba phía.\nĐịnh nghĩa quan trọng: Hai khái niệm địa lý thường dễ bị nhầm lẫn.\nTừ khóa gợi ý: địa hình ven biển"
+  },
+  {
+    "id": "history_geography__cartography_symbols",
+    "category": "history_geography",
+    "topic": "cartography_symbols",
+    "title": "Ký hiệu bản đồ",
+    "keywords": [
+      "chú giải",
+      "bản đồ"
+    ],
+    "content": "Giải thích ngắn: Ký hiệu bản đồ giúp biểu diễn đối tượng địa lý dưới dạng quy ước.\nĐịnh nghĩa quan trọng: Luôn đọc chú giải trước khi suy luận từ bản đồ.\nTừ khóa gợi ý: chú giải, bản đồ"
+  },
+  {
+    "id": "biology_environment__cell_theory",
+    "category": "biology_environment",
+    "topic": "cell_theory",
+    "title": "Học thuyết tế bào",
+    "keywords": [
+      "tế bào",
+      "sinh học"
+    ],
+    "content": "Giải thích ngắn: Mọi cơ thể sống được cấu tạo từ tế bào và tế bào là đơn vị cơ bản của sự sống.\nĐịnh nghĩa quan trọng: Tế bào chỉ sinh ra từ tế bào có trước.\nTừ khóa gợi ý: tế bào, sinh học"
+  },
+  {
+    "id": "biology_environment__prokaryote_eukaryote",
+    "category": "biology_environment",
+    "topic": "prokaryote_eukaryote",
+    "title": "Tế bào nhân sơ và nhân thực",
+    "keywords": [
+      "nhân",
+      "bào quan"
+    ],
+    "content": "Giải thích ngắn: Nhân sơ không có màng nhân; nhân thực có nhân thật và nhiều bào quan có màng.\nĐịnh nghĩa quan trọng: Vi khuẩn là ví dụ điển hình của sinh vật nhân sơ.\nTừ khóa gợi ý: nhân, bào quan"
+  },
+  {
+    "id": "biology_environment__cell_membrane",
+    "category": "biology_environment",
+    "topic": "cell_membrane",
+    "title": "Màng sinh chất",
+    "keywords": [
+      "vận chuyển",
+      "phospholipid"
+    ],
+    "content": "Giải thích ngắn: Màng sinh chất kiểm soát trao đổi chất vào ra tế bào.\nĐịnh nghĩa quan trọng: Mô hình khảm lỏng gồm phospholipid và protein.\nTừ khóa gợi ý: vận chuyển, phospholipid"
+  },
+  {
+    "id": "biology_environment__osmosis_diffusion",
+    "category": "biology_environment",
+    "topic": "osmosis_diffusion",
+    "title": "Khuếch tán và thẩm thấu",
+    "keywords": [
+      "màng bán thấm",
+      "nước"
+    ],
+    "content": "Giải thích ngắn: Khuếch tán là chuyển động từ nơi nồng độ cao xuống thấp; thẩm thấu là khuếch tán nước qua màng bán thấm.\nĐịnh nghĩa quan trọng: Không cần năng lượng trao đổi chất.\nTừ khóa gợi ý: màng bán thấm, nước"
+  },
+  {
+    "id": "biology_environment__active_transport",
+    "category": "biology_environment",
+    "topic": "active_transport",
+    "title": "Vận chuyển chủ động",
+    "keywords": [
+      "ATP",
+      "gradient"
+    ],
+    "content": "Giải thích ngắn: Vận chuyển chất ngược gradient nồng độ cần năng lượng.\nĐịnh nghĩa quan trọng: Ví dụ bơm Na+/K+ ở tế bào động vật.\nTừ khóa gợi ý: ATP, gradient"
+  },
+  {
+    "id": "biology_environment__mitosis",
+    "category": "biology_environment",
+    "topic": "mitosis",
+    "title": "Nguyên phân",
+    "keywords": [
+      "phân bào",
+      "NST"
+    ],
+    "content": "Giải thích ngắn: Nguyên phân tạo hai tế bào con có bộ NST giống tế bào mẹ.\nĐịnh nghĩa quan trọng: Phục vụ sinh trưởng, tái tạo mô, sinh sản vô tính.\nTừ khóa gợi ý: phân bào, NST"
+  },
+  {
+    "id": "biology_environment__meiosis",
+    "category": "biology_environment",
+    "topic": "meiosis",
+    "title": "Giảm phân",
+    "keywords": [
+      "giao tử",
+      "biến dị"
+    ],
+    "content": "Giải thích ngắn: Giảm phân tạo giao tử với số NST giảm đi một nửa.\nĐịnh nghĩa quan trọng: Là nguồn gốc quan trọng của biến dị tổ hợp.\nTừ khóa gợi ý: giao tử, biến dị"
+  },
+  {
+    "id": "biology_environment__dna_structure",
+    "category": "biology_environment",
+    "topic": "dna_structure",
+    "title": "Cấu trúc DNA",
+    "keywords": [
+      "nucleotide",
+      "xoắn kép"
+    ],
+    "content": "Giải thích ngắn: DNA gồm hai mạch polynucleotide xoắn kép ngược chiều.\nĐịnh nghĩa quan trọng: A bắt cặp T, G bắt cặp C theo nguyên tắc bổ sung.\nTừ khóa gợi ý: nucleotide, xoắn kép"
+  },
+  {
+    "id": "biology_environment__rna_types",
+    "category": "biology_environment",
+    "topic": "rna_types",
+    "title": "Các loại RNA",
+    "keywords": [
+      "mRNA",
+      "tRNA",
+      "rRNA"
+    ],
+    "content": "Giải thích ngắn: mRNA mang mã, tRNA vận chuyển amino acid, rRNA cấu tạo ribosome.\nĐịnh nghĩa quan trọng: RNA thường mạch đơn và có uracil thay thymine.\nTừ khóa gợi ý: mRNA, tRNA, rRNA"
+  },
+  {
+    "id": "biology_environment__replication",
+    "category": "biology_environment",
+    "topic": "replication",
+    "title": "Nhân đôi DNA",
+    "keywords": [
+      "bán bảo tồn"
+    ],
+    "content": "Giải thích ngắn: DNA nhân đôi theo nguyên tắc bổ sung và bán bảo tồn.\nĐịnh nghĩa quan trọng: Mỗi phân tử mới có một mạch cũ và một mạch mới.\nTừ khóa gợi ý: bán bảo tồn"
+  },
+  {
+    "id": "biology_environment__transcription_translation",
+    "category": "biology_environment",
+    "topic": "transcription_translation",
+    "title": "Phiên mã và dịch mã",
+    "keywords": [
+      "protein",
+      "gene"
+    ],
+    "content": "Giải thích ngắn: Thông tin di truyền đi từ DNA sang RNA rồi sang protein.\nĐịnh nghĩa quan trọng: Ribosome đọc codon trên mRNA để tổng hợp polypeptide.\nTừ khóa gợi ý: protein, gene"
+  },
+  {
+    "id": "biology_environment__genetic_code",
+    "category": "biology_environment",
+    "topic": "genetic_code",
+    "title": "Mã di truyền",
+    "keywords": [
+      "codon",
+      "amino acid"
+    ],
+    "content": "Giải thích ngắn: Mã di truyền là mã bộ ba gần như phổ biến và thoái hóa.\nĐịnh nghĩa quan trọng: Một codon mã hóa một amino acid hoặc tín hiệu kết thúc.\nTừ khóa gợi ý: codon, amino acid"
+  },
+  {
+    "id": "biology_environment__mendel_laws",
+    "category": "biology_environment",
+    "topic": "mendel_laws",
+    "title": "Các định luật Mendel",
+    "keywords": [
+      "phân li",
+      "phân li độc lập"
+    ],
+    "content": "Giải thích ngắn: Quy luật phân li và phân li độc lập mô tả di truyền tính trạng đơn gen cơ bản.\nĐịnh nghĩa quan trọng: Tỷ lệ kiểu hình cổ điển 3:1, 9:3:3:1 tùy phép lai.\nTừ khóa gợi ý: phân li, phân li độc lập"
+  },
+  {
+    "id": "biology_environment__dominant_recessive",
+    "category": "biology_environment",
+    "topic": "dominant_recessive",
+    "title": "Trội và lặn",
+    "keywords": [
+      "allele",
+      "kiểu hình"
+    ],
+    "content": "Giải thích ngắn: Alen trội biểu hiện ở thể dị hợp, alen lặn cần đồng hợp lặn để biểu hiện.\nĐịnh nghĩa quan trọng: Tính trạng trội không có nghĩa là phổ biến hơn trong quần thể.\nTừ khóa gợi ý: allele, kiểu hình"
+  },
+  {
+    "id": "biology_environment__hardy_weinberg",
+    "category": "biology_environment",
+    "topic": "hardy_weinberg",
+    "title": "Cân bằng Hardy-Weinberg",
+    "keywords": [
+      "tần số alen",
+      "quần thể"
+    ],
+    "content": "Giải thích ngắn: Mô hình cân bằng di truyền lý tưởng của quần thể ngẫu phối lớn.\nCông thức: p + q = 1; p^2 + 2pq + q^2 = 1\nĐịnh nghĩa quan trọng: Dùng để suy tần số kiểu gen từ tần số alen.\nTừ khóa gợi ý: tần số alen, quần thể"
+  },
+  {
+    "id": "biology_environment__mutation",
+    "category": "biology_environment",
+    "topic": "mutation",
+    "title": "Đột biến",
+    "keywords": [
+      "gene",
+      "NST"
+    ],
+    "content": "Giải thích ngắn: Đột biến là biến đổi vật chất di truyền ở mức gen hoặc nhiễm sắc thể.\nĐịnh nghĩa quan trọng: Có thể có lợi, có hại hoặc trung tính tùy ngữ cảnh.\nTừ khóa gợi ý: gene, NST"
+  },
+  {
+    "id": "biology_environment__natural_selection",
+    "category": "biology_environment",
+    "topic": "natural_selection",
+    "title": "Chọn lọc tự nhiên",
+    "keywords": [
+      "tiến hóa",
+      "thích nghi"
+    ],
+    "content": "Giải thích ngắn: Cá thể có đặc điểm thích nghi hơn thường để lại nhiều con hơn.\nĐịnh nghĩa quan trọng: Là cơ chế trung tâm của tiến hóa Darwin.\nTừ khóa gợi ý: tiến hóa, thích nghi"
+  },
+  {
+    "id": "biology_environment__speciation",
+    "category": "biology_environment",
+    "topic": "speciation",
+    "title": "Hình thành loài",
+    "keywords": [
+      "cách li",
+      "tiến hóa"
+    ],
+    "content": "Giải thích ngắn: Loài mới hình thành khi quần thể tích lũy khác biệt và bị cách li sinh sản.\nĐịnh nghĩa quan trọng: Cách li địa lý và sinh thái là các cơ chế quan trọng.\nTừ khóa gợi ý: cách li, tiến hóa"
+  },
+  {
+    "id": "biology_environment__food_chain_web",
+    "category": "biology_environment",
+    "topic": "food_chain_web",
+    "title": "Chuỗi và lưới thức ăn",
+    "keywords": [
+      "hệ sinh thái",
+      "dinh dưỡng"
+    ],
+    "content": "Giải thích ngắn: Chuỗi thức ăn thể hiện dòng năng lượng; lưới thức ăn là tập hợp nhiều chuỗi liên hệ.\nĐịnh nghĩa quan trọng: Sinh vật sản xuất thường ở bậc dinh dưỡng đầu.\nTừ khóa gợi ý: hệ sinh thái, dinh dưỡng"
+  },
+  {
+    "id": "biology_environment__photosynthesis",
+    "category": "biology_environment",
+    "topic": "photosynthesis",
+    "title": "Quang hợp",
+    "keywords": [
+      "diệp lục",
+      "ánh sáng"
+    ],
+    "content": "Giải thích ngắn: Thực vật dùng năng lượng ánh sáng tổng hợp chất hữu cơ từ CO2 và nước.\nCông thức: 6CO2 + 6H2O -> C6H12O6 + 6O2\nĐịnh nghĩa quan trọng: Diễn ra chủ yếu ở lục lạp.\nTừ khóa gợi ý: diệp lục, ánh sáng"
+  },
+  {
+    "id": "biology_environment__cellular_respiration",
+    "category": "biology_environment",
+    "topic": "cellular_respiration",
+    "title": "Hô hấp tế bào",
+    "keywords": [
+      "ATP",
+      "glucose"
+    ],
+    "content": "Giải thích ngắn: Phá vỡ glucose để giải phóng năng lượng dưới dạng ATP.\nĐịnh nghĩa quan trọng: Ở sinh vật hiếu khí, chất nhận electron cuối cùng là oxy.\nTừ khóa gợi ý: ATP, glucose"
+  },
+  {
+    "id": "biology_environment__enzymes",
+    "category": "biology_environment",
+    "topic": "enzymes",
+    "title": "Enzyme",
+    "keywords": [
+      "xúc tác sinh học"
+    ],
+    "content": "Giải thích ngắn: Enzyme là chất xúc tác sinh học giúp tăng tốc phản ứng mà không bị tiêu hao đáng kể.\nĐịnh nghĩa quan trọng: Hoạt tính enzyme phụ thuộc nhiệt độ, pH và nồng độ cơ chất.\nTừ khóa gợi ý: xúc tác sinh học"
+  },
+  {
+    "id": "biology_environment__immune_system",
+    "category": "biology_environment",
+    "topic": "immune_system",
+    "title": "Hệ miễn dịch",
+    "keywords": [
+      "miễn dịch bẩm sinh",
+      "thích ứng"
+    ],
+    "content": "Giải thích ngắn: Bảo vệ cơ thể trước tác nhân gây bệnh qua nhiều tầng cơ chế.\nĐịnh nghĩa quan trọng: Kháng thể là thành phần quan trọng của miễn dịch dịch thể.\nTừ khóa gợi ý: miễn dịch bẩm sinh, thích ứng"
+  },
+  {
+    "id": "biology_environment__vaccination",
+    "category": "biology_environment",
+    "topic": "vaccination",
+    "title": "Tiêm chủng",
+    "keywords": [
+      "miễn dịch chủ động"
+    ],
+    "content": "Giải thích ngắn: Đưa kháng nguyên hoặc thông tin kháng nguyên vào cơ thể để kích hoạt miễn dịch bảo vệ.\nĐịnh nghĩa quan trọng: Giúp cơ thể ghi nhớ và đáp ứng nhanh khi gặp mầm bệnh thật.\nTừ khóa gợi ý: miễn dịch chủ động"
+  },
+  {
+    "id": "biology_environment__ecological_succession",
+    "category": "biology_environment",
+    "topic": "ecological_succession",
+    "title": "Diễn thế sinh thái",
+    "keywords": [
+      "quần xã",
+      "phục hồi"
+    ],
+    "content": "Giải thích ngắn: Quá trình thay thế tuần tự các quần xã sinh vật theo thời gian.\nĐịnh nghĩa quan trọng: Có diễn thế nguyên sinh và thứ sinh.\nTừ khóa gợi ý: quần xã, phục hồi"
+  },
+  {
+    "id": "biology_environment__population_growth",
+    "category": "biology_environment",
+    "topic": "population_growth",
+    "title": "Tăng trưởng quần thể",
+    "keywords": [
+      "mật độ",
+      "sức chứa"
+    ],
+    "content": "Giải thích ngắn: Quần thể có thể tăng theo hàm mũ khi nguồn lực dồi dào hoặc logistic khi bị giới hạn.\nĐịnh nghĩa quan trọng: Sức chứa môi trường giới hạn quy mô dài hạn.\nTừ khóa gợi ý: mật độ, sức chứa"
+  },
+  {
+    "id": "biology_environment__biodiversity",
+    "category": "biology_environment",
+    "topic": "biodiversity",
+    "title": "Đa dạng sinh học",
+    "keywords": [
+      "gen",
+      "loài",
+      "hệ sinh thái"
+    ],
+    "content": "Giải thích ngắn: Đa dạng sinh học gồm mức độ gen, loài và hệ sinh thái.\nĐịnh nghĩa quan trọng: Đa dạng cao thường tăng khả năng ổn định hệ sinh thái.\nTừ khóa gợi ý: gen, loài, hệ sinh thái"
+  },
+  {
+    "id": "biology_environment__climate_change_ecology",
+    "category": "biology_environment",
+    "topic": "climate_change_ecology",
+    "title": "Biến đổi khí hậu và sinh thái",
+    "keywords": [
+      "nhiệt độ",
+      "môi trường"
+    ],
+    "content": "Giải thích ngắn: Biến đổi khí hậu làm thay đổi phân bố loài, chu kỳ sinh học và chất lượng môi trường sống.\nĐịnh nghĩa quan trọng: Nhiều hệ sinh thái nhạy cảm như san hô và vùng ven biển bị ảnh hưởng mạnh.\nTừ khóa gợi ý: nhiệt độ, môi trường"
+  },
+  {
+    "id": "biology_environment__nitrogen_cycle",
+    "category": "biology_environment",
+    "topic": "nitrogen_cycle",
+    "title": "Chu trình nitơ",
+    "keywords": [
+      "vi khuẩn",
+      "nông nghiệp"
+    ],
+    "content": "Giải thích ngắn: Nitơ lưu chuyển giữa khí quyển, đất, nước và sinh vật qua nhiều quá trình.\nĐịnh nghĩa quan trọng: Cố định nitơ, nitrat hóa và phản nitrat hóa là các bước quan trọng.\nTừ khóa gợi ý: vi khuẩn, nông nghiệp"
+  },
+  {
+    "id": "biology_environment__carbon_cycle",
+    "category": "biology_environment",
+    "topic": "carbon_cycle",
+    "title": "Chu trình carbon",
+    "keywords": [
+      "CO2",
+      "sinh quyển"
+    ],
+    "content": "Giải thích ngắn: Carbon trao đổi giữa khí quyển, đại dương, đất đá và sinh vật.\nĐịnh nghĩa quan trọng: Đốt nhiên liệu hóa thạch làm tăng CO2 khí quyển.\nTừ khóa gợi ý: CO2, sinh quyển"
+  },
+  {
+    "id": "biology_environment__water_cycle",
+    "category": "biology_environment",
+    "topic": "water_cycle",
+    "title": "Chu trình nước",
+    "keywords": [
+      "bốc hơi",
+      "mưa"
+    ],
+    "content": "Giải thích ngắn: Nước vận động liên tục qua bốc hơi, ngưng tụ, mưa và dòng chảy.\nĐịnh nghĩa quan trọng: Năng lượng mặt trời là động lực chính của chu trình nước.\nTừ khóa gợi ý: bốc hơi, mưa"
+  },
+  {
+    "id": "biology_environment__symbiosis",
+    "category": "biology_environment",
+    "topic": "symbiosis",
+    "title": "Quan hệ cộng sinh",
+    "keywords": [
+      "hỗ trợ",
+      "ký sinh"
+    ],
+    "content": "Giải thích ngắn: Quan hệ giữa các loài có thể là cộng sinh, hợp tác, hội sinh, ký sinh...\nĐịnh nghĩa quan trọng: Phân biệt dựa trên lợi ích hay thiệt hại của các bên.\nTừ khóa gợi ý: hỗ trợ, ký sinh"
+  },
+  {
+    "id": "biology_environment__human_digestion",
+    "category": "biology_environment",
+    "topic": "human_digestion",
+    "title": "Hệ tiêu hóa người",
+    "keywords": [
+      "enzym",
+      "hấp thu"
+    ],
+    "content": "Giải thích ngắn: Chức năng chính là tiêu hóa thức ăn và hấp thu chất dinh dưỡng.\nĐịnh nghĩa quan trọng: Ruột non là nơi hấp thu phần lớn dưỡng chất.\nTừ khóa gợi ý: enzym, hấp thu"
+  },
+  {
+    "id": "biology_environment__human_circulation",
+    "category": "biology_environment",
+    "topic": "human_circulation",
+    "title": "Hệ tuần hoàn người",
+    "keywords": [
+      "tim",
+      "máu"
+    ],
+    "content": "Giải thích ngắn: Vận chuyển oxy, chất dinh dưỡng, hormon và chất thải trong cơ thể.\nĐịnh nghĩa quan trọng: Máu lưu thông qua vòng tuần hoàn nhỏ và lớn.\nTừ khóa gợi ý: tim, máu"
+  },
+  {
+    "id": "biology_environment__human_respiration",
+    "category": "biology_environment",
+    "topic": "human_respiration",
+    "title": "Hệ hô hấp người",
+    "keywords": [
+      "phổi",
+      "trao đổi khí"
+    ],
+    "content": "Giải thích ngắn: Thực hiện trao đổi O2 và CO2 giữa cơ thể và môi trường.\nĐịnh nghĩa quan trọng: Phế nang là nơi trao đổi khí chủ yếu.\nTừ khóa gợi ý: phổi, trao đổi khí"
+  },
+  {
+    "id": "biology_environment__human_nervous_system",
+    "category": "biology_environment",
+    "topic": "human_nervous_system",
+    "title": "Hệ thần kinh",
+    "keywords": [
+      "não",
+      "neurone"
+    ],
+    "content": "Giải thích ngắn: Điều khiển và phối hợp hoạt động cơ thể thông qua xung thần kinh.\nĐịnh nghĩa quan trọng: Gồm thần kinh trung ương và ngoại biên.\nTừ khóa gợi ý: não, neurone"
+  },
+  {
+    "id": "biology_environment__human_endocrine",
+    "category": "biology_environment",
+    "topic": "human_endocrine",
+    "title": "Hệ nội tiết",
+    "keywords": [
+      "hormone"
+    ],
+    "content": "Giải thích ngắn: Điều hòa hoạt động cơ thể bằng các hormone do tuyến nội tiết tiết ra.\nĐịnh nghĩa quan trọng: Insulin, thyroxine, adrenaline là ví dụ quen thuộc.\nTừ khóa gợi ý: hormone"
+  },
+  {
+    "id": "biology_environment__homeostasis",
+    "category": "biology_environment",
+    "topic": "homeostasis",
+    "title": "Cân bằng nội môi",
+    "keywords": [
+      "điều hòa"
+    ],
+    "content": "Giải thích ngắn: Khả năng duy trì môi trường trong ổn định tương đối của cơ thể.\nĐịnh nghĩa quan trọng: Ví dụ điều hòa thân nhiệt, đường huyết, pH máu.\nTừ khóa gợi ý: điều hòa"
+  },
+  {
+    "id": "biology_environment__ecosystem_services",
+    "category": "biology_environment",
+    "topic": "ecosystem_services",
+    "title": "Dịch vụ hệ sinh thái",
+    "keywords": [
+      "thụ phấn",
+      "điều tiết"
+    ],
+    "content": "Giải thích ngắn: Hệ sinh thái mang lại lợi ích cung cấp, điều tiết, văn hóa và hỗ trợ cho con người.\nĐịnh nghĩa quan trọng: Rừng, đất ngập nước và biển cung cấp nhiều dịch vụ quan trọng.\nTừ khóa gợi ý: thụ phấn, điều tiết"
+  },
+  {
+    "id": "biology_environment__conservation",
+    "category": "biology_environment",
+    "topic": "conservation",
+    "title": "Bảo tồn thiên nhiên",
+    "keywords": [
+      "đa dạng sinh học",
+      "khu bảo tồn"
+    ],
+    "content": "Giải thích ngắn: Các biện pháp bảo vệ loài, sinh cảnh và nguồn gen trước suy thoái.\nĐịnh nghĩa quan trọng: Bảo tồn tại chỗ và chuyển chỗ là hai chiến lược lớn.\nTừ khóa gợi ý: đa dạng sinh học, khu bảo tồn"
+  },
+  {
+    "id": "law_safety__offer_acceptance",
+    "category": "law_safety",
+    "topic": "offer_acceptance",
+    "title": "Đề nghị và chấp nhận trong giao kết",
+    "keywords": [
+      "hợp đồng",
+      "đề nghị"
+    ],
+    "content": "Giải thích ngắn: Một giao kết hợp đồng thường cần đề nghị rõ ràng và sự chấp nhận phù hợp.\nĐịnh nghĩa quan trọng: Sửa đổi nội dung quan trọng có thể bị xem là đề nghị mới.\nTừ khóa gợi ý: hợp đồng, đề nghị"
+  },
+  {
+    "id": "law_safety__void_contract",
+    "category": "law_safety",
+    "topic": "void_contract",
+    "title": "Giao dịch vô hiệu",
+    "keywords": [
+      "vô hiệu",
+      "trái luật"
+    ],
+    "content": "Giải thích ngắn: Giao dịch có thể vô hiệu khi vi phạm điều cấm, giả tạo, bị lừa dối hoặc chủ thể không đủ năng lực theo trường hợp luật định.\nĐịnh nghĩa quan trọng: Hậu quả thường là khôi phục tình trạng ban đầu trong phạm vi có thể.\nTừ khóa gợi ý: vô hiệu, trái luật"
+  },
+  {
+    "id": "law_safety__representation_warranty",
+    "category": "law_safety",
+    "topic": "representation_warranty",
+    "title": "Cam đoan và bảo đảm",
+    "keywords": [
+      "giao dịch",
+      "trách nhiệm"
+    ],
+    "content": "Giải thích ngắn: Các cam đoan/bảo đảm phân bổ rủi ro thông tin giữa các bên.\nĐịnh nghĩa quan trọng: Vi phạm có thể kéo theo bồi thường hoặc quyền chấm dứt.\nTừ khóa gợi ý: giao dịch, trách nhiệm"
+  },
+  {
+    "id": "law_safety__breach_remedies",
+    "category": "law_safety",
+    "topic": "breach_remedies",
+    "title": "Biện pháp khi vi phạm hợp đồng",
+    "keywords": [
+      "bồi thường",
+      "phạt vi phạm"
+    ],
+    "content": "Giải thích ngắn: Biện pháp phổ biến gồm buộc thực hiện, bồi thường thiệt hại, phạt vi phạm, hủy bỏ/chấm dứt trong điều kiện luật định.\nĐịnh nghĩa quan trọng: Cần phân biệt bồi thường với phạt vi phạm.\nTừ khóa gợi ý: bồi thường, phạt vi phạm"
+  },
+  {
+    "id": "law_safety__force_majeure",
+    "category": "law_safety",
+    "topic": "force_majeure",
+    "title": "Bất khả kháng",
+    "keywords": [
+      "sự kiện khách quan"
+    ],
+    "content": "Giải thích ngắn: Sự kiện khách quan, không lường trước và không thể khắc phục có thể miễn/giảm trách nhiệm theo điều kiện áp dụng.\nĐịnh nghĩa quan trọng: Không phải mọi khó khăn kinh doanh đều là bất khả kháng.\nTừ khóa gợi ý: sự kiện khách quan"
+  },
+  {
+    "id": "law_safety__good_faith",
+    "category": "law_safety",
+    "topic": "good_faith",
+    "title": "Thiện chí và trung thực",
+    "keywords": [
+      "nguyên tắc"
+    ],
+    "content": "Giải thích ngắn: Nguyên tắc thiện chí, trung thực thường chi phối đàm phán và thực hiện nghĩa vụ.\nĐịnh nghĩa quan trọng: Giấu thông tin trọng yếu có thể tạo rủi ro pháp lý.\nTừ khóa gợi ý: nguyên tắc"
+  },
+  {
+    "id": "law_safety__civil_vs_criminal",
+    "category": "law_safety",
+    "topic": "civil_vs_criminal",
+    "title": "Dân sự và hình sự",
+    "keywords": [
+      "tranh chấp",
+      "tội phạm"
+    ],
+    "content": "Giải thích ngắn: Dân sự chủ yếu giải quyết quyền, nghĩa vụ và bồi thường; hình sự xử lý hành vi bị coi là tội phạm.\nĐịnh nghĩa quan trọng: Cùng một sự kiện có thể phát sinh nhiều loại trách nhiệm khác nhau.\nTừ khóa gợi ý: tranh chấp, tội phạm"
+  },
+  {
+    "id": "law_safety__administrative_sanctions",
+    "category": "law_safety",
+    "topic": "administrative_sanctions",
+    "title": "Xử phạt hành chính",
+    "keywords": [
+      "vi phạm",
+      "mức phạt"
+    ],
+    "content": "Giải thích ngắn: Cơ chế xử lý vi phạm pháp luật chưa đến mức truy cứu trách nhiệm hình sự.\nĐịnh nghĩa quan trọng: Thường gồm phạt tiền, buộc khắc phục hậu quả, tước quyền sử dụng giấy phép...\nTừ khóa gợi ý: vi phạm, mức phạt"
+  },
+  {
+    "id": "law_safety__intellectual_property",
+    "category": "law_safety",
+    "topic": "intellectual_property",
+    "title": "Sở hữu trí tuệ",
+    "keywords": [
+      "nhãn hiệu",
+      "sáng chế"
+    ],
+    "content": "Giải thích ngắn: Bao gồm quyền tác giả, nhãn hiệu, sáng chế, kiểu dáng, bí mật kinh doanh...\nĐịnh nghĩa quan trọng: Mỗi đối tượng có điều kiện xác lập và thời hạn bảo hộ khác nhau.\nTừ khóa gợi ý: nhãn hiệu, sáng chế"
+  },
+  {
+    "id": "law_safety__trademark_basics",
+    "category": "law_safety",
+    "topic": "trademark_basics",
+    "title": "Nhãn hiệu",
+    "keywords": [
+      "phân biệt hàng hóa"
+    ],
+    "content": "Giải thích ngắn: Dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các chủ thể khác nhau.\nĐịnh nghĩa quan trọng: Nhãn hiệu cần khả năng phân biệt và không thuộc dấu hiệu bị loại trừ.\nTừ khóa gợi ý: phân biệt hàng hóa"
+  },
+  {
+    "id": "law_safety__patent_basics",
+    "category": "law_safety",
+    "topic": "patent_basics",
+    "title": "Sáng chế",
+    "keywords": [
+      "mới",
+      "sáng tạo"
+    ],
+    "content": "Giải thích ngắn: Giải pháp kỹ thuật có thể được bảo hộ nếu đáp ứng tính mới, trình độ sáng tạo và khả năng áp dụng công nghiệp.\nĐịnh nghĩa quan trọng: Không phải mọi ý tưởng kỹ thuật đều được cấp bằng.\nTừ khóa gợi ý: mới, sáng tạo"
+  },
+  {
+    "id": "law_safety__trade_secret",
+    "category": "law_safety",
+    "topic": "trade_secret",
+    "title": "Bí mật kinh doanh",
+    "keywords": [
+      "thông tin mật"
+    ],
+    "content": "Giải thích ngắn: Thông tin có giá trị thương mại nhờ không phổ biến và được chủ sở hữu giữ bí mật hợp lý.\nĐịnh nghĩa quan trọng: Mất tính bí mật có thể làm mất lợi thế bảo hộ.\nTừ khóa gợi ý: thông tin mật"
+  },
+  {
+    "id": "law_safety__employment_obligations",
+    "category": "law_safety",
+    "topic": "employment_obligations",
+    "title": "Nghĩa vụ cơ bản trong quan hệ lao động",
+    "keywords": [
+      "lao động",
+      "tiền lương"
+    ],
+    "content": "Giải thích ngắn: Người sử dụng lao động phải trả lương, bảo đảm điều kiện làm việc; người lao động phải thực hiện công việc thỏa thuận.\nĐịnh nghĩa quan trọng: Thời giờ làm việc, nghỉ ngơi và bảo hiểm là mảng dễ bị hỏi.\nTừ khóa gợi ý: lao động, tiền lương"
+  },
+  {
+    "id": "law_safety__workplace_safety",
+    "category": "law_safety",
+    "topic": "workplace_safety",
+    "title": "An toàn lao động",
+    "keywords": [
+      "PPE",
+      "tai nạn"
+    ],
+    "content": "Giải thích ngắn: Doanh nghiệp có nghĩa vụ đánh giá rủi ro, huấn luyện và trang bị biện pháp an toàn phù hợp.\nĐịnh nghĩa quan trọng: Phòng ngừa luôn được ưu tiên hơn khắc phục.\nTừ khóa gợi ý: PPE, tai nạn"
+  },
+  {
+    "id": "law_safety__non_discrimination",
+    "category": "law_safety",
+    "topic": "non_discrimination",
+    "title": "Không phân biệt đối xử",
+    "keywords": [
+      "bình đẳng",
+      "lao động"
+    ],
+    "content": "Giải thích ngắn: Nguyên tắc bình đẳng áp dụng rộng trong tuyển dụng, sử dụng lao động và cung ứng dịch vụ.\nĐịnh nghĩa quan trọng: Phân biệt đối xử có thể phát sinh trách nhiệm dân sự/hành chính tùy trường hợp.\nTừ khóa gợi ý: bình đẳng, lao động"
+  },
+  {
+    "id": "law_safety__data_minimization",
+    "category": "law_safety",
+    "topic": "data_minimization",
+    "title": "Tối thiểu hóa dữ liệu",
+    "keywords": [
+      "privacy",
+      "compliance"
+    ],
+    "content": "Giải thích ngắn: Chỉ nên thu thập và xử lý dữ liệu cần thiết cho mục đích hợp pháp, rõ ràng.\nĐịnh nghĩa quan trọng: Thu thập quá mức là rủi ro tuân thủ phổ biến.\nTừ khóa gợi ý: privacy, compliance"
+  },
+  {
+    "id": "law_safety__data_subject_rights",
+    "category": "law_safety",
+    "topic": "data_subject_rights",
+    "title": "Quyền của chủ thể dữ liệu",
+    "keywords": [
+      "truy cập",
+      "xóa",
+      "sửa"
+    ],
+    "content": "Giải thích ngắn: Chủ thể dữ liệu thường có quyền biết, truy cập, chỉnh sửa, xóa hoặc hạn chế xử lý theo khuôn khổ áp dụng.\nĐịnh nghĩa quan trọng: Quyền cụ thể tùy hệ thống pháp luật nhưng xu hướng chung là tăng kiểm soát cá nhân.\nTừ khóa gợi ý: truy cập, xóa, sửa"
+  },
+  {
+    "id": "law_safety__cybersecurity_incident",
+    "category": "law_safety",
+    "topic": "cybersecurity_incident",
+    "title": "Sự cố an ninh mạng",
+    "keywords": [
+      "thông báo",
+      "ứng phó"
+    ],
+    "content": "Giải thích ngắn: Cần quy trình phát hiện, cô lập, khắc phục và thông báo phù hợp khi có sự cố.\nĐịnh nghĩa quan trọng: Nhật ký, bằng chứng và phân quyền là yếu tố quan trọng.\nTừ khóa gợi ý: thông báo, ứng phó"
+  },
+  {
+    "id": "law_safety__anti_money_laundering",
+    "category": "law_safety",
+    "topic": "anti_money_laundering",
+    "title": "Chống rửa tiền cơ bản",
+    "keywords": [
+      "KYC",
+      "giao dịch đáng ngờ"
+    ],
+    "content": "Giải thích ngắn: Nhận biết khách hàng và theo dõi giao dịch đáng ngờ là trụ cột cơ bản của AML.\nĐịnh nghĩa quan trọng: Tổ chức tài chính thường có nghĩa vụ báo cáo theo luật chuyên ngành.\nTừ khóa gợi ý: KYC, giao dịch đáng ngờ"
+  },
+  {
+    "id": "law_safety__fiduciary_duty",
+    "category": "law_safety",
+    "topic": "fiduciary_duty",
+    "title": "Nghĩa vụ ủy thác / cẩn trọng",
+    "keywords": [
+      "quản trị",
+      "xung đột lợi ích"
+    ],
+    "content": "Giải thích ngắn: Người quản lý phải hành động cẩn trọng, trung thực, vì lợi ích hợp pháp của tổ chức và tránh trục lợi.\nĐịnh nghĩa quan trọng: Xung đột lợi ích cần được khai báo và xử lý.\nTừ khóa gợi ý: quản trị, xung đột lợi ích"
+  },
+  {
+    "id": "law_safety__board_governance",
+    "category": "law_safety",
+    "topic": "board_governance",
+    "title": "Quản trị hội đồng",
+    "keywords": [
+      "nghị quyết",
+      "ủy quyền"
+    ],
+    "content": "Giải thích ngắn: Quy trình ra quyết định cần đúng thẩm quyền, trình tự và minh bạch.\nĐịnh nghĩa quan trọng: Biên bản, biểu quyết và xung đột lợi ích là điểm kiểm soát chính.\nTừ khóa gợi ý: nghị quyết, ủy quyền"
+  },
+  {
+    "id": "law_safety__procurement_integrity",
+    "category": "law_safety",
+    "topic": "procurement_integrity",
+    "title": "Liêm chính trong mua sắm",
+    "keywords": [
+      "đấu thầu",
+      "quà tặng"
+    ],
+    "content": "Giải thích ngắn: Mua sắm cần công bằng, minh bạch, tránh thông đồng và hối lộ.\nĐịnh nghĩa quan trọng: Quà tặng/hospitality có thể tạo rủi ro liêm chính nếu vượt ngưỡng cho phép.\nTừ khóa gợi ý: đấu thầu, quà tặng"
+  },
+  {
+    "id": "law_safety__competition_law",
+    "category": "law_safety",
+    "topic": "competition_law",
+    "title": "Cạnh tranh và lạm dụng vị trí",
+    "keywords": [
+      "thỏa thuận hạn chế cạnh tranh"
+    ],
+    "content": "Giải thích ngắn: Thỏa thuận ấn định giá, phân chia thị trường hoặc lạm dụng vị trí thống lĩnh có thể bị cấm.\nĐịnh nghĩa quan trọng: Phân tích thường xoay quanh thị trường liên quan và sức mạnh thị trường.\nTừ khóa gợi ý: thỏa thuận hạn chế cạnh tranh"
+  },
+  {
+    "id": "law_safety__consumer_disclosure",
+    "category": "law_safety",
+    "topic": "consumer_disclosure",
+    "title": "Nghĩa vụ công bố thông tin với người tiêu dùng",
+    "keywords": [
+      "minh bạch",
+      "quảng cáo"
+    ],
+    "content": "Giải thích ngắn: Thông tin về công dụng, giá, điều kiện giao dịch cần rõ ràng, không gây hiểu lầm.\nĐịnh nghĩa quan trọng: Quảng cáo sai sự thật là nguồn rủi ro lớn.\nTừ khóa gợi ý: minh bạch, quảng cáo"
+  },
+  {
+    "id": "law_safety__product_liability",
+    "category": "law_safety",
+    "topic": "product_liability",
+    "title": "Trách nhiệm sản phẩm",
+    "keywords": [
+      "khuyết tật",
+      "an toàn"
+    ],
+    "content": "Giải thích ngắn: Nhà sản xuất/phân phối có thể chịu trách nhiệm khi sản phẩm có khuyết tật gây thiệt hại.\nĐịnh nghĩa quan trọng: Nghĩa vụ cảnh báo và thu hồi có thể phát sinh.\nTừ khóa gợi ý: khuyết tật, an toàn"
+  },
+  {
+    "id": "law_safety__environmental_compliance",
+    "category": "law_safety",
+    "topic": "environmental_compliance",
+    "title": "Tuân thủ môi trường",
+    "keywords": [
+      "xả thải",
+      "giấy phép"
+    ],
+    "content": "Giải thích ngắn: Hoạt động sản xuất cần tuân thủ yêu cầu về đánh giá tác động, quản lý chất thải và phát thải.\nĐịnh nghĩa quan trọng: Vi phạm có thể kéo theo xử phạt, đình chỉ hoặc bồi thường.\nTừ khóa gợi ý: xả thải, giấy phép"
+  },
+  {
+    "id": "law_safety__record_retention",
+    "category": "law_safety",
+    "topic": "record_retention",
+    "title": "Lưu giữ hồ sơ",
+    "keywords": [
+      "hồ sơ",
+      "kiểm toán"
+    ],
+    "content": "Giải thích ngắn: Tổ chức cần lưu giữ hồ sơ theo thời hạn và hình thức phù hợp để phục vụ kiểm toán, tranh chấp và tuân thủ.\nĐịnh nghĩa quan trọng: Xóa quá sớm hoặc giữ thiếu kiểm soát đều có rủi ro.\nTừ khóa gợi ý: hồ sơ, kiểm toán"
+  },
+  {
+    "id": "law_safety__whistleblowing",
+    "category": "law_safety",
+    "topic": "whistleblowing",
+    "title": "Tố giác nội bộ",
+    "keywords": [
+      "whistleblowing",
+      "bảo vệ người tố giác"
+    ],
+    "content": "Giải thích ngắn: Cơ chế báo cáo nội bộ giúp phát hiện vi phạm sớm và cần bảo vệ người báo cáo thiện chí.\nĐịnh nghĩa quan trọng: Ẩn danh, không trả đũa và điều tra độc lập là nguyên tắc tốt.\nTừ khóa gợi ý: whistleblowing, bảo vệ người tố giác"
+  },
+  {
+    "id": "law_safety__sanctions_screening",
+    "category": "law_safety",
+    "topic": "sanctions_screening",
+    "title": "Sàng lọc cấm vận",
+    "keywords": [
+      "sanctions",
+      "compliance"
+    ],
+    "content": "Giải thích ngắn: Doanh nghiệp xuyên biên giới thường cần sàng lọc đối tác, hàng hóa và giao dịch với danh sách hạn chế.\nĐịnh nghĩa quan trọng: Vi phạm có thể dẫn tới hậu quả pháp lý và tài chính rất lớn.\nTừ khóa gợi ý: sanctions, compliance"
+  },
+  {
+    "id": "law_safety__export_controls",
+    "category": "law_safety",
+    "topic": "export_controls",
+    "title": "Kiểm soát xuất khẩu",
+    "keywords": [
+      "dual-use",
+      "giấy phép"
+    ],
+    "content": "Giải thích ngắn: Một số hàng hóa, công nghệ hoặc dữ liệu cần giấy phép trước khi xuất khẩu/chuyển giao.\nĐịnh nghĩa quan trọng: Đặc biệt quan trọng với hàng lưỡng dụng và công nghệ nhạy cảm.\nTừ khóa gợi ý: dual-use, giấy phép"
+  },
+  {
+    "id": "general_knowledge__logic_deduction",
+    "category": "general_knowledge",
+    "topic": "logic_deduction",
+    "title": "Suy luận diễn dịch",
+    "keywords": [
+      "logic",
+      "mệnh đề"
+    ],
+    "content": "Giải thích ngắn: Nếu tiền đề đúng và lập luận hợp lệ thì kết luận phải đúng.\nĐịnh nghĩa quan trọng: Phân biệt diễn dịch với quy nạp.\nTừ khóa gợi ý: logic, mệnh đề"
+  },
+  {
+    "id": "general_knowledge__logic_induction",
+    "category": "general_knowledge",
+    "topic": "logic_induction",
+    "title": "Suy luận quy nạp",
+    "keywords": [
+      "mẫu quan sát"
+    ],
+    "content": "Giải thích ngắn: Từ các quan sát cụ thể suy ra kết luận tổng quát có tính xác suất.\nĐịnh nghĩa quan trọng: Kết luận quy nạp có thể mạnh hoặc yếu tùy bằng chứng.\nTừ khóa gợi ý: mẫu quan sát"
+  },
+  {
+    "id": "general_knowledge__correlation_causation",
+    "category": "general_knowledge",
+    "topic": "correlation_causation",
+    "title": "Tương quan và nhân quả",
+    "keywords": [
+      "thống kê",
+      "nguyên nhân"
+    ],
+    "content": "Giải thích ngắn: Tương quan không tự động hàm ý quan hệ nhân quả.\nĐịnh nghĩa quan trọng: Có thể tồn tại biến nhiễu hoặc quan hệ đảo chiều.\nTừ khóa gợi ý: thống kê, nguyên nhân"
+  },
+  {
+    "id": "general_knowledge__median_vs_mean",
+    "category": "general_knowledge",
+    "topic": "median_vs_mean",
+    "title": "Trung vị so với trung bình",
+    "keywords": [
+      "outlier"
+    ],
+    "content": "Giải thích ngắn: Trung vị thường bền vững hơn trước ngoại lệ, còn trung bình dùng toàn bộ dữ liệu.\nĐịnh nghĩa quan trọng: Dữ liệu lệch mạnh thường làm trung vị hữu ích hơn.\nTừ khóa gợi ý: outlier"
+  },
+  {
+    "id": "general_knowledge__sampling_bias",
+    "category": "general_knowledge",
+    "topic": "sampling_bias",
+    "title": "Sai lệch chọn mẫu",
+    "keywords": [
+      "khảo sát",
+      "mẫu"
+    ],
+    "content": "Giải thích ngắn: Mẫu không đại diện dẫn đến kết luận sai lệch về tổng thể.\nĐịnh nghĩa quan trọng: Lấy mẫu ngẫu nhiên và đủ lớn giúp giảm sai lệch.\nTừ khóa gợi ý: khảo sát, mẫu"
+  },
+  {
+    "id": "general_knowledge__confidence_interval",
+    "category": "general_knowledge",
+    "topic": "confidence_interval",
+    "title": "Khoảng tin cậy",
+    "keywords": [
+      "ước lượng"
+    ],
+    "content": "Giải thích ngắn: Khoảng giá trị hợp lý cho tham số tổng thể dựa trên mẫu.\nĐịnh nghĩa quan trọng: Độ rộng phụ thuộc phương sai, cỡ mẫu và mức tin cậy.\nTừ khóa gợi ý: ước lượng"
+  },
+  {
+    "id": "general_knowledge__base_rate",
+    "category": "general_knowledge",
+    "topic": "base_rate",
+    "title": "Tỷ lệ nền",
+    "keywords": [
+      "xác suất Bayes"
+    ],
+    "content": "Giải thích ngắn: Bỏ qua tỷ lệ nền dễ dẫn tới đánh giá sai xác suất thực tế.\nĐịnh nghĩa quan trọng: Rất quan trọng trong bài toán xét nghiệm và phân loại.\nTừ khóa gợi ý: xác suất Bayes"
+  },
+  {
+    "id": "general_knowledge__bayes_rule",
+    "category": "general_knowledge",
+    "topic": "bayes_rule",
+    "title": "Định lý Bayes",
+    "keywords": [
+      "xác suất có điều kiện"
+    ],
+    "content": "Giải thích ngắn: Cập nhật niềm tin khi có bằng chứng mới.\nCông thức: P(A|B)=P(B|A)P(A)/P(B)\nĐịnh nghĩa quan trọng: Kết hợp tỷ lệ nền với độ nhạy/độ đặc hiệu.\nTừ khóa gợi ý: xác suất có điều kiện"
+  },
+  {
+    "id": "general_knowledge__false_positive_negative",
+    "category": "general_knowledge",
+    "topic": "false_positive_negative",
+    "title": "Dương tính giả và âm tính giả",
+    "keywords": [
+      "độ nhạy",
+      "độ đặc hiệu"
+    ],
+    "content": "Giải thích ngắn: Một xét nghiệm hoặc mô hình phân loại có thể sai theo hai hướng.\nĐịnh nghĩa quan trọng: Đánh đổi giữa hai loại sai tùy ngưỡng quyết định.\nTừ khóa gợi ý: độ nhạy, độ đặc hiệu"
+  },
+  {
+    "id": "general_knowledge__normal_distribution",
+    "category": "general_knowledge",
+    "topic": "normal_distribution",
+    "title": "Phân phối chuẩn",
+    "keywords": [
+      "bell curve"
+    ],
+    "content": "Giải thích ngắn: Phân phối đối xứng hình chuông với nhiều tính chất quan trọng trong thống kê.\nĐịnh nghĩa quan trọng: Khoảng 68-95-99.7% nằm trong 1-2-3 độ lệch chuẩn.\nTừ khóa gợi ý: bell curve"
+  },
+  {
+    "id": "general_knowledge__central_limit",
+    "category": "general_knowledge",
+    "topic": "central_limit",
+    "title": "Định lý giới hạn trung tâm",
+    "keywords": [
+      "mẫu lớn"
+    ],
+    "content": "Giải thích ngắn: Trung bình mẫu có xu hướng gần chuẩn khi cỡ mẫu đủ lớn.\nĐịnh nghĩa quan trọng: Là nền tảng của nhiều xấp xỉ thống kê.\nTừ khóa gợi ý: mẫu lớn"
+  },
+  {
+    "id": "general_knowledge__precision_recall",
+    "category": "general_knowledge",
+    "topic": "precision_recall",
+    "title": "Precision và Recall",
+    "keywords": [
+      "machine learning",
+      "phân loại"
+    ],
+    "content": "Giải thích ngắn: Precision đo độ chính xác của dự báo dương; recall đo mức bao phủ các trường hợp dương thật.\nĐịnh nghĩa quan trọng: F1 cân bằng tương đối giữa precision và recall.\nTừ khóa gợi ý: machine learning, phân loại"
+  },
+  {
+    "id": "general_knowledge__f1_score",
+    "category": "general_knowledge",
+    "topic": "f1_score",
+    "title": "F1-score",
+    "keywords": [
+      "precision",
+      "recall"
+    ],
+    "content": "Giải thích ngắn: Trung bình điều hòa của precision và recall.\nCông thức: F1 = 2PR/(P+R)\nĐịnh nghĩa quan trọng: Hữu ích khi lớp dữ liệu mất cân bằng.\nTừ khóa gợi ý: precision, recall"
+  },
+  {
+    "id": "general_knowledge__overfitting",
+    "category": "general_knowledge",
+    "topic": "overfitting",
+    "title": "Quá khớp",
+    "keywords": [
+      "machine learning"
+    ],
+    "content": "Giải thích ngắn: Mô hình học quá sát dữ liệu huấn luyện nên tổng quát hóa kém.\nĐịnh nghĩa quan trọng: Regularization, validation và thêm dữ liệu giúp giảm overfitting.\nTừ khóa gợi ý: machine learning"
+  },
+  {
+    "id": "general_knowledge__underfitting",
+    "category": "general_knowledge",
+    "topic": "underfitting",
+    "title": "Thiếu khớp",
+    "keywords": [
+      "bias"
+    ],
+    "content": "Giải thích ngắn: Mô hình quá đơn giản nên không nắm được quy luật chính của dữ liệu.\nĐịnh nghĩa quan trọng: Biểu hiện bởi lỗi cao trên cả train và test.\nTừ khóa gợi ý: bias"
+  },
+  {
+    "id": "general_knowledge__train_validation_test",
+    "category": "general_knowledge",
+    "topic": "train_validation_test",
+    "title": "Tách train/validation/test",
+    "keywords": [
+      "đánh giá mô hình"
+    ],
+    "content": "Giải thích ngắn: Ba tập dữ liệu phục vụ huấn luyện, chọn siêu tham số và đánh giá cuối cùng.\nĐịnh nghĩa quan trọng: Không dùng test set để tuning.\nTừ khóa gợi ý: đánh giá mô hình"
+  },
+  {
+    "id": "general_knowledge__binary_hex",
+    "category": "general_knowledge",
+    "topic": "binary_hex",
+    "title": "Nhị phân và thập lục phân",
+    "keywords": [
+      "cơ số"
+    ],
+    "content": "Giải thích ngắn: Hex thuận tiện để biểu diễn nhóm 4 bit nhị phân.\nĐịnh nghĩa quan trọng: A-F tương ứng 10-15 trong hệ 16.\nTừ khóa gợi ý: cơ số"
+  },
+  {
+    "id": "general_knowledge__ascii_unicode",
+    "category": "general_knowledge",
+    "topic": "ascii_unicode",
+    "title": "ASCII và Unicode",
+    "keywords": [
+      "mã hóa ký tự"
+    ],
+    "content": "Giải thích ngắn: ASCII chỉ bao phủ tập ký tự nhỏ; Unicode bao phủ đa ngôn ngữ rộng hơn.\nĐịnh nghĩa quan trọng: UTF-8 là cách mã hóa Unicode rất phổ biến.\nTừ khóa gợi ý: mã hóa ký tự"
+  },
+  {
+    "id": "general_knowledge__http_methods",
+    "category": "general_knowledge",
+    "topic": "http_methods",
+    "title": "Các phương thức HTTP cơ bản",
+    "keywords": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "content": "Giải thích ngắn: Mỗi phương thức biểu thị ý nghĩa thao tác khác nhau với tài nguyên web.\nĐịnh nghĩa quan trọng: GET thường an toàn/idempotent hơn POST.\nTừ khóa gợi ý: GET, POST, PUT, DELETE"
+  },
+  {
+    "id": "general_knowledge__cache_definition",
+    "category": "general_knowledge",
+    "topic": "cache_definition",
+    "title": "Cache",
+    "keywords": [
+      "bộ nhớ đệm"
+    ],
+    "content": "Giải thích ngắn: Cache lưu tạm dữ liệu truy cập thường xuyên để giảm độ trễ.\nĐịnh nghĩa quan trọng: Có nhiều tầng cache: CPU, ứng dụng, CDN, trình duyệt.\nTừ khóa gợi ý: bộ nhớ đệm"
+  },
+  {
+    "id": "general_knowledge__latency_vs_throughput",
+    "category": "general_knowledge",
+    "topic": "latency_vs_throughput",
+    "title": "Latency và Throughput",
+    "keywords": [
+      "hiệu năng"
+    ],
+    "content": "Giải thích ngắn: Latency là độ trễ cho một yêu cầu; throughput là số lượng xử lý theo đơn vị thời gian.\nĐịnh nghĩa quan trọng: Tối ưu một chỉ số không luôn tối ưu chỉ số còn lại.\nTừ khóa gợi ý: hiệu năng"
+  },
+  {
+    "id": "general_knowledge__encryption_hashing",
+    "category": "general_knowledge",
+    "topic": "encryption_hashing",
+    "title": "Mã hóa và băm",
+    "keywords": [
+      "crypto"
+    ],
+    "content": "Giải thích ngắn: Mã hóa có thể giải ngược bằng khóa; băm nhằm tạo dấu vân tay một chiều.\nĐịnh nghĩa quan trọng: Không dùng hash thay cho encryption khi cần khôi phục dữ liệu.\nTừ khóa gợi ý: crypto"
+  },
+  {
+    "id": "general_knowledge__auth_vs_authz",
+    "category": "general_knowledge",
+    "topic": "auth_vs_authz",
+    "title": "Authentication và Authorization",
+    "keywords": [
+      "xác thực",
+      "phân quyền"
+    ],
+    "content": "Giải thích ngắn: Authentication trả lời bạn là ai, authorization trả lời bạn được làm gì.\nĐịnh nghĩa quan trọng: Hai bước này khác nhau nhưng thường đi cùng nhau.\nTừ khóa gợi ý: xác thực, phân quyền"
+  },
+  {
+    "id": "general_knowledge__sql_injection",
+    "category": "general_knowledge",
+    "topic": "sql_injection",
+    "title": "SQL Injection",
+    "keywords": [
+      "bảo mật ứng dụng"
+    ],
+    "content": "Giải thích ngắn: Khai thác việc ghép chuỗi truy vấn không an toàn để thao túng cơ sở dữ liệu.\nĐịnh nghĩa quan trọng: Prepared statements là biện pháp phòng vệ chuẩn.\nTừ khóa gợi ý: bảo mật ứng dụng"
+  },
+  {
+    "id": "general_knowledge__xss",
+    "category": "general_knowledge",
+    "topic": "xss",
+    "title": "Cross-Site Scripting",
+    "keywords": [
+      "XSS",
+      "browser"
+    ],
+    "content": "Giải thích ngắn: Chèn script độc hại vào nội dung được trình duyệt người dùng thực thi.\nĐịnh nghĩa quan trọng: Escape output và CSP giúp giảm rủi ro.\nTừ khóa gợi ý: XSS, browser"
+  },
+  {
+    "id": "general_knowledge__phishing",
+    "category": "general_knowledge",
+    "topic": "phishing",
+    "title": "Phishing",
+    "keywords": [
+      "lừa đảo"
+    ],
+    "content": "Giải thích ngắn: Kỹ thuật lừa người dùng tiết lộ thông tin nhạy cảm bằng cách giả mạo nguồn tin cậy.\nĐịnh nghĩa quan trọng: Cảnh giác URL, tệp đính kèm và yêu cầu khẩn cấp bất thường.\nTừ khóa gợi ý: lừa đảo"
+  },
+  {
+    "id": "general_knowledge__root_cause",
+    "category": "general_knowledge",
+    "topic": "root_cause",
+    "title": "Nguyên nhân gốc",
+    "keywords": [
+      "RCA"
+    ],
+    "content": "Giải thích ngắn: Giải pháp bền vững cần xử lý nguyên nhân gốc thay vì chỉ triệu chứng.\nĐịnh nghĩa quan trọng: 5 Whys và fishbone là các kỹ thuật hay dùng.\nTừ khóa gợi ý: RCA"
+  },
+  {
+    "id": "general_knowledge__project_scope",
+    "category": "general_knowledge",
+    "topic": "project_scope",
+    "title": "Phạm vi dự án",
+    "keywords": [
+      "scope"
+    ],
+    "content": "Giải thích ngắn: Xác định rõ phạm vi giúp giảm trượt mục tiêu và overrun.\nĐịnh nghĩa quan trọng: Scope creep là việc mở rộng phạm vi không kiểm soát.\nTừ khóa gợi ý: scope"
+  },
+  {
+    "id": "general_knowledge__stakeholder",
+    "category": "general_knowledge",
+    "topic": "stakeholder",
+    "title": "Stakeholder",
+    "keywords": [
+      "bên liên quan"
+    ],
+    "content": "Giải thích ngắn: Bên liên quan là cá nhân/tổ chức có lợi ích hoặc ảnh hưởng đến dự án/quyết định.\nĐịnh nghĩa quan trọng: Nhận diện stakeholder giúp truyền thông và ưu tiên tốt hơn.\nTừ khóa gợi ý: bên liên quan"
+  },
+  {
+    "id": "general_knowledge__risk_matrix",
+    "category": "general_knowledge",
+    "topic": "risk_matrix",
+    "title": "Ma trận rủi ro",
+    "keywords": [
+      "impact",
+      "likelihood"
+    ],
+    "content": "Giải thích ngắn: Rủi ro thường được đánh giá theo xác suất và mức độ ảnh hưởng.\nĐịnh nghĩa quan trọng: Ưu tiên xử lý rủi ro xác suất cao và tác động lớn.\nTừ khóa gợi ý: impact, likelihood"
+  },
+  {
+    "id": "economics_finance__balance_sheet",
+    "category": "economics_finance",
+    "topic": "balance_sheet",
+    "title": "Bảng cân đối kế toán",
+    "keywords": [
+      "tài sản",
+      "nợ phải trả"
+    ],
+    "content": "Giải thích ngắn: Cho biết tình hình tài chính tại một thời điểm.\nCông thức: Tài sản = Nợ phải trả + Vốn chủ sở hữu\nĐịnh nghĩa quan trọng: Khác với báo cáo kết quả kinh doanh là theo kỳ.\nTừ khóa gợi ý: tài sản, nợ phải trả"
+  },
+  {
+    "id": "economics_finance__income_statement",
+    "category": "economics_finance",
+    "topic": "income_statement",
+    "title": "Báo cáo kết quả kinh doanh",
+    "keywords": [
+      "doanh thu",
+      "chi phí"
+    ],
+    "content": "Giải thích ngắn: Phản ánh hiệu quả hoạt động trong một kỳ.\nĐịnh nghĩa quan trọng: Lợi nhuận ròng = doanh thu - chi phí sau thuế và các khoản liên quan.\nTừ khóa gợi ý: doanh thu, chi phí"
+  },
+  {
+    "id": "economics_finance__cash_flow",
+    "category": "economics_finance",
+    "topic": "cash_flow",
+    "title": "Báo cáo lưu chuyển tiền tệ",
+    "keywords": [
+      "operating",
+      "investing",
+      "financing"
+    ],
+    "content": "Giải thích ngắn: Theo dõi dòng tiền vào ra theo hoạt động kinh doanh, đầu tư, tài trợ.\nĐịnh nghĩa quan trọng: Lợi nhuận và dòng tiền không phải lúc nào cũng trùng nhau.\nTừ khóa gợi ý: operating, investing, financing"
+  },
+  {
+    "id": "economics_finance__current_ratio",
+    "category": "economics_finance",
+    "topic": "current_ratio",
+    "title": "Current Ratio",
+    "keywords": [
+      "thanh khoản"
+    ],
+    "content": "Giải thích ngắn: Khả năng thanh toán ngắn hạn bằng tài sản ngắn hạn.\nCông thức: Current ratio = Current assets / Current liabilities\nĐịnh nghĩa quan trọng: Chỉ số quá thấp làm tăng rủi ro thanh khoản.\nTừ khóa gợi ý: thanh khoản"
+  },
+  {
+    "id": "economics_finance__quick_ratio",
+    "category": "economics_finance",
+    "topic": "quick_ratio",
+    "title": "Quick Ratio",
+    "keywords": [
+      "acid test"
+    ],
+    "content": "Giải thích ngắn: Chỉ số thanh khoản chặt hơn vì loại hàng tồn kho.\nCông thức: Quick ratio = (Current assets - Inventory) / Current liabilities\nTừ khóa gợi ý: acid test"
+  },
+  {
+    "id": "economics_finance__debt_to_equity",
+    "category": "economics_finance",
+    "topic": "debt_to_equity",
+    "title": "Debt-to-Equity",
+    "keywords": [
+      "đòn bẩy"
+    ],
+    "content": "Giải thích ngắn: Mức độ sử dụng nợ so với vốn chủ sở hữu.\nCông thức: D/E = Total debt / Equity\nĐịnh nghĩa quan trọng: Đòn bẩy cao làm tăng rủi ro tài chính.\nTừ khóa gợi ý: đòn bẩy"
+  },
+  {
+    "id": "economics_finance__gross_margin",
+    "category": "economics_finance",
+    "topic": "gross_margin",
+    "title": "Biên lợi nhuận gộp",
+    "keywords": [
+      "gross profit"
+    ],
+    "content": "Giải thích ngắn: Cho biết phần doanh thu còn lại sau giá vốn.\nCông thức: Gross margin = Gross profit / Revenue\nTừ khóa gợi ý: gross profit"
+  },
+  {
+    "id": "economics_finance__net_margin",
+    "category": "economics_finance",
+    "topic": "net_margin",
+    "title": "Biên lợi nhuận ròng",
+    "keywords": [
+      "net profit"
+    ],
+    "content": "Giải thích ngắn: Tỷ lệ lợi nhuận ròng trên doanh thu.\nCông thức: Net margin = Net income / Revenue\nTừ khóa gợi ý: net profit"
+  },
+  {
+    "id": "economics_finance__inventory_turnover",
+    "category": "economics_finance",
+    "topic": "inventory_turnover",
+    "title": "Vòng quay hàng tồn kho",
+    "keywords": [
+      "inventory"
+    ],
+    "content": "Giải thích ngắn: Đo tốc độ bán và thay thế hàng tồn kho.\nCông thức: Inventory turnover = COGS / Average inventory\nTừ khóa gợi ý: inventory"
+  },
+  {
+    "id": "economics_finance__dscr",
+    "category": "economics_finance",
+    "topic": "dscr",
+    "title": "Debt Service Coverage Ratio",
+    "keywords": [
+      "dòng tiền",
+      "nợ"
+    ],
+    "content": "Giải thích ngắn: Khả năng trang trải nghĩa vụ nợ bằng dòng tiền hoạt động.\nCông thức: DSCR = Operating income / Debt service\nTừ khóa gợi ý: dòng tiền, nợ"
+  },
+  {
+    "id": "economics_finance__foreign_exchange",
+    "category": "economics_finance",
+    "topic": "foreign_exchange",
+    "title": "Tỷ giá hối đoái",
+    "keywords": [
+      "forex"
+    ],
+    "content": "Giải thích ngắn: Giá của một đồng tiền biểu thị bằng đồng tiền khác.\nĐịnh nghĩa quan trọng: Tỷ giá ảnh hưởng thương mại, lạm phát và dòng vốn.\nTừ khóa gợi ý: forex"
+  },
+  {
+    "id": "economics_finance__purchasing_power_parity",
+    "category": "economics_finance",
+    "topic": "purchasing_power_parity",
+    "title": "Ngang giá sức mua",
+    "keywords": [
+      "PPP"
+    ],
+    "content": "Giải thích ngắn: Trong dài hạn tỷ giá có xu hướng phản ánh sức mua tương đối giữa hai nền kinh tế.\nĐịnh nghĩa quan trọng: Dùng trong so sánh quốc tế mức sống/GDP.\nTừ khóa gợi ý: PPP"
+  },
+  {
+    "id": "economics_finance__fisher_equation",
+    "category": "economics_finance",
+    "topic": "fisher_equation",
+    "title": "Phương trình Fisher",
+    "keywords": [
+      "lãi suất thực"
+    ],
+    "content": "Giải thích ngắn: Liên hệ lãi suất danh nghĩa, lãi suất thực và lạm phát kỳ vọng.\nCông thức: i ≈ r + π^e\nTừ khóa gợi ý: lãi suất thực"
+  },
+  {
+    "id": "economics_finance__yield_curve",
+    "category": "economics_finance",
+    "topic": "yield_curve",
+    "title": "Đường cong lợi suất",
+    "keywords": [
+      "trái phiếu"
+    ],
+    "content": "Giải thích ngắn: Quan hệ giữa lợi suất và kỳ hạn của công cụ nợ cùng rủi ro.\nĐịnh nghĩa quan trọng: Đường cong đảo ngược đôi khi được xem là tín hiệu suy thoái.\nTừ khóa gợi ý: trái phiếu"
+  },
+  {
+    "id": "economics_finance__dividend_discount",
+    "category": "economics_finance",
+    "topic": "dividend_discount",
+    "title": "Mô hình chiết khấu cổ tức",
+    "keywords": [
+      "DDM"
+    ],
+    "content": "Giải thích ngắn: Định giá cổ phiếu bằng giá trị hiện tại của cổ tức tương lai.\nCông thức: P0 = D1/(r-g)\nĐịnh nghĩa quan trọng: Áp dụng phù hợp hơn với doanh nghiệp trả cổ tức ổn định.\nTừ khóa gợi ý: DDM"
+  },
+  {
+    "id": "economics_finance__breakeven",
+    "category": "economics_finance",
+    "topic": "breakeven",
+    "title": "Điểm hòa vốn",
+    "keywords": [
+      "cost-volume-profit"
+    ],
+    "content": "Giải thích ngắn: Mức sản lượng/doanh thu tại đó tổng doanh thu bằng tổng chi phí.\nCông thức: Q_BE = Fixed cost / (Price - Variable cost/unit)\nTừ khóa gợi ý: cost-volume-profit"
+  },
+  {
+    "id": "economics_finance__marginal_cost",
+    "category": "economics_finance",
+    "topic": "marginal_cost",
+    "title": "Chi phí cận biên",
+    "keywords": [
+      "MC"
+    ],
+    "content": "Giải thích ngắn: Chi phí tăng thêm khi sản xuất thêm một đơn vị sản lượng.\nĐịnh nghĩa quan trọng: MC thường quan trọng trong quyết định tối ưu ngắn hạn.\nTừ khóa gợi ý: MC"
+  },
+  {
+    "id": "economics_finance__average_total_cost",
+    "category": "economics_finance",
+    "topic": "average_total_cost",
+    "title": "Chi phí bình quân toàn phần",
+    "keywords": [
+      "ATC"
+    ],
+    "content": "Giải thích ngắn: Tổng chi phí chia cho sản lượng.\nCông thức: ATC = TC / Q\nTừ khóa gợi ý: ATC"
+  },
+  {
+    "id": "economics_finance__producer_consumer_surplus",
+    "category": "economics_finance",
+    "topic": "producer_consumer_surplus",
+    "title": "Thặng dư tiêu dùng và thặng dư sản xuất",
+    "keywords": [
+      "welfare"
+    ],
+    "content": "Giải thích ngắn: Đo lợi ích của người mua và người bán trên thị trường.\nĐịnh nghĩa quan trọng: Biến động giá và chính sách thuế ảnh hưởng hai đại lượng này.\nTừ khóa gợi ý: welfare"
+  },
+  {
+    "id": "economics_finance__tax_incidence",
+    "category": "economics_finance",
+    "topic": "tax_incidence",
+    "title": "Gánh nặng thuế",
+    "keywords": [
+      "co giãn"
+    ],
+    "content": "Giải thích ngắn: Người chịu gánh nặng thuế nhiều hơn thường là phía kém co giãn hơn.\nĐịnh nghĩa quan trọng: Không nhất thiết rơi vào bên có nghĩa vụ nộp thuế danh nghĩa.\nTừ khóa gợi ý: co giãn"
+  },
+  {
+    "id": "computer_science__heap_priority_queue",
+    "category": "computer_science",
+    "topic": "heap_priority_queue",
+    "title": "Heap và priority queue",
+    "keywords": [
+      "heap",
+      "ưu tiên"
+    ],
+    "content": "Giải thích ngắn: Heap hỗ trợ lấy phần tử ưu tiên cao/thấp nhất hiệu quả.\nĐịnh nghĩa quan trọng: Min-heap và max-heap có tính chất cây gần hoàn chỉnh.\nTừ khóa gợi ý: heap, ưu tiên"
+  },
+  {
+    "id": "computer_science__union_find",
+    "category": "computer_science",
+    "topic": "union_find",
+    "title": "Union-Find",
+    "keywords": [
+      "disjoint set"
+    ],
+    "content": "Giải thích ngắn: Cấu trúc dữ liệu quản lý các tập rời nhau và hỗ trợ hợp nhất/tìm đại diện.\nĐịnh nghĩa quan trọng: Hay dùng trong Kruskal và bài toán kết nối.\nTừ khóa gợi ý: disjoint set"
+  },
+  {
+    "id": "computer_science__topological_sort",
+    "category": "computer_science",
+    "topic": "topological_sort",
+    "title": "Sắp xếp topo",
+    "keywords": [
+      "DAG"
+    ],
+    "content": "Giải thích ngắn: Sắp xếp đỉnh của DAG sao cho mọi cạnh đi từ trước ra sau.\nĐịnh nghĩa quan trọng: Không tồn tại nếu đồ thị có chu trình.\nTừ khóa gợi ý: DAG"
+  },
+  {
+    "id": "computer_science__mst",
+    "category": "computer_science",
+    "topic": "mst",
+    "title": "Cây khung nhỏ nhất",
+    "keywords": [
+      "Kruskal",
+      "Prim"
+    ],
+    "content": "Giải thích ngắn: Kết nối tất cả đỉnh với tổng trọng số nhỏ nhất.\nĐịnh nghĩa quan trọng: Áp dụng cho đồ thị vô hướng liên thông có trọng số.\nTừ khóa gợi ý: Kruskal, Prim"
+  },
+  {
+    "id": "computer_science__bellman_ford",
+    "category": "computer_science",
+    "topic": "bellman_ford",
+    "title": "Bellman-Ford",
+    "keywords": [
+      "cạnh âm"
+    ],
+    "content": "Giải thích ngắn: Tìm đường đi ngắn nhất kể cả khi có cạnh âm nếu không có chu trình âm.\nĐịnh nghĩa quan trọng: Chậm hơn Dijkstra nhưng tổng quát hơn.\nTừ khóa gợi ý: cạnh âm"
+  },
+  {
+    "id": "computer_science__normal_forms",
+    "category": "computer_science",
+    "topic": "normal_forms",
+    "title": "Chuẩn 1NF/2NF/3NF",
+    "keywords": [
+      "database"
+    ],
+    "content": "Giải thích ngắn: Các mức chuẩn hóa giúp giảm dư thừa và bất nhất dữ liệu.\nĐịnh nghĩa quan trọng: 1NF loại bỏ nhóm lặp; 2NF loại phụ thuộc bộ phận; 3NF loại phụ thuộc bắc cầu.\nTừ khóa gợi ý: database"
+  },
+  {
+    "id": "computer_science__indexing",
+    "category": "computer_science",
+    "topic": "indexing",
+    "title": "Chỉ mục cơ sở dữ liệu",
+    "keywords": [
+      "B-tree"
+    ],
+    "content": "Giải thích ngắn: Chỉ mục tăng tốc truy vấn đọc nhưng có chi phí ghi và lưu trữ.\nĐịnh nghĩa quan trọng: Không phải truy vấn nào cũng được lợi như nhau từ index.\nTừ khóa gợi ý: B-tree"
+  },
+  {
+    "id": "computer_science__tcp_udp",
+    "category": "computer_science",
+    "topic": "tcp_udp",
+    "title": "TCP và UDP",
+    "keywords": [
+      "transport"
+    ],
+    "content": "Giải thích ngắn: TCP tin cậy, có kết nối; UDP nhẹ hơn nhưng không đảm bảo giao hàng.\nĐịnh nghĩa quan trọng: Chọn giao thức theo yêu cầu ứng dụng.\nTừ khóa gợi ý: transport"
+  },
+  {
+    "id": "computer_science__dns",
+    "category": "computer_science",
+    "topic": "dns",
+    "title": "DNS",
+    "keywords": [
+      "phân giải tên"
+    ],
+    "content": "Giải thích ngắn: Hệ thống phân giải tên miền thành địa chỉ IP.\nĐịnh nghĩa quan trọng: Có phân cấp và cơ chế cache rộng rãi.\nTừ khóa gợi ý: phân giải tên"
+  },
+  {
+    "id": "computer_science__http_status",
+    "category": "computer_science",
+    "topic": "http_status",
+    "title": "Mã trạng thái HTTP",
+    "keywords": [
+      "200",
+      "404",
+      "500"
+    ],
+    "content": "Giải thích ngắn: Mã trạng thái cho biết kết quả xử lý yêu cầu HTTP.\nĐịnh nghĩa quan trọng: 2xx thành công, 4xx lỗi phía client, 5xx lỗi phía server.\nTừ khóa gợi ý: 200, 404, 500"
+  },
+  {
+    "id": "computer_science__rest_basics",
+    "category": "computer_science",
+    "topic": "rest_basics",
+    "title": "REST cơ bản",
+    "keywords": [
+      "resource",
+      "stateless"
+    ],
+    "content": "Giải thích ngắn: Phong cách thiết kế API xoay quanh tài nguyên và giao tiếp stateless.\nĐịnh nghĩa quan trọng: URL thường đại diện tài nguyên, phương thức HTTP đại diện thao tác.\nTừ khóa gợi ý: resource, stateless"
+  },
+  {
+    "id": "computer_science__concurrency_parallelism",
+    "category": "computer_science",
+    "topic": "concurrency_parallelism",
+    "title": "Concurrency và Parallelism",
+    "keywords": [
+      "đa luồng"
+    ],
+    "content": "Giải thích ngắn: Concurrency là quản lý nhiều việc chồng lấp; parallelism là thực thi đồng thời thật sự.\nĐịnh nghĩa quan trọng: Hai khái niệm liên quan nhưng không đồng nhất.\nTừ khóa gợi ý: đa luồng"
+  },
+  {
+    "id": "computer_science__deadlock",
+    "category": "computer_science",
+    "topic": "deadlock",
+    "title": "Deadlock",
+    "keywords": [
+      "khóa"
+    ],
+    "content": "Giải thích ngắn: Tình trạng tiến trình chờ lẫn nhau vô hạn.\nĐịnh nghĩa quan trọng: Bốn điều kiện kinh điển gồm loại trừ tương hỗ, giữ và chờ, không tước đoạt, chờ vòng tròn.\nTừ khóa gợi ý: khóa"
+  },
+  {
+    "id": "computer_science__paging_virtual_memory",
+    "category": "computer_science",
+    "topic": "paging_virtual_memory",
+    "title": "Phân trang và bộ nhớ ảo",
+    "keywords": [
+      "page",
+      "frame"
+    ],
+    "content": "Giải thích ngắn: Cho phép chương trình dùng không gian địa chỉ lớn hơn RAM vật lý.\nĐịnh nghĩa quan trọng: Page fault xảy ra khi trang cần thiết chưa ở trong RAM.\nTừ khóa gợi ý: page, frame"
+  },
+  {
+    "id": "computer_science__compiler_interpreter",
+    "category": "computer_science",
+    "topic": "compiler_interpreter",
+    "title": "Compiler và Interpreter",
+    "keywords": [
+      "biên dịch",
+      "thông dịch"
+    ],
+    "content": "Giải thích ngắn: Compiler dịch trước, interpreter thực thi từng phần/trực tiếp hơn.\nĐịnh nghĩa quan trọng: Nhiều ngôn ngữ hiện đại kết hợp cả hai cách.\nTừ khóa gợi ý: biên dịch, thông dịch"
+  },
+  {
+    "id": "computer_science__oop_principles",
+    "category": "computer_science",
+    "topic": "oop_principles",
+    "title": "Nguyên lý OOP",
+    "keywords": [
+      "encapsulation",
+      "inheritance",
+      "polymorphism"
+    ],
+    "content": "Giải thích ngắn: Các khái niệm lõi gồm đóng gói, kế thừa, đa hình, trừu tượng.\nĐịnh nghĩa quan trọng: Dùng để tổ chức mã theo đối tượng và hành vi.\nTừ khóa gợi ý: encapsulation, inheritance, polymorphism"
+  },
+  {
+    "id": "computer_science__git_basics",
+    "category": "computer_science",
+    "topic": "git_basics",
+    "title": "Khái niệm Git cơ bản",
+    "keywords": [
+      "commit",
+      "branch",
+      "merge"
+    ],
+    "content": "Giải thích ngắn: Git quản lý lịch sử thay đổi của mã nguồn theo commit và branch.\nĐịnh nghĩa quan trọng: Commit ghi snapshot, branch cho phép phát triển song song.\nTừ khóa gợi ý: commit, branch, merge"
+  },
+  {
+    "id": "computer_science__testing_pyramid",
+    "category": "computer_science",
+    "topic": "testing_pyramid",
+    "title": "Testing pyramid",
+    "keywords": [
+      "unit",
+      "integration",
+      "e2e"
+    ],
+    "content": "Giải thích ngắn: Khuyến nghị nhiều unit test hơn integration và e2e để giữ tốc độ và ổn định.\nĐịnh nghĩa quan trọng: Tùy hệ thống mà tỉ lệ cụ thể có thể khác.\nTừ khóa gợi ý: unit, integration, e2e"
+  },
+  {
+    "id": "computer_science__ci_cd",
+    "category": "computer_science",
+    "topic": "ci_cd",
+    "title": "CI/CD",
+    "keywords": [
+      "automation"
+    ],
+    "content": "Giải thích ngắn: CI tự động kiểm tra tích hợp liên tục; CD tự động phát hành hoặc triển khai.\nĐịnh nghĩa quan trọng: Giúp giảm lỗi thủ công và tăng tốc vòng phản hồi.\nTừ khóa gợi ý: automation"
+  },
+  {
+    "id": "computer_science__container_basics",
+    "category": "computer_science",
+    "topic": "container_basics",
+    "title": "Container cơ bản",
+    "keywords": [
+      "docker"
+    ],
+    "content": "Giải thích ngắn: Container đóng gói ứng dụng cùng phụ thuộc ở mức nhẹ hơn máy ảo.\nĐịnh nghĩa quan trọng: Chung kernel host nhưng cô lập tiến trình và filesystem ở mức nhất định.\nTừ khóa gợi ý: docker"
   }
 ]

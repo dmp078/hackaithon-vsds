@@ -9,6 +9,7 @@ from app.models import Prediction, QuestionItem
 from app.strategies.models import StrategyResult
 from app.strategies.registry import build_strategy
 from app.strategies.risk_second_pass import RiskSecondPassStrategy
+from app.strategies.selective_elimination import SelectiveEliminationStrategy
 
 
 class _StubSolver:
@@ -24,9 +25,11 @@ class _StubSolver:
 def test_registry_builds_known_strategies() -> None:
     baseline = build_strategy("baseline")
     risk = build_strategy("risk_second_pass")
+    elimination = build_strategy("selective_elimination")
 
     assert baseline.name == "baseline"
     assert risk.name == "risk_second_pass"
+    assert elimination.name == "selective_elimination"
 
 
 def test_risk_second_pass_triggers_for_high_risk_question() -> None:
@@ -84,6 +87,117 @@ def test_risk_second_pass_skips_low_risk_question() -> None:
     assert result.total_llm_calls == 0
     assert result.triggered is False
     assert len(result.intermediate_predictions) == 1
+
+
+def test_selective_elimination_triggers_for_many_choice_question_and_maps_back_to_original_index() -> None:
+    baseline_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=7, provider="ollama", latency_ms=120.0, raw_response='{"selected_index": 7}')
+    )
+    elimination_provider = _StubSolver(
+        Prediction(
+            qid="q1",
+            selected_index=0,
+            provider="ollama",
+            latency_ms=80.0,
+            raw_response='{"candidate_indices": [2, 5, 7]}',
+        )
+    )
+    final_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=1, provider="ollama", latency_ms=100.0, raw_response='{"selected_index": 1}')
+    )
+    strategy = SelectiveEliminationStrategy(
+        baseline_solver=baseline_solver,
+        elimination_provider=elimination_provider,
+        final_solver=final_solver,
+        min_choice_count=8,
+    )
+    question = QuestionItem(
+        qid="q1",
+        question="Theo quy định nào là phương án đúng nhất trong danh sách sau?",
+        choices=[f"Phương án {index}" for index in range(10)],
+        category="law",
+    )
+
+    result = strategy.execute(question)
+
+    assert result.triggered is True
+    assert result.total_llm_calls == 3
+    assert result.final_prediction.selected_index == 5
+    assert result.metadata["candidate_indices"] == [2, 5, 7]
+    assert result.metadata["baseline_selected_index"] == 7
+    assert len(result.intermediate_predictions) == 3
+
+
+def test_selective_elimination_skips_low_risk_question_and_returns_baseline_answer() -> None:
+    baseline_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=1, provider="ollama", latency_ms=120.0, raw_response='{"selected_index": 1}')
+    )
+    elimination_provider = _StubSolver(
+        Prediction(
+            qid="q1",
+            selected_index=0,
+            provider="ollama",
+            latency_ms=80.0,
+            raw_response='{"candidate_indices": [0, 1]}',
+        )
+    )
+    final_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=0, provider="ollama", latency_ms=100.0, raw_response='{"selected_index": 0}')
+    )
+    strategy = SelectiveEliminationStrategy(
+        baseline_solver=baseline_solver,
+        elimination_provider=elimination_provider,
+        final_solver=final_solver,
+        min_choice_count=8,
+    )
+    question = QuestionItem(
+        qid="q1",
+        question="2 + 2 bằng bao nhiêu?",
+        choices=["1", "4", "6", "8"],
+        category="mathematics",
+    )
+
+    result = strategy.execute(question)
+
+    assert result.triggered is False
+    assert result.total_llm_calls == 1
+    assert result.final_prediction.selected_index == 1
+    assert len(result.intermediate_predictions) == 1
+
+
+def test_selective_elimination_does_not_misfire_on_dieu_hanh_phrase_in_technical_question() -> None:
+    baseline_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=3, provider="ollama", latency_ms=120.0, raw_response='{"selected_index": 3}')
+    )
+    elimination_provider = _StubSolver(
+        Prediction(
+            qid="q1",
+            selected_index=0,
+            provider="ollama",
+            latency_ms=80.0,
+            raw_response='{"candidate_indices": [0, 1, 2]}',
+        )
+    )
+    final_solver = _StubSolver(
+        Prediction(qid="q1", selected_index=0, provider="ollama", latency_ms=100.0, raw_response='{"selected_index": 0}')
+    )
+    strategy = SelectiveEliminationStrategy(
+        baseline_solver=baseline_solver,
+        elimination_provider=elimination_provider,
+        final_solver=final_solver,
+        min_choice_count=8,
+    )
+    question = QuestionItem(
+        qid="q1",
+        question="Trong hệ điều hành, cơ chế phân trang bộ nhớ hoạt động như thế nào?",
+        choices=[f"Phương án {index}" for index in range(10)],
+        category="computer_science",
+    )
+
+    result = strategy.execute(question)
+
+    assert result.triggered is False
+    assert result.final_prediction.selected_index == 3
 
 
 def test_public_strategy_summary_aggregates_strategy_metrics(tmp_path: Path) -> None:

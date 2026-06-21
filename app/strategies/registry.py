@@ -5,11 +5,13 @@ from typing import Any
 from app.strategies.base import InferenceStrategy
 from app.strategies.baseline import BaselineStrategy
 from app.strategies.risk_second_pass import RiskSecondPassStrategy
+from app.strategies.selective_elimination import SelectiveEliminationStrategy
 
 
 STRATEGY_REGISTRY: dict[str, type[InferenceStrategy]] = {
     BaselineStrategy.name: BaselineStrategy,
     RiskSecondPassStrategy.name: RiskSecondPassStrategy,
+    SelectiveEliminationStrategy.name: SelectiveEliminationStrategy,
 }
 
 
