@@ -15,4 +15,3 @@ def build(question: QuestionItem) -> tuple[str, str]:
         f"Các phương án:\n{choice_lines}"
     )
     return prompt, prompt
-

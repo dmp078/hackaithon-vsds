@@ -212,6 +212,59 @@ reports/comparison.md
 reports/comparison.json
 ```
 
+## Inference strategy lab
+
+The strategy lab benchmarks complete inference pipelines while keeping the rest of the production stack fixed.
+
+- `baseline` runs the current production pipeline unchanged.
+- `risk_second_pass` is a minimal proof-of-concept that can trigger one extra pass for static high-risk questions.
+- Every strategy owns its full workflow and returns structured execution metadata.
+
+Run the default baseline vs risk-second-pass comparison:
+
+```bash
+./.venv_bench/bin/python scripts/benchmark_strategies.py
+```
+
+Run one specific strategy:
+
+```bash
+./.venv_bench/bin/python scripts/benchmark_strategies.py \
+  --strategy baseline
+```
+
+Useful knobs for the proof-of-concept risk strategy:
+
+```bash
+./.venv_bench/bin/python scripts/benchmark_strategies.py \
+  --strategy risk_second_pass \
+  --risk-threshold 0.75 \
+  --second-pass-prompt-version compact \
+  --keep-policy second
+```
+
+Artifacts are written to:
+
+```text
+reports/strategy_lab/<strategy>/
+├── gold/
+│   ├── summary.json
+│   ├── predictions.jsonl
+│   ├── errors.jsonl
+│   ├── category_metrics.json
+│   ├── metadata.json
+│   └── report.md
+└── public/
+    ├── benchmark_summary.json
+    ├── debug_predictions.jsonl
+    ├── metadata.json
+    └── summary.json
+
+reports/strategy_lab/comparison.md
+reports/strategy_lab/comparison.json
+submissions/strategy_lab/<strategy>_submission.csv
+```
+
 ## Retrieval framework
 
 The retrieval layer is optional and disabled by default.
@@ -300,6 +353,29 @@ reports/retrieval_framework/
 ```
 
 Note: the current reranker module is intentionally optional. If a compatible local Qwen reranker is unavailable, the benchmark keeps the cosine-only retrieval result and records the reranker variant as unavailable.
+
+### Base model benchmark
+
+Compare the current Qwen production baseline against one Gemma candidate without changing prompts, heuristics, parser, retrieval mode, or evaluation logic:
+
+```bash
+.venv_bench/bin/python scripts/benchmark_models.py \
+  --reuse-baseline-artifacts \
+  --candidate-model gemma4:e4b
+```
+
+This writes:
+
+```text
+reports/model_benchmark/
+├── comparison.md
+├── comparison.json
+└── gemma4_e4b/
+    ├── gold/
+    └── public/
+```
+
+The Qwen baseline can be reused from the verified production artifacts so the experiment cost stays focused on the candidate model.
 
 ## Recommended optimization order
 
